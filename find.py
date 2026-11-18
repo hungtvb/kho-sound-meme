@@ -46,7 +46,7 @@ def load(kind: str) -> list:
 def search_fields(item: dict, kind: str) -> str:
     if kind == "sound":
         return " ".join([item.get("name", ""), item.get("slug", ""),
-                         item.get("viral_note", "")])
+                         item.get("viral_note", ""), " ".join(item.get("tags", []))])
     return " ".join([item.get("title_vi", ""), item.get("desc_vi", ""),
                      item.get("use_case", ""), item.get("viral_note", "")])
 
@@ -77,12 +77,23 @@ def fmt(item: dict, kind: str) -> str:
     return fmt_sound(item) if kind == "sound" else fmt_meme(item)
 
 
+def item_kind(item: dict) -> str:
+    """'original' or 'clip'; items from before 2026-11-18 have no field."""
+    return item.get("kind", "original")
+
+
 def apply_filters(items: list, kind: str, args) -> list:
     out = items
     if args.group:
         out = [i for i in out if i["group_slug"] == args.group]
     if args.viral:
         out = [i for i in out if is_viral(i, kind)]
+    if getattr(args, "kind_filter", None) and kind == "sound":
+        out = [i for i in out if item_kind(i) == args.kind_filter]
+    if getattr(args, "tag", None):
+        needle = norm(args.tag)
+        out = [i for i in out
+               if any(needle in norm(t) for t in i.get("tags_ascii", []) + i.get("tags", []))]
     if args.keyword:
         needle = norm(args.keyword)
         out = [i for i in out if needle in norm(search_fields(i, kind))]
@@ -98,9 +109,10 @@ def apply_filters(items: list, kind: str, args) -> list:
             out = [i for i in out if i["height"] > i["width"]]
         if args.square:
             out = [i for i in out if i["width"] == i["height"]]
-    # Viral first, then shortest (sounds) / biggest (memes).
+    # Viral first, then clips before originals, then shortest (sounds) / biggest (memes).
     if kind == "sound":
-        out.sort(key=lambda i: (not is_viral(i, kind), i["duration_s"]))
+        out.sort(key=lambda i: (not is_viral(i, kind), item_kind(i) != "clip",
+                                i["duration_s"]))
     else:
         out.sort(key=lambda i: (not is_viral(i, kind), -i["width"]))
     return out
@@ -175,9 +187,13 @@ def main(argv=None):
     add_common(p_sound)
     p_sound.add_argument("--min", type=float, help="thời lượng tối thiểu (giây)")
     p_sound.add_argument("--max", type=float, help="thời lượng tối đa (giây)")
+    p_sound.add_argument("--kind", dest="kind_filter", choices=["original", "clip"],
+                         help="chỉ lấy file gốc (original) hoặc đoạn cắt (clip)")
+    p_sound.add_argument("--tag", help="lọc theo tag, không dấu vẫn được, vd: --tag cuoi")
 
     p_meme = sub.add_parser("meme", help="tìm ảnh meme")
     add_common(p_meme)
+    p_meme.add_argument("--tag", help="lọc theo tag, không dấu vẫn được, vd: --tag meo")
     p_meme.add_argument("--min-width", type=int,
                         help="chiều rộng tối thiểu (pixel)")
     p_meme.add_argument("--portrait", action="store_true",
@@ -190,6 +206,8 @@ def main(argv=None):
     add_common(p_random)
     p_random.add_argument("--min", type=float)
     p_random.add_argument("--max", type=float)
+    p_random.add_argument("--kind", dest="kind_filter", choices=["original", "clip"])
+    p_random.add_argument("--tag")
     p_random.add_argument("--min-width", type=int)
     p_random.add_argument("--portrait", action="store_true")
     p_random.add_argument("--square", action="store_true")

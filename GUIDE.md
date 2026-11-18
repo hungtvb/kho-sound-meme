@@ -24,6 +24,13 @@ cd kho-sound-meme
 | Chọn ngẫu nhiên 1 meme 1 nhóm | `python3 find.py random meme --group reaction-chung` |
 | Xem nhiều kết quả hơn | Thêm `--limit 20` (mặc định 10) |
 | Lấy kết quả dạng JSON (cho agent/script) | Thêm `--json` |
+| Chỉ lấy đoạn cắt ngắn (clip), không lấy file gốc dài | `python3 find.py sound --kind clip cuoi` |
+| Chỉ lấy file gốc | `python3 find.py sound --kind original --viral` |
+| Lọc theo tag (không dấu được) | `python3 find.py sound --tag tieng-go` hoặc `python3 find.py meme --tag meo` |
+| Kiểm tra kho (file, số lượng, độ dài) | `python3 tools/validate.py` |
+
+Sound: kết quả mặc định xếp **viral trước, đoạn cắt (clip) trước file gốc**, rồi ngắn trước.
+Clip có tên `<tên-gốc>__cNN.mp3` và `kind: "clip"`; dùng clip làm punchline, không dùng file gốc > 30 giây làm punchline.
 
 Tìm kiếm **không phân biệt dấu**: gõ `cuoi`, `meo`, `thu hai` đều ra
 `cười`, `mèo`, `thứ Hai`.
@@ -51,8 +58,8 @@ Dùng đúng đường dẫn đó, đừng đoán tên file ngoài danh sách.
 
 ## Bộ lọc đầy đủ
 
-Sound: `--group <slug>`, `--viral`, `--min <giây>`, `--max <giây>`.
-Meme: `--group <slug>`, `--viral`, `--min-width <pixel>`, `--portrait`, `--square`.
+Sound: `--group <slug>`, `--viral`, `--min <giây>`, `--max <giây>`, `--kind original|clip`, `--tag <từ khóa>`.
+Meme: `--group <slug>`, `--viral`, `--min-width <pixel>`, `--portrait`, `--square`, `--tag <từ khóa>`.
 Chung: `--limit N`, `--json`.
 
 Kết quả xếp theo thứ tự: **viral trước**, rồi sound ngắn trước / meme rộng trước.
