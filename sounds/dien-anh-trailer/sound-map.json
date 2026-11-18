@@ -1,7 +1,7 @@
 {
   "group": "Điện ảnh/Trailer",
   "group_slug": "dien-anh-trailer",
-  "count": 35,
+  "count": 10,
   "items": [
     {
       "name": "Cinematic HIT sound effect",
@@ -13,1023 +13,115 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/cinematic-hit-sound-effect",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/cinematic-hit-sound-effect-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'sfx-le-tuan-khang-cinematic-tension-trailer' bi BO theo copyright-audit (c: Ten/file mang ten creator viral TikTok Le Tuan Khang; viral_note ghi 'Ten creator viral TikTok Le Tuan Khang'. Khong ro ); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
-      "kind": "original",
-      "tags": [
-        "hit",
-        "boom",
-        "đập",
-        "kịch tính",
-        "trailer",
-        "cái kết"
-      ],
-      "tags_ascii": [
-        "hit",
-        "boom",
-        "dap",
-        "kich tinh",
-        "trailer",
-        "cai ket"
-      ],
-      "use_case_vi": "Dùng để nhấn một cú đập hoặc punchline thật mạnh."
+      "audit": "REPLACEMENT 2026-11-18: thay 'sfx-le-tuan-khang-cinematic-tension-trailer' bi BO theo copyright-audit (c: Ten/file mang ten creator viral TikTok Le Tuan Khang; viral_note ghi 'Ten creator viral TikTok Le Tuan Khang'. Khong ro ); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
     },
     {
       "name": "Nhạc Trailer Kịch Tính",
       "slug": "nhac-trailer-kich-tinh",
       "file": "Nhac-trailer-kich-tinh-www_tiengdong_com.mp3",
-      "duration_s": 60.34,
-      "bytes": 2459793,
+      "duration_s": 7.95,
+      "bytes": 197609,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/nhac-trailer-kich-tinh",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-trailer-kich-tinh-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "nhạc nền"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "nhac nen"
-      ],
-      "use_case_vi": "Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim."
+      "audit": "SPLIT from 60.34s, segment 1/3 trimmed to 8.00s (loudest 8s window at 20.75s)"
     },
     {
       "name": "Âm thanh Nhịp Trống trong trailer phim",
       "slug": "am-thanh-nhip-trong-trong-trailer-phim",
       "file": "Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3",
-      "duration_s": 22.61,
-      "bytes": 577277,
+      "duration_s": 7.95,
+      "bytes": 146504,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-nhip-trong-trong-trailer-phim",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "trống",
-        "nhịp"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "trong",
-        "nhip"
-      ],
-      "use_case_vi": "Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim."
+      "audit": "SPLIT from 22.61s, segment 1/1 trimmed to 8.00s (loudest 8s window at 6.25s)"
     },
     {
       "name": "Âm thanh xuất hiện mở đầu của trailer phim",
       "slug": "am-thanh-xuat-hien-mo-dau-cua-trailer-phim",
       "file": "Am-thanh-xuat-hien-mo-dau-cua-trailer-phim-www_tiengdong_com.mp3",
-      "duration_s": 10.54,
-      "bytes": 458743,
+      "duration_s": 6.04,
+      "bytes": 110482,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-xuat-hien-mo-dau-cua-trailer-phim",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-xuat-hien-mo-dau-cua-trailer-phim-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "xuất hiện",
-        "ảo thuật"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "xuat hien",
-        "ao thuat"
-      ],
-      "use_case_vi": "Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim."
+      "audit": "SPLIT from 10.54s, segment 1/1, 6.04s"
     },
     {
       "name": "Hit/Boom/Impact/Thud (Movie Trailer Cinematic) sound effect",
       "slug": "hit-boom-impact-thud-movie-trailer-cinematic-sound-effect",
       "file": "hit-boom-impact-thud-movie-trailer-cinematic-sound-effect-www_tiengdong_com.mp3",
-      "duration_s": 9.71,
-      "bytes": 202395,
+      "duration_s": 7.21,
+      "bytes": 107483,
       "viral": true,
       "viral_note": "Trailer boom – dòng Vine Boom viral",
       "source_url": "https://tiengdong.com/hit-boom-impact-thud-movie-trailer-cinematic-sound-effect",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/hit-boom-impact-thud-movie-trailer-cinematic-sound-effect-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "hit",
-        "boom",
-        "đập",
-        "kịch tính",
-        "trailer",
-        "cái kết"
-      ],
-      "tags_ascii": [
-        "hit",
-        "boom",
-        "dap",
-        "kich tinh",
-        "trailer",
-        "cai ket"
-      ],
-      "use_case_vi": "Dùng để nhấn một cú đập hoặc punchline thật mạnh."
+      "audit": "SPLIT from 9.71s, segment 1/1, 7.21s"
     },
     {
       "name": "Nhạc nền phim Hành Động Đấu Súng căng thẳng",
       "slug": "nhac-nen-phim-hanh-dong-dau-sung-cang-thang",
       "file": "Nhac-nen-phim-hanh-dong-dau-sung-cang-thang-www_tiengdong_com.mp3",
-      "duration_s": 50.16,
-      "bytes": 1238293,
+      "duration_s": 7.95,
+      "bytes": 187178,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/nhac-nen-phim-hanh-dong-dau-sung-cang-thang",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-nen-phim-hanh-dong-dau-sung-cang-thang-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "nhạc nền"
-      ],
-      "tags_ascii": [
-        "nhac nen"
-      ],
-      "use_case_vi": "Dùng làm nhạc nền ngắn cho một cảnh."
+      "audit": "SPLIT from 50.16s, segment 1/1 trimmed to 8.00s (loudest 8s window at 4.00s)"
     },
     {
       "name": "Âm thanh Nguy hiểm, Hồi hộp trong phim",
       "slug": "am-thanh-nguy-hiem-hoi-hop-trong-phim",
       "file": "Am-thanh-nguy-hiem-hoi-hop-trong-phim-www_tiengdong_com.mp3",
-      "duration_s": 8.71,
-      "bytes": 385617,
+      "duration_s": 6.69,
+      "bytes": 147633,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-nguy-hiem-hoi-hop-trong-phim",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-nguy-hiem-hoi-hop-trong-phim-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "nguy hiểm",
-        "hồi hộp"
-      ],
-      "tags_ascii": [
-        "nguy hiem",
-        "hoi hop"
-      ],
-      "use_case_vi": "Dùng làm nền căng thẳng trước khi lộ chuyện."
+      "audit": "SPLIT from 8.71s, segment 1/1, 6.69s"
     },
     {
       "name": "Âm thanh cái kết xuất hiện Hồi hộp và Ly kỳ",
       "slug": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
       "file": "Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3",
-      "duration_s": 57.46,
-      "bytes": 1413439,
+      "duration_s": 7.95,
+      "bytes": 152943,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "nguy hiểm",
-        "hồi hộp",
-        "xuất hiện"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "nguy hiem",
-        "hoi hop",
-        "xuat hien"
-      ],
-      "use_case_vi": "Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim."
+      "audit": "SPLIT from 57.46s, segment 1/1 trimmed to 8.00s (loudest 8s window at 41.00s)"
     },
     {
       "name": "Hiệu ứng âm thanh Hoành tráng, Gây sốc",
       "slug": "am-thanh-hoanh-trang-gay-soc",
       "file": "Am-thanh-hoanh-trang-gay-soc-www_tiengdong_com.mp3",
-      "duration_s": 14.26,
-      "bytes": 600933,
+      "duration_s": 7.95,
+      "bytes": 182309,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-hoanh-trang-gay-soc",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-hoanh-trang-gay-soc-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "sốc",
-        "bất ngờ",
-        "gây sốc"
-      ],
-      "tags_ascii": [
-        "soc",
-        "bat ngo",
-        "gay soc"
-      ],
-      "use_case_vi": "Dùng khi nhân vật sốc hoặc nghe tin bất ngờ."
+      "audit": "SPLIT from 14.26s, segment 1/1 trimmed to 8.00s (loudest 8s window at 5.50s)"
     },
     {
       "name": "Tiếng Bom Nổ và tiếng Dây cháy chậm cháy",
       "slug": "tieng-bom-no-va-tieng-day-chay-cham-chay",
       "file": "tieng-bom-no-va-tieng-day-chay-cham-chay-www_tiengdong_com.mp3",
-      "duration_s": 41.29,
-      "bytes": 495313,
+      "duration_s": 4.29,
+      "bytes": 49545,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-bom-no-va-tieng-day-chay-cham-chay",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-bom-no-va-tieng-day-chay-cham-chay-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh"
-      ],
-      "use_case_vi": "Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài."
-    },
-    {
-      "name": "Nhạc Trailer Kịch Tính (nền lặp ~10 giây)",
-      "slug": "nhac-trailer-kich-tinh__c01",
-      "file": "nhac-trailer-kich-tinh__c01.mp3",
-      "duration_s": 10.0,
-      "bytes": 160957,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/nhac-trailer-kich-tinh",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-trailer-kich-tinh-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Nhac-trailer-kich-tinh-www_tiengdong_com.mp3, đoạn 19.35–29.35 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "nhac-trailer-kich-tinh",
-      "start_s": 19.35,
-      "end_s": 29.35,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "nhạc nền",
-        "nền lặp",
-        "vòng lặp"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "nhac nen",
-        "nen lap",
-        "vong lap"
-      ],
-      "use_case_vi": "Nền lặp khoảng 10 giây; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -3.0
-    },
-    {
-      "name": "Nhạc Trailer Kịch Tính (đoạn 02)",
-      "slug": "nhac-trailer-kich-tinh__c02",
-      "file": "nhac-trailer-kich-tinh__c02.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/nhac-trailer-kich-tinh",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-trailer-kich-tinh-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Nhac-trailer-kich-tinh-www_tiengdong_com.mp3, đoạn 24.85–28.85 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "nhac-trailer-kich-tinh",
-      "start_s": 24.85,
-      "end_s": 28.85,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "nhạc nền"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "nhac nen"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -2.6
-    },
-    {
-      "name": "Nhạc Trailer Kịch Tính (đoạn 03)",
-      "slug": "nhac-trailer-kich-tinh__c03",
-      "file": "nhac-trailer-kich-tinh__c03.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/nhac-trailer-kich-tinh",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-trailer-kich-tinh-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Nhac-trailer-kich-tinh-www_tiengdong_com.mp3, đoạn 38.45–42.45 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "nhac-trailer-kich-tinh",
-      "start_s": 38.45,
-      "end_s": 42.45,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "nhạc nền"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "nhac nen"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -2.9
-    },
-    {
-      "name": "Âm thanh Nhịp Trống trong trailer phim (đoạn 01)",
-      "slug": "am-thanh-nhip-trong-trong-trailer-phim__c01",
-      "file": "am-thanh-nhip-trong-trong-trailer-phim__c01.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-nhip-trong-trong-trailer-phim",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3, đoạn 3.35–7.35 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-nhip-trong-trong-trailer-phim",
-      "start_s": 3.35,
-      "end_s": 7.35,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "trống",
-        "nhịp"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "trong",
-        "nhip"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Âm thanh Nhịp Trống trong trailer phim (đoạn 02)",
-      "slug": "am-thanh-nhip-trong-trong-trailer-phim__c02",
-      "file": "am-thanh-nhip-trong-trong-trailer-phim__c02.mp3",
-      "duration_s": 1.99,
-      "bytes": 33061,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-nhip-trong-trong-trailer-phim",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3, đoạn 10.88–12.88 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-nhip-trong-trong-trailer-phim",
-      "start_s": 10.88,
-      "end_s": 12.87,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "trống",
-        "nhịp"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "trong",
-        "nhip"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Âm thanh Nhịp Trống trong trailer phim (đoạn 03)",
-      "slug": "am-thanh-nhip-trong-trong-trailer-phim__c03",
-      "file": "am-thanh-nhip-trong-trong-trailer-phim__c03.mp3",
-      "duration_s": 1.85,
-      "bytes": 30554,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-nhip-trong-trong-trailer-phim",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3, đoạn 13.18–15.03 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-nhip-trong-trong-trailer-phim",
-      "start_s": 13.18,
-      "end_s": 15.03,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "trống",
-        "nhịp"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "trong",
-        "nhip"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Âm thanh Nhịp Trống trong trailer phim (đoạn 04)",
-      "slug": "am-thanh-nhip-trong-trong-trailer-phim__c04",
-      "file": "am-thanh-nhip-trong-trong-trailer-phim__c04.mp3",
-      "duration_s": 2.35,
-      "bytes": 38495,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-nhip-trong-trong-trailer-phim",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3, đoạn 18.08–20.43 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-nhip-trong-trong-trailer-phim",
-      "start_s": 18.08,
-      "end_s": 20.43,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "trống",
-        "nhịp"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "trong",
-        "nhip"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Âm thanh xuất hiện mở đầu của trailer phim (đoạn 01)",
-      "slug": "am-thanh-xuat-hien-mo-dau-cua-trailer-phim__c01",
-      "file": "am-thanh-xuat-hien-mo-dau-cua-trailer-phim__c01.mp3",
-      "duration_s": 5.3,
-      "bytes": 85724,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-xuat-hien-mo-dau-cua-trailer-phim",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-xuat-hien-mo-dau-cua-trailer-phim-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-xuat-hien-mo-dau-cua-trailer-phim-www_tiengdong_com.mp3, đoạn 1.38–6.68 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-xuat-hien-mo-dau-cua-trailer-phim",
-      "start_s": 1.38,
-      "end_s": 6.68,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "xuất hiện",
-        "ảo thuật"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "xuat hien",
-        "ao thuat"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Âm thanh xuất hiện mở đầu của trailer phim (đoạn 02)",
-      "slug": "am-thanh-xuat-hien-mo-dau-cua-trailer-phim__c02",
-      "file": "am-thanh-xuat-hien-mo-dau-cua-trailer-phim__c02.mp3",
-      "duration_s": 3.0,
-      "bytes": 48944,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-xuat-hien-mo-dau-cua-trailer-phim",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-xuat-hien-mo-dau-cua-trailer-phim-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-xuat-hien-mo-dau-cua-trailer-phim-www_tiengdong_com.mp3, đoạn 3.6–6.6 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-xuat-hien-mo-dau-cua-trailer-phim",
-      "start_s": 3.6,
-      "end_s": 6.6,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "xuất hiện",
-        "ảo thuật"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "xuat hien",
-        "ao thuat"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Hit/Boom/Impact/Thud (Movie Trailer Cinematic) sound effect (đoạn 01)",
-      "slug": "hit-boom-impact-thud-movie-trailer-cinematic-sound-effect__c01",
-      "file": "hit-boom-impact-thud-movie-trailer-cinematic-sound-effect__c01.mp3",
-      "duration_s": 4.9,
-      "bytes": 79455,
-      "viral": true,
-      "viral_note": "Cắt từ bản gốc viral",
-      "source_url": "https://tiengdong.com/hit-boom-impact-thud-movie-trailer-cinematic-sound-effect",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/hit-boom-impact-thud-movie-trailer-cinematic-sound-effect-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ hit-boom-impact-thud-movie-trailer-cinematic-sound-effect-www_tiengdong_com.mp3, đoạn 0.03–4.98 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "hit-boom-impact-thud-movie-trailer-cinematic-sound-effect",
-      "start_s": 0.03,
-      "end_s": 4.93,
-      "tags": [
-        "hit",
-        "boom",
-        "đập",
-        "kịch tính",
-        "trailer",
-        "cái kết"
-      ],
-      "tags_ascii": [
-        "hit",
-        "boom",
-        "dap",
-        "kich tinh",
-        "trailer",
-        "cai ket"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng để nhấn một cú đập hoặc punchline thật mạnh.",
-      "loudness_peak_db": -3.3
-    },
-    {
-      "name": "Hit/Boom/Impact/Thud (Movie Trailer Cinematic) sound effect (đoạn 02)",
-      "slug": "hit-boom-impact-thud-movie-trailer-cinematic-sound-effect__c02",
-      "file": "hit-boom-impact-thud-movie-trailer-cinematic-sound-effect__c02.mp3",
-      "duration_s": 3.0,
-      "bytes": 48944,
-      "viral": true,
-      "viral_note": "Cắt từ bản gốc viral",
-      "source_url": "https://tiengdong.com/hit-boom-impact-thud-movie-trailer-cinematic-sound-effect",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/hit-boom-impact-thud-movie-trailer-cinematic-sound-effect-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ hit-boom-impact-thud-movie-trailer-cinematic-sound-effect-www_tiengdong_com.mp3, đoạn 1.9–4.9 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "hit-boom-impact-thud-movie-trailer-cinematic-sound-effect",
-      "start_s": 1.9,
-      "end_s": 4.9,
-      "tags": [
-        "hit",
-        "boom",
-        "đập",
-        "kịch tính",
-        "trailer",
-        "cái kết"
-      ],
-      "tags_ascii": [
-        "hit",
-        "boom",
-        "dap",
-        "kich tinh",
-        "trailer",
-        "cai ket"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng để nhấn một cú đập hoặc punchline thật mạnh.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Nhạc nền phim Hành Động Đấu Súng căng thẳng (nền lặp ~10 giây)",
-      "slug": "nhac-nen-phim-hanh-dong-dau-sung-cang-thang__c01",
-      "file": "nhac-nen-phim-hanh-dong-dau-sung-cang-thang__c01.mp3",
-      "duration_s": 10.0,
-      "bytes": 160957,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/nhac-nen-phim-hanh-dong-dau-sung-cang-thang",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-nen-phim-hanh-dong-dau-sung-cang-thang-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Nhac-nen-phim-hanh-dong-dau-sung-cang-thang-www_tiengdong_com.mp3, đoạn 21.6–31.6 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "nhac-nen-phim-hanh-dong-dau-sung-cang-thang",
-      "start_s": 21.6,
-      "end_s": 31.6,
-      "tags": [
-        "nhạc nền",
-        "nền lặp",
-        "vòng lặp"
-      ],
-      "tags_ascii": [
-        "nhac nen",
-        "nen lap",
-        "vong lap"
-      ],
-      "use_case_vi": "Nền lặp khoảng 10 giây; Dùng làm nhạc nền ngắn cho một cảnh.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Nhạc nền phim Hành Động Đấu Súng căng thẳng (đoạn 02)",
-      "slug": "nhac-nen-phim-hanh-dong-dau-sung-cang-thang__c02",
-      "file": "nhac-nen-phim-hanh-dong-dau-sung-cang-thang__c02.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/nhac-nen-phim-hanh-dong-dau-sung-cang-thang",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-nen-phim-hanh-dong-dau-sung-cang-thang-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Nhac-nen-phim-hanh-dong-dau-sung-cang-thang-www_tiengdong_com.mp3, đoạn 22.1–26.1 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "nhac-nen-phim-hanh-dong-dau-sung-cang-thang",
-      "start_s": 22.1,
-      "end_s": 26.1,
-      "tags": [
-        "nhạc nền"
-      ],
-      "tags_ascii": [
-        "nhac nen"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nhạc nền ngắn cho một cảnh.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Âm thanh Nguy hiểm, Hồi hộp trong phim (đoạn 01)",
-      "slug": "am-thanh-nguy-hiem-hoi-hop-trong-phim__c01",
-      "file": "am-thanh-nguy-hiem-hoi-hop-trong-phim__c01.mp3",
-      "duration_s": 5.7,
-      "bytes": 92412,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-nguy-hiem-hoi-hop-trong-phim",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-nguy-hiem-hoi-hop-trong-phim-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-nguy-hiem-hoi-hop-trong-phim-www_tiengdong_com.mp3, đoạn 0.23–5.93 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-nguy-hiem-hoi-hop-trong-phim",
-      "start_s": 0.23,
-      "end_s": 5.93,
-      "tags": [
-        "nguy hiểm",
-        "hồi hộp"
-      ],
-      "tags_ascii": [
-        "nguy hiem",
-        "hoi hop"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền căng thẳng trước khi lộ chuyện.",
-      "loudness_peak_db": -3.0
-    },
-    {
-      "name": "Âm thanh Nguy hiểm, Hồi hộp trong phim (đoạn 02)",
-      "slug": "am-thanh-nguy-hiem-hoi-hop-trong-phim__c02",
-      "file": "am-thanh-nguy-hiem-hoi-hop-trong-phim__c02.mp3",
-      "duration_s": 3.0,
-      "bytes": 48944,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-nguy-hiem-hoi-hop-trong-phim",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-nguy-hiem-hoi-hop-trong-phim-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-nguy-hiem-hoi-hop-trong-phim-www_tiengdong_com.mp3, đoạn 2.85–5.85 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-nguy-hiem-hoi-hop-trong-phim",
-      "start_s": 2.85,
-      "end_s": 5.85,
-      "tags": [
-        "nguy hiểm",
-        "hồi hộp"
-      ],
-      "tags_ascii": [
-        "nguy hiem",
-        "hoi hop"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền căng thẳng trước khi lộ chuyện.",
-      "loudness_peak_db": -3.3
-    },
-    {
-      "name": "Âm thanh cái kết xuất hiện Hồi hộp và Ly kỳ (đoạn 01)",
-      "slug": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky__c01",
-      "file": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky__c01.mp3",
-      "duration_s": 3.15,
-      "bytes": 51500,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3, đoạn 24.28–27.43 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
-      "start_s": 24.28,
-      "end_s": 27.43,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "nguy hiểm",
-        "hồi hộp",
-        "xuất hiện"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "nguy hiem",
-        "hoi hop",
-        "xuat hien"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Âm thanh cái kết xuất hiện Hồi hộp và Ly kỳ (đoạn 02)",
-      "slug": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky__c02",
-      "file": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky__c02.mp3",
-      "duration_s": 3.2,
-      "bytes": 52268,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3, đoạn 29.48–32.68 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
-      "start_s": 29.48,
-      "end_s": 32.68,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "nguy hiểm",
-        "hồi hộp",
-        "xuất hiện"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "nguy hiem",
-        "hoi hop",
-        "xuat hien"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Âm thanh cái kết xuất hiện Hồi hộp và Ly kỳ (đoạn 03)",
-      "slug": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky__c03",
-      "file": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky__c03.mp3",
-      "duration_s": 3.15,
-      "bytes": 51500,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3, đoạn 34.73–37.88 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
-      "start_s": 34.73,
-      "end_s": 37.88,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "nguy hiểm",
-        "hồi hộp",
-        "xuất hiện"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "nguy hiem",
-        "hoi hop",
-        "xuat hien"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -3.3
-    },
-    {
-      "name": "Âm thanh cái kết xuất hiện Hồi hộp và Ly kỳ (đoạn 04)",
-      "slug": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky__c04",
-      "file": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky__c04.mp3",
-      "duration_s": 4.0,
-      "bytes": 64940,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3, đoạn 42.0–46.0 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
-      "start_s": 42.0,
-      "end_s": 46.0,
-      "tags": [
-        "trailer",
-        "cái kết",
-        "điện ảnh",
-        "nguy hiểm",
-        "hồi hộp",
-        "xuất hiện"
-      ],
-      "tags_ascii": [
-        "trailer",
-        "cai ket",
-        "dien anh",
-        "nguy hiem",
-        "hoi hop",
-        "xuat hien"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi mở đầu hoặc hé lộ cái kết như trailer phim.",
-      "loudness_peak_db": -3.3
-    },
-    {
-      "name": "Hiệu ứng âm thanh Hoành tráng, Gây sốc (đoạn 01)",
-      "slug": "am-thanh-hoanh-trang-gay-soc__c01",
-      "file": "am-thanh-hoanh-trang-gay-soc__c01.mp3",
-      "duration_s": 1.8,
-      "bytes": 29612,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-hoanh-trang-gay-soc",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-hoanh-trang-gay-soc-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-hoanh-trang-gay-soc-www_tiengdong_com.mp3, đoạn 0.63–2.43 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-hoanh-trang-gay-soc",
-      "start_s": 0.63,
-      "end_s": 2.43,
-      "tags": [
-        "sốc",
-        "bất ngờ",
-        "gây sốc"
-      ],
-      "tags_ascii": [
-        "soc",
-        "bat ngo",
-        "gay soc"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhân vật sốc hoặc nghe tin bất ngờ.",
-      "loudness_peak_db": -3.6
-    },
-    {
-      "name": "Hiệu ứng âm thanh Hoành tráng, Gây sốc (đoạn 02)",
-      "slug": "am-thanh-hoanh-trang-gay-soc__c02",
-      "file": "am-thanh-hoanh-trang-gay-soc__c02.mp3",
-      "duration_s": 1.35,
-      "bytes": 22700,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-hoanh-trang-gay-soc",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-hoanh-trang-gay-soc-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-hoanh-trang-gay-soc-www_tiengdong_com.mp3, đoạn 4.38–5.73 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-hoanh-trang-gay-soc",
-      "start_s": 4.38,
-      "end_s": 5.73,
-      "tags": [
-        "sốc",
-        "bất ngờ",
-        "gây sốc"
-      ],
-      "tags_ascii": [
-        "soc",
-        "bat ngo",
-        "gay soc"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhân vật sốc hoặc nghe tin bất ngờ.",
-      "loudness_peak_db": -3.2
-    },
-    {
-      "name": "Hiệu ứng âm thanh Hoành tráng, Gây sốc (đoạn 03)",
-      "slug": "am-thanh-hoanh-trang-gay-soc__c03",
-      "file": "am-thanh-hoanh-trang-gay-soc__c03.mp3",
-      "duration_s": 5.7,
-      "bytes": 92204,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-hoanh-trang-gay-soc",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-hoanh-trang-gay-soc-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-hoanh-trang-gay-soc-www_tiengdong_com.mp3, đoạn 7.98–13.68 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-hoanh-trang-gay-soc",
-      "start_s": 7.98,
-      "end_s": 13.68,
-      "tags": [
-        "sốc",
-        "bất ngờ",
-        "gây sốc"
-      ],
-      "tags_ascii": [
-        "soc",
-        "bat ngo",
-        "gay soc"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhân vật sốc hoặc nghe tin bất ngờ.",
-      "loudness_peak_db": -3.2
-    },
-    {
-      "name": "Tiếng Bom Nổ và tiếng Dây cháy chậm cháy (đoạn 01)",
-      "slug": "tieng-bom-no-va-tieng-day-chay-cham-chay__c01",
-      "file": "tieng-bom-no-va-tieng-day-chay-cham-chay__c01.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-bom-no-va-tieng-day-chay-cham-chay",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-bom-no-va-tieng-day-chay-cham-chay-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-bom-no-va-tieng-day-chay-cham-chay-www_tiengdong_com.mp3, đoạn 3.15–7.15 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-bom-no-va-tieng-day-chay-cham-chay",
-      "start_s": 3.15,
-      "end_s": 7.15,
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng Bom Nổ và tiếng Dây cháy chậm cháy (đoạn 02)",
-      "slug": "tieng-bom-no-va-tieng-day-chay-cham-chay__c02",
-      "file": "tieng-bom-no-va-tieng-day-chay-cham-chay__c02.mp3",
-      "duration_s": 0.3,
-      "bytes": 5894,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-bom-no-va-tieng-day-chay-cham-chay",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-bom-no-va-tieng-day-chay-cham-chay-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-bom-no-va-tieng-day-chay-cham-chay-www_tiengdong_com.mp3, đoạn 27.7–28.0 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-bom-no-va-tieng-day-chay-cham-chay",
-      "start_s": 27.7,
-      "end_s": 28.0,
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Bom Nổ và tiếng Dây cháy chậm cháy (đoạn 03)",
-      "slug": "tieng-bom-no-va-tieng-day-chay-cham-chay__c03",
-      "file": "tieng-bom-no-va-tieng-day-chay-cham-chay__c03.mp3",
-      "duration_s": 4.01,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-bom-no-va-tieng-day-chay-cham-chay",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-bom-no-va-tieng-day-chay-cham-chay-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-bom-no-va-tieng-day-chay-cham-chay-www_tiengdong_com.mp3, đoạn 32.78–36.83 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-bom-no-va-tieng-day-chay-cham-chay",
-      "start_s": 32.78,
-      "end_s": 36.79,
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài.",
-      "loudness_peak_db": -3.4
+      "audit": "SPLIT from 41.29s, segment 4/4, 4.29s"
     }
   ]
 }

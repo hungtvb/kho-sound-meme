@@ -1,85 +1,43 @@
 {
   "group": "Gia đình/Thành phố/Đời sống",
   "group_slug": "gia-dinh-doi-song",
-  "count": 36,
+  "count": 15,
   "items": [
     {
       "name": "Tiếng xe Ô tô chạy qua lại trên đường",
       "slug": "tieng-xe-o-to-chay-qua-lai-tren-duong",
       "file": "Tieng-xe-o-to-chay-qua-lai-tren-duong-www_tiengdong_com.mp3",
-      "duration_s": 13.44,
-      "bytes": 369045,
+      "duration_s": 7.95,
+      "bytes": 101052,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-xe-o-to-chay-qua-lai-tren-duong",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-xe-o-to-chay-qua-lai-tren-duong-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính",
-        "xe cộ",
-        "đường phố"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh",
-        "xe co",
-        "duong pho"
-      ],
-      "use_case_vi": "Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài."
+      "audit": "SPLIT from 13.44s, segment 1/1 trimmed to 8.00s (loudest 8s window at 4.50s)"
     },
     {
       "name": "Tiếng Xe Tải chạy qua lại ở đường phố",
       "slug": "tieng-xe-tai-chay-qua-lai-o-duong-pho",
       "file": "Tieng-xe-tai-chay-qua-lai-o-duong-pho-www_tiengdong_com.mp3",
-      "duration_s": 24.48,
-      "bytes": 1015653,
+      "duration_s": 7.95,
+      "bytes": 180450,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-xe-tai-chay-qua-lai-o-duong-pho",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-xe-tai-chay-qua-lai-o-duong-pho-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính",
-        "xe cộ",
-        "đường phố"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh",
-        "xe co",
-        "duong pho"
-      ],
-      "use_case_vi": "Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài."
+      "audit": "SPLIT from 24.48s, segment 1/1 trimmed to 8.00s (loudest 8s window at 1.00s)"
     },
     {
       "name": "Tiếng Xe cộ qua lại trên đường Cao tốc",
       "slug": "tieng-xe-co-qua-lai-tren-duong-cao-toc",
       "file": "Tieng-xe-co-qua-lai-tren-duong-cao-toc-www_tiengdong_com.mp3",
-      "duration_s": 13.44,
-      "bytes": 357055,
+      "duration_s": 7.95,
+      "bytes": 100976,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-xe-co-qua-lai-tren-duong-cao-toc",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-xe-co-qua-lai-tren-duong-cao-toc-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "xe cộ",
-        "đường phố"
-      ],
-      "tags_ascii": [
-        "xe co",
-        "duong pho"
-      ],
-      "use_case_vi": "Dùng làm nền đường phố, cảnh ra ngoài đường hoặc đi làm."
+      "audit": "SPLIT from 13.44s, segment 1/1 trimmed to 8.00s (loudest 8s window at 4.50s)"
     },
     {
       "name": "Tiếng xe Buýt chạy trên đường",
@@ -91,23 +49,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-xe-buyt-chay-tren-duong",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-xe-buyt-chay-tren-duong-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính",
-        "xe cộ",
-        "đường phố"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh",
-        "xe co",
-        "duong pho"
-      ],
-      "use_case_vi": "Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài."
+      "audit": "ok (wp-audio-shortcode)"
     },
     {
       "name": "Tiếng xe Ô tô tăng tốc",
@@ -119,92 +61,43 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-xe-o-to-tang-toc",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-xe-o-to-tang-toc-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "xe cộ",
-        "đường phố"
-      ],
-      "tags_ascii": [
-        "xe co",
-        "duong pho"
-      ],
-      "use_case_vi": "Dùng làm nền đường phố, cảnh ra ngoài đường hoặc đi làm."
+      "audit": "ok (wp-audio-shortcode)"
     },
     {
       "name": "Âm thanh môi trường, tiếng Ồn ào ở chợ Việt Nam",
       "slug": "am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam",
       "file": "am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam-www_tiengdong_com.mp3",
-      "duration_s": 144.52,
-      "bytes": 2228785,
+      "duration_s": 7.95,
+      "bytes": 167982,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "chợ",
-        "ồn ào",
-        "bàn tán",
-        "văn phòng",
-        "mèo",
-        "chó"
-      ],
-      "tags_ascii": [
-        "cho",
-        "on ao",
-        "ban tan",
-        "van phong",
-        "meo"
-      ],
-      "use_case_vi": "Dùng làm nền ồn ào như chợ, cảnh đông người."
+      "audit": "SPLIT from 144.52s, segment 1/1 trimmed to 8.00s (loudest 8s window at 0.50s)"
     },
     {
       "name": "Tiếng Nấu ăn và Mở nắp",
       "slug": "tieng-nau-an-va-mo-nap",
       "file": "Tieng-nau-va-mo-nap-www_tiengdong_com.mp3",
-      "duration_s": 14.86,
-      "bytes": 332116,
+      "duration_s": 7.95,
+      "bytes": 269960,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-nau-an-va-mo-nap",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-nau-va-mo-nap-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "nấu ăn",
-        "bếp"
-      ],
-      "tags_ascii": [
-        "nau an",
-        "bep"
-      ],
-      "use_case_vi": "Dùng cho cảnh bếp, ăn trưa công ty hoặc nấu ăn."
+      "audit": "SPLIT from 14.86s, segment 1/1 trimmed to 8.00s (loudest 8s window at 3.75s)"
     },
     {
       "name": "Âm thanh tiếng nấu ăn trong bếp",
       "slug": "tieng-nau-an-trong-bep",
       "file": "Tieng-nau-an-trong-bep-www_tiengdong_com.mp3",
-      "duration_s": 88.01,
-      "bytes": 1443122,
+      "duration_s": 7.95,
+      "bytes": 178129,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-nau-an-trong-bep",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-nau-an-trong-bep-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "nấu ăn",
-        "bếp"
-      ],
-      "tags_ascii": [
-        "nau an",
-        "bep"
-      ],
-      "use_case_vi": "Dùng cho cảnh bếp, ăn trưa công ty hoặc nấu ăn."
+      "audit": "SPLIT from 88.01s, segment 1/2 trimmed to 8.00s (loudest 8s window at 31.00s)"
     },
     {
       "name": "Tiếng trẻ em Cười đùa và Chạy",
@@ -216,23 +109,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-tre-em-cuoi-dua-va-chay",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-tre-em-cuoi-dua-va-chay-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính",
-        "tiếng cười",
-        "reaction"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh",
-        "tieng cuoi",
-        "reaction"
-      ],
-      "use_case_vi": "Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài."
+      "audit": "ok (wp-audio-shortcode)"
     },
     {
       "name": "Âm thanh tiếng Cười trẻ em",
@@ -244,42 +121,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-cuoi-tre-em",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-cuoi-tre-em-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "tiếng cười",
-        "reaction"
-      ],
-      "tags_ascii": [
-        "tieng cuoi",
-        "reaction"
-      ],
-      "use_case_vi": "Dùng chêm sau câu đùa hoặc làm phản ứng vui của nhân vật."
+      "audit": "ok (wp-audio-shortcode)"
     },
     {
       "name": "Tiếng Trẻ em Khóc nhè đòi thứ gì đó",
       "slug": "tieng-tre-em-khoc-nhe-doi-thu-gi-do",
       "file": "Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3",
-      "duration_s": 64.55,
-      "bytes": 1067272,
+      "duration_s": 6.05,
+      "bytes": 90311,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-tre-em-khoc-nhe-doi-thu-gi-do",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "khóc",
-        "buồn",
-        "trẻ con"
-      ],
-      "tags_ascii": [
-        "khoc",
-        "buon",
-        "tre con"
-      ],
-      "use_case_vi": "Dùng cho cảnh khóc nhè, than thở vì deadline."
+      "audit": "SPLIT from 64.55s, segment 2/6, 6.05s"
     },
     {
       "name": "Tiếng nhiều người nói Happy Birthday",
@@ -291,19 +145,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-nhieu-nguoi-noi-happy-birthday",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-nhieu-nguoi-noi-happy-birthday-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "nhieu",
-        "nguoi",
-        "happy"
-      ],
-      "tags_ascii": [
-        "nhieu",
-        "nguoi",
-        "happy"
-      ],
-      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Gia đình/Thành phố/Đời sống; chọn theo nội dung tên file."
+      "audit": "ok (wp-audio-shortcode)"
     },
     {
       "name": "Tiếng thổi kèn Party horn trong tiệc sinh nhật",
@@ -315,41 +157,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-thoi-ken-party-horn-trong-tiec-sinh-nhat",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-thoi-ken-party-horn-trong-tiec-sinh-nhat-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "thoi",
-        "party",
-        "horn"
-      ],
-      "tags_ascii": [
-        "thoi",
-        "party",
-        "horn"
-      ],
-      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Gia đình/Thành phố/Đời sống; chọn theo nội dung tên file."
+      "audit": "ok (wp-audio-shortcode)"
     },
     {
       "name": "Tiếng Bước Chân đi lên Cầu Thang",
       "slug": "tieng-buoc-chan-di-len-cau-thang",
       "file": "Tieng-buoc-chan-di-len-cau-thang-www_tiengdong_com.mp3",
-      "duration_s": 11.84,
-      "bytes": 318699,
+      "duration_s": 6.94,
+      "bytes": 82049,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-buoc-chan-di-len-cau-thang",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-buoc-chan-di-len-cau-thang-www_tiengdong_com.mp3",
-      "audit": "FIXED (wp-audio-shortcode): replaced wrong sidebar mp3 tieng-buoc-chan-di-tren-dat-bun-lay-nen-dat-am-uot-sample-2-www_tiengdong_com.mp3 with page main player mp3",
-      "kind": "original",
-      "tags": [
-        "bước chân",
-        "đi lại"
-      ],
-      "tags_ascii": [
-        "buoc chan",
-        "di lai"
-      ],
-      "use_case_vi": "Dùng khi nhân vật đi qua văn phòng hoặc đi lên cầu thang."
+      "audit": "SPLIT from 11.84s, segment 2/3, 6.94s"
     },
     {
       "name": "Âm thanh tiếng Chuông Cửa",
@@ -361,613 +181,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-chuong-cua",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chuong-cua-www-tiengdong_com.mp3",
-      "audit": "FIXED (wp-audio-shortcode): replaced wrong sidebar mp3 Tong-hop-cac-tieng-chuong-cua-hay-nhat-www_tiengdong_com.mp3 with page main player mp3",
-      "kind": "original",
-      "tags": [
-        "chuong"
-      ],
-      "tags_ascii": [
-        "chuong"
-      ],
-      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Gia đình/Thành phố/Đời sống; chọn theo nội dung tên file."
-    },
-    {
-      "name": "Tiếng xe Ô tô chạy qua lại trên đường (đoạn 01)",
-      "slug": "tieng-xe-o-to-chay-qua-lai-tren-duong__c01",
-      "file": "tieng-xe-o-to-chay-qua-lai-tren-duong__c01.mp3",
-      "duration_s": 3.05,
-      "bytes": 49964,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-xe-o-to-chay-qua-lai-tren-duong",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-xe-o-to-chay-qua-lai-tren-duong-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-xe-o-to-chay-qua-lai-tren-duong-www_tiengdong_com.mp3, đoạn 4.43–7.48 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-xe-o-to-chay-qua-lai-tren-duong",
-      "start_s": 4.43,
-      "end_s": 7.48,
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính",
-        "xe cộ",
-        "đường phố"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh",
-        "xe co",
-        "duong pho"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng xe Ô tô chạy qua lại trên đường (đoạn 02)",
-      "slug": "tieng-xe-o-to-chay-qua-lai-tren-duong__c02",
-      "file": "tieng-xe-o-to-chay-qua-lai-tren-duong__c02.mp3",
-      "duration_s": 1.8,
-      "bytes": 29612,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-xe-o-to-chay-qua-lai-tren-duong",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-xe-o-to-chay-qua-lai-tren-duong-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-xe-o-to-chay-qua-lai-tren-duong-www_tiengdong_com.mp3, đoạn 10.18–11.98 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-xe-o-to-chay-qua-lai-tren-duong",
-      "start_s": 10.18,
-      "end_s": 11.98,
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính",
-        "xe cộ",
-        "đường phố"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh",
-        "xe co",
-        "duong pho"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng Xe Tải chạy qua lại ở đường phố (đoạn 01)",
-      "slug": "tieng-xe-tai-chay-qua-lai-o-duong-pho__c01",
-      "file": "tieng-xe-tai-chay-qua-lai-o-duong-pho__c01.mp3",
-      "duration_s": 2.4,
-      "bytes": 39331,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-xe-tai-chay-qua-lai-o-duong-pho",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-xe-tai-chay-qua-lai-o-duong-pho-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-xe-tai-chay-qua-lai-o-duong-pho-www_tiengdong_com.mp3, đoạn 3.03–5.43 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-xe-tai-chay-qua-lai-o-duong-pho",
-      "start_s": 3.03,
-      "end_s": 5.43,
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính",
-        "xe cộ",
-        "đường phố"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh",
-        "xe co",
-        "duong pho"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài.",
-      "loudness_peak_db": -3.2
-    },
-    {
-      "name": "Tiếng Xe Tải chạy qua lại ở đường phố (đoạn 02)",
-      "slug": "tieng-xe-tai-chay-qua-lai-o-duong-pho__c02",
-      "file": "tieng-xe-tai-chay-qua-lai-o-duong-pho__c02.mp3",
-      "duration_s": 2.7,
-      "bytes": 44346,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-xe-tai-chay-qua-lai-o-duong-pho",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-xe-tai-chay-qua-lai-o-duong-pho-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-xe-tai-chay-qua-lai-o-duong-pho-www_tiengdong_com.mp3, đoạn 19.08–21.78 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-xe-tai-chay-qua-lai-o-duong-pho",
-      "start_s": 19.08,
-      "end_s": 21.78,
-      "tags": [
-        "nổ",
-        "cháy",
-        "kịch tính",
-        "xe cộ",
-        "đường phố"
-      ],
-      "tags_ascii": [
-        "no",
-        "chay",
-        "kich tinh",
-        "xe co",
-        "duong pho"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho chuyện to tát, deadline cháy hoặc hiệu ứng nổ hài.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng Xe cộ qua lại trên đường Cao tốc (đoạn 01)",
-      "slug": "tieng-xe-co-qua-lai-tren-duong-cao-toc__c01",
-      "file": "tieng-xe-co-qua-lai-tren-duong-cao-toc__c01.mp3",
-      "duration_s": 3.05,
-      "bytes": 49964,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-xe-co-qua-lai-tren-duong-cao-toc",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-xe-co-qua-lai-tren-duong-cao-toc-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-xe-co-qua-lai-tren-duong-cao-toc-www_tiengdong_com.mp3, đoạn 4.43–7.48 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-xe-co-qua-lai-tren-duong-cao-toc",
-      "start_s": 4.43,
-      "end_s": 7.48,
-      "tags": [
-        "xe cộ",
-        "đường phố"
-      ],
-      "tags_ascii": [
-        "xe co",
-        "duong pho"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền đường phố, cảnh ra ngoài đường hoặc đi làm.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Xe cộ qua lại trên đường Cao tốc (đoạn 02)",
-      "slug": "tieng-xe-co-qua-lai-tren-duong-cao-toc__c02",
-      "file": "tieng-xe-co-qua-lai-tren-duong-cao-toc__c02.mp3",
-      "duration_s": 1.8,
-      "bytes": 29612,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-xe-co-qua-lai-tren-duong-cao-toc",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-xe-co-qua-lai-tren-duong-cao-toc-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-xe-co-qua-lai-tren-duong-cao-toc-www_tiengdong_com.mp3, đoạn 10.18–11.98 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-xe-co-qua-lai-tren-duong-cao-toc",
-      "start_s": 10.18,
-      "end_s": 11.98,
-      "tags": [
-        "xe cộ",
-        "đường phố"
-      ],
-      "tags_ascii": [
-        "xe co",
-        "duong pho"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền đường phố, cảnh ra ngoài đường hoặc đi làm.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Âm thanh môi trường, tiếng Ồn ào ở chợ Việt Nam (đoạn 01)",
-      "slug": "am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam__c01",
-      "file": "am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam__c01.mp3",
-      "duration_s": 0.85,
-      "bytes": 14671,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam-www_tiengdong_com.mp3, đoạn 5.33–6.18 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam",
-      "start_s": 5.33,
-      "end_s": 6.18,
-      "tags": [
-        "chợ",
-        "ồn ào",
-        "bàn tán",
-        "văn phòng",
-        "mèo",
-        "chó"
-      ],
-      "tags_ascii": [
-        "cho",
-        "on ao",
-        "ban tan",
-        "van phong",
-        "meo"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền ồn ào như chợ, cảnh đông người.",
-      "loudness_peak_db": -3.3
-    },
-    {
-      "name": "Âm thanh môi trường, tiếng Ồn ào ở chợ Việt Nam (đoạn 02)",
-      "slug": "am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam__c02",
-      "file": "am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam__c02.mp3",
-      "duration_s": 1.0,
-      "bytes": 17179,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam-www_tiengdong_com.mp3, đoạn 48.38–49.38 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam",
-      "start_s": 48.38,
-      "end_s": 49.38,
-      "tags": [
-        "chợ",
-        "ồn ào",
-        "bàn tán",
-        "văn phòng",
-        "mèo",
-        "chó"
-      ],
-      "tags_ascii": [
-        "cho",
-        "on ao",
-        "ban tan",
-        "van phong",
-        "meo"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền ồn ào như chợ, cảnh đông người.",
-      "loudness_peak_db": -2.5
-    },
-    {
-      "name": "Tiếng Nấu ăn và Mở nắp (đoạn 01)",
-      "slug": "tieng-nau-an-va-mo-nap__c01",
-      "file": "tieng-nau-an-va-mo-nap__c01.mp3",
-      "duration_s": 1.05,
-      "bytes": 17708,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-nau-an-va-mo-nap",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-nau-va-mo-nap-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-nau-va-mo-nap-www_tiengdong_com.mp3, đoạn 0.73–1.78 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-nau-an-va-mo-nap",
-      "start_s": 0.73,
-      "end_s": 1.78,
-      "tags": [
-        "nấu ăn",
-        "bếp"
-      ],
-      "tags_ascii": [
-        "nau an",
-        "bep"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh bếp, ăn trưa công ty hoặc nấu ăn.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Nấu ăn và Mở nắp (đoạn 02)",
-      "slug": "tieng-nau-an-va-mo-nap__c02",
-      "file": "tieng-nau-an-va-mo-nap__c02.mp3",
-      "duration_s": 2.0,
-      "bytes": 33068,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-nau-an-va-mo-nap",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-nau-va-mo-nap-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-nau-va-mo-nap-www_tiengdong_com.mp3, đoạn 3.68–5.68 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-nau-an-va-mo-nap",
-      "start_s": 3.68,
-      "end_s": 5.68,
-      "tags": [
-        "nấu ăn",
-        "bếp"
-      ],
-      "tags_ascii": [
-        "nau an",
-        "bep"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh bếp, ăn trưa công ty hoặc nấu ăn.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Âm thanh tiếng nấu ăn trong bếp (đoạn 01)",
-      "slug": "tieng-nau-an-trong-bep__c01",
-      "file": "tieng-nau-an-trong-bep__c01.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-nau-an-trong-bep",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-nau-an-trong-bep-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-nau-an-trong-bep-www_tiengdong_com.mp3, đoạn 4.0–8.0 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-nau-an-trong-bep",
-      "start_s": 4.0,
-      "end_s": 8.0,
-      "tags": [
-        "nấu ăn",
-        "bếp"
-      ],
-      "tags_ascii": [
-        "nau an",
-        "bep"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh bếp, ăn trưa công ty hoặc nấu ăn.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Âm thanh tiếng nấu ăn trong bếp (nền lặp ~10 giây)",
-      "slug": "tieng-nau-an-trong-bep__c02",
-      "file": "tieng-nau-an-trong-bep__c02.mp3",
-      "duration_s": 10.0,
-      "bytes": 160957,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-nau-an-trong-bep",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-nau-an-trong-bep-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-nau-an-trong-bep-www_tiengdong_com.mp3, đoạn 6.5–16.5 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-nau-an-trong-bep",
-      "start_s": 6.5,
-      "end_s": 16.5,
-      "tags": [
-        "nấu ăn",
-        "bếp",
-        "nền lặp",
-        "vòng lặp"
-      ],
-      "tags_ascii": [
-        "nau an",
-        "bep",
-        "nen lap",
-        "vong lap"
-      ],
-      "use_case_vi": "Nền lặp khoảng 10 giây; Dùng cho cảnh bếp, ăn trưa công ty hoặc nấu ăn.",
-      "loudness_peak_db": -3.0
-    },
-    {
-      "name": "Âm thanh tiếng nấu ăn trong bếp (đoạn 03)",
-      "slug": "tieng-nau-an-trong-bep__c03",
-      "file": "tieng-nau-an-trong-bep__c03.mp3",
-      "duration_s": 0.5,
-      "bytes": 9238,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-nau-an-trong-bep",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-nau-an-trong-bep-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-nau-an-trong-bep-www_tiengdong_com.mp3, đoạn 66.13–66.63 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-nau-an-trong-bep",
-      "start_s": 66.13,
-      "end_s": 66.63,
-      "tags": [
-        "nấu ăn",
-        "bếp"
-      ],
-      "tags_ascii": [
-        "nau an",
-        "bep"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh bếp, ăn trưa công ty hoặc nấu ăn.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng Trẻ em Khóc nhè đòi thứ gì đó (đoạn 01)",
-      "slug": "tieng-tre-em-khoc-nhe-doi-thu-gi-do__c01",
-      "file": "tieng-tre-em-khoc-nhe-doi-thu-gi-do__c01.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-tre-em-khoc-nhe-doi-thu-gi-do",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3, đoạn 3.5–7.5 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-tre-em-khoc-nhe-doi-thu-gi-do",
-      "start_s": 3.5,
-      "end_s": 7.5,
-      "tags": [
-        "khóc",
-        "buồn",
-        "trẻ con"
-      ],
-      "tags_ascii": [
-        "khoc",
-        "buon",
-        "tre con"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh khóc nhè, than thở vì deadline.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Trẻ em Khóc nhè đòi thứ gì đó (đoạn 02)",
-      "slug": "tieng-tre-em-khoc-nhe-doi-thu-gi-do__c02",
-      "file": "tieng-tre-em-khoc-nhe-doi-thu-gi-do__c02.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-tre-em-khoc-nhe-doi-thu-gi-do",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3, đoạn 13.4–17.4 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-tre-em-khoc-nhe-doi-thu-gi-do",
-      "start_s": 13.4,
-      "end_s": 17.4,
-      "tags": [
-        "khóc",
-        "buồn",
-        "trẻ con"
-      ],
-      "tags_ascii": [
-        "khoc",
-        "buon",
-        "tre con"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh khóc nhè, than thở vì deadline.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Trẻ em Khóc nhè đòi thứ gì đó (đoạn 03)",
-      "slug": "tieng-tre-em-khoc-nhe-doi-thu-gi-do__c03",
-      "file": "tieng-tre-em-khoc-nhe-doi-thu-gi-do__c03.mp3",
-      "duration_s": 2.05,
-      "bytes": 33897,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-tre-em-khoc-nhe-doi-thu-gi-do",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3, đoạn 27.33–29.38 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-tre-em-khoc-nhe-doi-thu-gi-do",
-      "start_s": 27.33,
-      "end_s": 29.38,
-      "tags": [
-        "khóc",
-        "buồn",
-        "trẻ con"
-      ],
-      "tags_ascii": [
-        "khoc",
-        "buon",
-        "tre con"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh khóc nhè, than thở vì deadline.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng Trẻ em Khóc nhè đòi thứ gì đó (đoạn 04)",
-      "slug": "tieng-tre-em-khoc-nhe-doi-thu-gi-do__c04",
-      "file": "tieng-tre-em-khoc-nhe-doi-thu-gi-do__c04.mp3",
-      "duration_s": 2.8,
-      "bytes": 46018,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-tre-em-khoc-nhe-doi-thu-gi-do",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3, đoạn 38.38–41.18 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-tre-em-khoc-nhe-doi-thu-gi-do",
-      "start_s": 38.38,
-      "end_s": 41.18,
-      "tags": [
-        "khóc",
-        "buồn",
-        "trẻ con"
-      ],
-      "tags_ascii": [
-        "khoc",
-        "buon",
-        "tre con"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh khóc nhè, than thở vì deadline.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Trẻ em Khóc nhè đòi thứ gì đó (đoạn 05)",
-      "slug": "tieng-tre-em-khoc-nhe-doi-thu-gi-do__c05",
-      "file": "tieng-tre-em-khoc-nhe-doi-thu-gi-do__c05.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-tre-em-khoc-nhe-doi-thu-gi-do",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3, đoạn 50.1–54.1 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-tre-em-khoc-nhe-doi-thu-gi-do",
-      "start_s": 50.1,
-      "end_s": 54.1,
-      "tags": [
-        "khóc",
-        "buồn",
-        "trẻ con"
-      ],
-      "tags_ascii": [
-        "khoc",
-        "buon",
-        "tre con"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh khóc nhè, than thở vì deadline.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Bước Chân đi lên Cầu Thang (đoạn 01)",
-      "slug": "tieng-buoc-chan-di-len-cau-thang__c01",
-      "file": "tieng-buoc-chan-di-len-cau-thang__c01.mp3",
-      "duration_s": 0.3,
-      "bytes": 5894,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-buoc-chan-di-len-cau-thang",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-buoc-chan-di-len-cau-thang-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-buoc-chan-di-len-cau-thang-www_tiengdong_com.mp3, đoạn 2.55–2.85 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-buoc-chan-di-len-cau-thang",
-      "start_s": 2.55,
-      "end_s": 2.85,
-      "tags": [
-        "bước chân",
-        "đi lại"
-      ],
-      "tags_ascii": [
-        "buoc chan",
-        "di lai"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhân vật đi qua văn phòng hoặc đi lên cầu thang.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng Bước Chân đi lên Cầu Thang (đoạn 02)",
-      "slug": "tieng-buoc-chan-di-len-cau-thang__c02",
-      "file": "tieng-buoc-chan-di-len-cau-thang__c02.mp3",
-      "duration_s": 0.3,
-      "bytes": 5894,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-buoc-chan-di-len-cau-thang",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-buoc-chan-di-len-cau-thang-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-buoc-chan-di-len-cau-thang-www_tiengdong_com.mp3, đoạn 4.45–4.75 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-buoc-chan-di-len-cau-thang",
-      "start_s": 4.45,
-      "end_s": 4.75,
-      "tags": [
-        "bước chân",
-        "đi lại"
-      ],
-      "tags_ascii": [
-        "buoc chan",
-        "di lai"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhân vật đi qua văn phòng hoặc đi lên cầu thang.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Bước Chân đi lên Cầu Thang (đoạn 03)",
-      "slug": "tieng-buoc-chan-di-len-cau-thang__c03",
-      "file": "tieng-buoc-chan-di-len-cau-thang__c03.mp3",
-      "duration_s": 0.3,
-      "bytes": 5894,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-buoc-chan-di-len-cau-thang",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-buoc-chan-di-len-cau-thang-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-buoc-chan-di-len-cau-thang-www_tiengdong_com.mp3, đoạn 6.8–7.1 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-buoc-chan-di-len-cau-thang",
-      "start_s": 6.8,
-      "end_s": 7.1,
-      "tags": [
-        "bước chân",
-        "đi lại"
-      ],
-      "tags_ascii": [
-        "buoc chan",
-        "di lai"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhân vật đi qua văn phòng hoặc đi lên cầu thang.",
-      "loudness_peak_db": -3.5
+      "audit": "FIXED (wp-audio-shortcode): replaced wrong sidebar mp3 Tong-hop-cac-tieng-chuong-cua-hay-nhat-www_tiengdong_com.mp3 with page main player mp3"
     }
   ]
 }

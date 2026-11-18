@@ -1,7 +1,7 @@
 {
   "group": "Câu nói viral Việt",
   "group_slug": "cau-noi-viral",
-  "count": 12,
+  "count": 10,
   "items": [
     {
       "name": "Hiệu ứng âm thanh Wow",
@@ -13,17 +13,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-wow",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-wow-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-tru-luong-tiktok' bi BO theo copyright-audit (c: Cau noi viral TikTok - clip giong nguoi that (viral_note: 'Cau noi viral TikTok (nhom Cau noi Viral cua tiengdong)').); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json).",
-      "kind": "original",
-      "tags": [
-        "wow",
-        "ngạc nhiên"
-      ],
-      "tags_ascii": [
-        "wow",
-        "ngac nhien"
-      ],
-      "use_case_vi": "Dùng cho phản ứng trầm trồ, ngạc nhiên."
+      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-tru-luong-tiktok' bi BO theo copyright-audit (c: Cau noi viral TikTok - clip giong nguoi that (viral_note: 'Cau noi viral TikTok (nhom Cau noi Viral cua tiengdong)').); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json)."
     },
     {
       "name": "Hiệu ứng âm thanh Ừ hư…",
@@ -35,15 +25,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-u-hu",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-u-hu-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'nhac-chuong-sep-oi-co-dien-thoai' bi BO theo copyright-audit (c: Cau noi viral TikTok - clip giong nguoi that; viral_note nhu tren.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json).",
-      "kind": "original",
-      "tags": [
-        "âm thanh"
-      ],
-      "tags_ascii": [
-        "am thanh"
-      ],
-      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Câu nói viral Việt; chọn theo nội dung tên file."
+      "audit": "REPLACEMENT 2026-11-18: thay 'nhac-chuong-sep-oi-co-dien-thoai' bi BO theo copyright-audit (c: Cau noi viral TikTok - clip giong nguoi that; viral_note nhu tren.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json)."
     },
     {
       "name": "Meme 10 điểm mp3 edit video",
@@ -55,17 +37,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-10-diem-mp3",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-meme-10-diem-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'nhac-chuong-bao-cao-sep-co-dien-thoai' bi BO theo copyright-audit (c: Cau noi viral TikTok - clip giong nguoi that; viral_note nhu tren.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json).",
-      "kind": "original",
-      "tags": [
-        "10 điểm",
-        "khen"
-      ],
-      "tags_ascii": [
-        "10 diem",
-        "khen"
-      ],
-      "use_case_vi": "Dùng khi chấm điểm đùa hoặc khen việc làm tốt."
+      "audit": "REPLACEMENT 2026-11-18: thay 'nhac-chuong-bao-cao-sep-co-dien-thoai' bi BO theo copyright-audit (c: Cau noi viral TikTok - clip giong nguoi that; viral_note nhu tren.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json)."
     },
     {
       "name": "Âm thanh Phép thuật Xuất hiện (ngắn)",
@@ -77,17 +49,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-phep-thuat-xuat-hien-ngan",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-phep-thuat-xuat-hien-ngan-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'ban-biet-gi-chua-ui-troi-dat-oi-tui-het-tien-roi-ban-goc' bi BO theo copyright-audit (c: Cau noi viral TikTok, ghi '(Ban goc)' - clip giong goc cua creator TikTok.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json).",
-      "kind": "original",
-      "tags": [
-        "xuất hiện",
-        "ảo thuật"
-      ],
-      "tags_ascii": [
-        "xuat hien",
-        "ao thuat"
-      ],
-      "use_case_vi": "Dùng cho chuyển cảnh bất ngờ, nhân vật xuất hiện như ảo thuật."
+      "audit": "REPLACEMENT 2026-11-18: thay 'ban-biet-gi-chua-ui-troi-dat-oi-tui-het-tien-roi-ban-goc' bi BO theo copyright-audit (c: Cau noi viral TikTok, ghi '(Ban goc)' - clip giong goc cua creator TikTok.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json)."
     },
     {
       "name": "Hiệu ứng âm thanh Oh Nooo…",
@@ -99,19 +61,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/hieu-ung-am-thanh-oh-nooo",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-oh-nooo-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'troi-oi-duoc-khong-ni-yen-tam-len-ban-goc' bi BO theo copyright-audit (c: Cau noi viral TikTok, ghi '(Ban goc)' - clip giong goc cua creator TikTok.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json).",
-      "kind": "original",
-      "tags": [
-        "ồ",
-        "ôi",
-        "ngạc nhiên"
-      ],
-      "tags_ascii": [
-        "o",
-        "oi",
-        "ngac nhien"
-      ],
-      "use_case_vi": "Dùng cho phản ứng ngạc nhiên hoặc than trời."
+      "audit": "REPLACEMENT 2026-11-18: thay 'troi-oi-duoc-khong-ni-yen-tam-len-ban-goc' bi BO theo copyright-audit (c: Cau noi viral TikTok, ghi '(Ban goc)' - clip giong goc cua creator TikTok.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json)."
     },
     {
       "name": "Hiệu ứng âm thanh Oh Yeah",
@@ -123,25 +73,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-oh-yeah",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-oh-yeah-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'roi-cac-ban-thay-que-khong-linda' bi BO theo copyright-audit (c: Cau noi viral TikTok - giong cua Linda (nguoi co ten trong tieu de).); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json).",
-      "kind": "original",
-      "tags": [
-        "yeah",
-        "hào hứng",
-        "đắc ý",
-        "ồ",
-        "ôi",
-        "ngạc nhiên"
-      ],
-      "tags_ascii": [
-        "yeah",
-        "hao hung",
-        "dac y",
-        "o",
-        "oi",
-        "ngac nhien"
-      ],
-      "use_case_vi": "Dùng cho phản ứng đắc ý hoặc vừa làm xong việc."
+      "audit": "REPLACEMENT 2026-11-18: thay 'roi-cac-ban-thay-que-khong-linda' bi BO theo copyright-audit (c: Cau noi viral TikTok - giong cua Linda (nguoi co ten trong tieu de).); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json)."
     },
     {
       "name": "Âm thanh meme Aaa…, Ahhh….",
@@ -153,17 +85,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-meme-aaa-ahhh",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-meme-aaa-ahhh-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'dua-thoi-dung-co-lam-qua-linda' bi BO theo copyright-audit (c: Cau noi viral TikTok - giong cua Linda (nguoi co ten trong tieu de).); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json).",
-      "kind": "original",
-      "tags": [
-        "la hét",
-        "hoảng"
-      ],
-      "tags_ascii": [
-        "la het",
-        "hoang"
-      ],
-      "use_case_vi": "Dùng cho phản ứng hoảng hốt khi thấy deadline."
+      "audit": "REPLACEMENT 2026-11-18: thay 'dua-thoi-dung-co-lam-qua-linda' bi BO theo copyright-audit (c: Cau noi viral TikTok - giong cua Linda (nguoi co ten trong tieu de).); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json)."
     },
     {
       "name": "Hiệu ứng âm thanh tiếng Bẹt",
@@ -175,19 +97,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-tieng-bet",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-bet-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'noi-the-thi-chiu-roi-rambo' bi BO theo copyright-audit (c: Cau noi viral TikTok - giong cua Rambo (nguoi co ten trong tieu de).); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json).",
-      "kind": "original",
-      "tags": [
-        "bét",
-        "va chạm",
-        "hài"
-      ],
-      "tags_ascii": [
-        "bet",
-        "va cham",
-        "hai"
-      ],
-      "use_case_vi": "Dùng cho tiếng va chạm đùa, hài hước."
+      "audit": "REPLACEMENT 2026-11-18: thay 'noi-the-thi-chiu-roi-rambo' bi BO theo copyright-audit (c: Cau noi viral TikTok - giong cua Rambo (nguoi co ten trong tieu de).); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json)."
     },
     {
       "name": "Âm thanh Đáng ngờ, Nghi ngờ vui nhộn",
@@ -199,97 +109,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-dang-ngo-nghi-ngo-vui-nhon",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-dang-ngo-nghi-ngo-vui-nhon-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'ai-ep-may-met-thi-nghi-chi-phien-ban-goc' bi BO theo copyright-audit (c: Cau noi viral TikTok - giong cua Chi Phien (nguoi co ten, ghi '(Ban goc)').); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json).",
-      "kind": "original",
-      "tags": [
-        "nghi ngờ",
-        "lém lỉnh"
-      ],
-      "tags_ascii": [
-        "nghi ngo",
-        "lem linh"
-      ],
-      "use_case_vi": "Dùng cho nhân vật nghi ngờ hoặc ngơ ngác."
+      "audit": "REPLACEMENT 2026-11-18: thay 'ai-ep-may-met-thi-nghi-chi-phien-ban-goc' bi BO theo copyright-audit (c: Cau noi viral TikTok - giong cua Chi Phien (nguoi co ten, ghi '(Ban goc)').); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json)."
     },
     {
       "name": "Âm thanh gây Sốc, Bất Ngờ",
       "slug": "am-thanh-gay-soc-bat-ngo",
       "file": "Am-thanh-gay-soc-bat-ngo-www_tiengdong_com.mp3",
-      "duration_s": 10.1,
-      "bytes": 440997,
+      "duration_s": 6.93,
+      "bytes": 142331,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-gay-soc-bat-ngo",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-gay-soc-bat-ngo-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'co-len-co-len-sap-toi-roi-sap-toi-roi-ban-goc' bi BO theo copyright-audit (c: Cau noi viral TikTok, ghi '(Ban goc)' - clip giong goc cua creator TikTok.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode). Nhom doi noi dung: tu clip giong creator sang hieu ung chung an toan (ghi ro trong bao cao sound-replacements.json).",
-      "kind": "original",
-      "tags": [
-        "sốc",
-        "bất ngờ",
-        "gây sốc"
-      ],
-      "tags_ascii": [
-        "soc",
-        "bat ngo",
-        "gay soc"
-      ],
-      "use_case_vi": "Dùng khi nhân vật sốc hoặc nghe tin bất ngờ."
-    },
-    {
-      "name": "Âm thanh gây Sốc, Bất Ngờ (đoạn 01)",
-      "slug": "am-thanh-gay-soc-bat-ngo__c01",
-      "file": "am-thanh-gay-soc-bat-ngo__c01.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-gay-soc-bat-ngo",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-gay-soc-bat-ngo-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-gay-soc-bat-ngo-www_tiengdong_com.mp3, đoạn 1.25–5.25 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-gay-soc-bat-ngo",
-      "start_s": 1.25,
-      "end_s": 5.25,
-      "tags": [
-        "sốc",
-        "bất ngờ",
-        "gây sốc"
-      ],
-      "tags_ascii": [
-        "soc",
-        "bat ngo",
-        "gay soc"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhân vật sốc hoặc nghe tin bất ngờ.",
-      "loudness_peak_db": -2.6
-    },
-    {
-      "name": "Âm thanh gây Sốc, Bất Ngờ (đoạn 02)",
-      "slug": "am-thanh-gay-soc-bat-ngo__c02",
-      "file": "am-thanh-gay-soc-bat-ngo__c02.mp3",
-      "duration_s": 3.0,
-      "bytes": 48944,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-gay-soc-bat-ngo",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-gay-soc-bat-ngo-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-gay-soc-bat-ngo-www_tiengdong_com.mp3, đoạn 4.25–7.25 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-gay-soc-bat-ngo",
-      "start_s": 4.25,
-      "end_s": 7.25,
-      "tags": [
-        "sốc",
-        "bất ngờ",
-        "gây sốc"
-      ],
-      "tags_ascii": [
-        "soc",
-        "bat ngo",
-        "gay soc"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhân vật sốc hoặc nghe tin bất ngờ.",
-      "loudness_peak_db": -3.5
+      "audit": "SPLIT from 10.10s, segment 1/1, 6.93s"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "group": "Văn phòng",
   "group_slug": "van-phong",
-  "count": 57,
+  "count": 15,
   "items": [
     {
       "name": "Âm thanh Gõ Bàn Phím máy tính",
@@ -13,141 +13,67 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-go-ban-phim-may-tinh",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-tieng-go-ban-phim-may-tinh-www_tiengdong_com.mp3",
-      "audit": "FIXED (article-post-2003): replaced wrong sidebar mp3 tieng-may-ban-hang-tu-dong-www_tiengdong_com.mp3 with page main player mp3",
-      "kind": "original",
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục."
+      "audit": "FIXED (article-post-2003): replaced wrong sidebar mp3 tieng-may-ban-hang-tu-dong-www_tiengdong_com.mp3 with page main player mp3"
     },
     {
       "name": "Tiếng Bàn Phím Máy Tính ở văn phòng làm việc",
       "slug": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec",
       "file": "Tieng-ban-phim-may-tinh-o-van-phong-lam-viec-www_tiengdong_com.mp3",
-      "duration_s": 53.16,
-      "bytes": 460261,
+      "duration_s": 7.69,
+      "bytes": 106194,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-ban-phim-may-tinh-o-van-phong-lam-viec",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-ban-phim-may-tinh-o-van-phong-lam-viec-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục."
+      "audit": "SPLIT from 53.16s, segment 1/6, 7.69s"
     },
     {
       "name": "Tiếng gõ Bàn Phím chậm",
       "slug": "tieng-go-ban-phim-cham",
       "file": "Tieng-go-ban-phim-cham-www_tiengdong_com.mp3",
-      "duration_s": 83.56,
-      "bytes": 2041401,
+      "duration_s": 7.95,
+      "bytes": 122825,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-go-ban-phim-cham",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-go-ban-phim-cham-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục."
+      "audit": "SPLIT from 83.56s, segment 1/14 trimmed to 8.00s (loudest 8s window at 0.00s)"
     },
     {
       "name": "Âm thanh đánh Bàn Phím máy tính bàn",
       "slug": "am-thanh-danh-ban-phim-may-tinh-ban",
       "file": "Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3",
-      "duration_s": 126.416,
-      "bytes": 3070207,
+      "duration_s": 7.95,
+      "bytes": 205779,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-danh-ban-phim-may-tinh-ban",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-danh-ban-phim-may-tinh-macbook' bi BO theo copyright-audit (a: Ten/file gan thuong hieu 'Macbook' (Apple); am thanh go phim von chung nhung tieu de gan brand - khong chac nguon goc ba); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục."
+      "audit": "SPLIT from 126.42s, segment 1/1 trimmed to 8.00s (loudest 8s window at 94.25s)"
     },
     {
       "name": "Tiếng đánh bàn phím Laptop",
       "slug": "tieng-danh-ban-phim-laptop",
       "file": "Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3",
-      "duration_s": 209.15,
-      "bytes": 1095789,
+      "duration_s": 7.95,
+      "bytes": 122777,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-danh-ban-phim-laptop",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục."
+      "audit": "SPLIT from 209.15s, segment 2/3 trimmed to 8.00s (loudest 8s window at 58.25s)"
     },
     {
       "name": "Tiếng Click, Nhấp chuột máy tính nhiều lần",
       "slug": "tieng-click-nhap-chuot-may-tinh-nhieu-lan",
       "file": "tieng-click-nhap-chuot-may-tinh-nhieu-lan-www_tiengdong_com.mp3",
-      "duration_s": 11.14,
-      "bytes": 268800,
+      "duration_s": 2.64,
+      "bytes": 26307,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-click-nhap-chuot-may-tinh-nhieu-lan",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-click-nhap-chuot-may-tinh-nhieu-lan-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "chuột máy tính",
-        "click"
-      ],
-      "tags_ascii": [
-        "chuot may tinh",
-        "click"
-      ],
-      "use_case_vi": "Dùng khi nhấp chuột mở file, bấm nút xác nhận hoặc thao tác máy tính."
+      "audit": "SPLIT from 11.14s, segment 5/6, 2.64s"
     },
     {
       "name": "Âm thanh tiếng Click chuột",
@@ -159,161 +85,79 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-click-chuot",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-click-chuot-www_tiengdong_com.mp3",
-      "audit": "FIXED (wp-audio-shortcode): replaced wrong sidebar mp3 tong-hop-tieng-click-chuot-may-tinh-www_tiengdong_com.mp3 with page main player mp3",
-      "kind": "original",
-      "tags": [
-        "chuột máy tính",
-        "click"
-      ],
-      "tags_ascii": [
-        "chuot may tinh",
-        "click"
-      ],
-      "use_case_vi": "Dùng khi nhấp chuột mở file, bấm nút xác nhận hoặc thao tác máy tính."
+      "audit": "FIXED (wp-audio-shortcode): replaced wrong sidebar mp3 tong-hop-tieng-click-chuot-may-tinh-www_tiengdong_com.mp3 with page main player mp3"
     },
     {
       "name": "Tiếng Cuộn chuột, Lăn chuột máy tính",
       "slug": "tieng-cuon-chuot-lan-chuot-may-tinh",
       "file": "tieng-cuon-chuot-lan-chuot-may-tinh-www_tiengdong_com.mp3",
-      "duration_s": 22.76,
-      "bytes": 411375,
+      "duration_s": 7.95,
+      "bytes": 112222,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-cuon-chuot-lan-chuot-may-tinh",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-cuon-chuot-lan-chuot-may-tinh-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "chuột máy tính",
-        "click",
-        "lăn chuột",
-        "cuộn"
-      ],
-      "tags_ascii": [
-        "chuot may tinh",
-        "click",
-        "lan chuot",
-        "cuon"
-      ],
-      "use_case_vi": "Dùng khi nhấp chuột mở file, bấm nút xác nhận hoặc thao tác máy tính."
+      "audit": "SPLIT from 22.76s, segment 1/3 trimmed to 8.00s (loudest 8s window at 0.00s)"
     },
     {
       "name": "Tiếng chuông Điện Thoại Bàn ở văn phòng",
       "slug": "tieng-chuong-dien-thoai-ban-o-van-phong",
       "file": "Tieng-chuong-dien-thoai-ban-o-van-phong-www_tiengdong_com.mp3",
-      "duration_s": 28.34,
-      "bytes": 713521,
+      "duration_s": 1.23,
+      "bytes": 23074,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-chuong-dien-thoai-ban-o-van-phong",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chuong-dien-thoai-ban-o-van-phong-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "chuông điện thoại",
-        "cuộc gọi"
-      ],
-      "tags_ascii": [
-        "chuong dien thoai",
-        "cuoc goi"
-      ],
-      "use_case_vi": "Dùng khi có cuộc gọi đến hoặc cảnh chờ máy bàn ở văn phòng."
+      "audit": "SPLIT from 28.34s, segment 1/10, 1.23s"
     },
     {
       "name": "Telephone Ringing sound effects",
       "slug": "telephone-ringing-sound-effects",
       "file": "Telephone-ringing-sound-effects-www_tiengdong_com.mp3",
-      "duration_s": 30.75,
-      "bytes": 751972,
+      "duration_s": 1.53,
+      "bytes": 21611,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/telephone-ringing-sound-effects",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Telephone-ringing-sound-effects-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "chuông điện thoại",
-        "cuộc gọi"
-      ],
-      "tags_ascii": [
-        "chuong dien thoai",
-        "cuoc goi"
-      ],
-      "use_case_vi": "Dùng khi có cuộc gọi đến hoặc cảnh chờ máy bàn ở văn phòng."
+      "audit": "SPLIT from 30.75s, segment 1/10, 1.53s"
     },
     {
       "name": "Tiếng chuông Đang nối máy điện thoại Tút tút tút…",
       "slug": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut",
       "file": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut-www_tiengdong_com.mp3",
-      "duration_s": 30.52,
-      "bytes": 535296,
+      "duration_s": 1.04,
+      "bytes": 13671,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "tút tút",
-        "chờ máy"
-      ],
-      "tags_ascii": [
-        "tut tut",
-        "cho may"
-      ],
-      "use_case_vi": "Dùng cho cảnh gọi điện không ai nghe máy."
+      "audit": "SPLIT from 30.52s, segment 2/6, 1.04s"
     },
     {
       "name": "Tiếng Ồn ào, Lộn xộn, Bận rộn ở Văn Phòng làm việc",
       "slug": "tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec",
       "file": "Tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec-www_tiengdong_com.mp3",
-      "duration_s": 91.54,
-      "bytes": 2231391,
+      "duration_s": 7.95,
+      "bytes": 150284,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "ồn ào",
-        "bàn tán",
-        "văn phòng"
-      ],
-      "tags_ascii": [
-        "on ao",
-        "ban tan",
-        "van phong"
-      ],
-      "use_case_vi": "Dùng làm nền ồn ào văn phòng hoặc cảnh bàn tán đông người."
+      "audit": "SPLIT from 91.54s, segment 1/1 trimmed to 8.00s (loudest 8s window at 2.00s)"
     },
     {
       "name": "Tiếng Bàn tán Xôn xao, Ồn ào ở Văn phòng",
       "slug": "tieng-ban-tan-xon-xao-on-ao-o-van-phong",
       "file": "tieng-ban-tan-xon-xao-on-ao-o-van-phong-www_tiengdong_com.mp3",
-      "duration_s": 191.78,
-      "bytes": 3115153,
+      "duration_s": 7.95,
+      "bytes": 114455,
       "viral": false,
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-ban-tan-xon-xao-on-ao-o-van-phong",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-ban-tan-xon-xao-on-ao-o-van-phong-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "long": true,
-      "tags": [
-        "ồn ào",
-        "bàn tán",
-        "văn phòng"
-      ],
-      "tags_ascii": [
-        "on ao",
-        "ban tan",
-        "van phong"
-      ],
-      "use_case_vi": "Dùng làm nền ồn ào văn phòng hoặc cảnh bàn tán đông người."
+      "audit": "SPLIT from 191.78s, segment 1/1 trimmed to 8.00s (loudest 8s window at 74.00s)"
     },
     {
       "name": "Tiếng Vỗ Tay trong cuộc họp",
@@ -325,19 +169,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-vo-tay-trong-cuoc-hop",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-vo-tay-trong-cuoc-hop-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "vỗ tay",
-        "khen ngợi",
-        "hoan hô"
-      ],
-      "tags_ascii": [
-        "vo tay",
-        "khen ngoi",
-        "hoan ho"
-      ],
-      "use_case_vi": "Dùng khi ai đó làm việc tốt hoặc được khen trong cuộc họp."
+      "audit": "ok (wp-audio-shortcode)"
     },
     {
       "name": "Tiếng Ngồi Xuống Ghế văn phòng",
@@ -349,1175 +181,7 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-ngoi-xuong-ghe-van-phong",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-ngoi-xuong-ghe-van-phong-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
-      "kind": "original",
-      "tags": [
-        "ngoi",
-        "xuong",
-        "phong"
-      ],
-      "tags_ascii": [
-        "ngoi",
-        "xuong",
-        "phong"
-      ],
-      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Văn phòng; chọn theo nội dung tên file."
-    },
-    {
-      "name": "Tiếng Bàn Phím Máy Tính ở văn phòng làm việc (đoạn 01)",
-      "slug": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec__c01",
-      "file": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec__c01.mp3",
-      "duration_s": 2.015,
-      "bytes": 33897,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-ban-phim-may-tinh-o-van-phong-lam-viec",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-ban-phim-may-tinh-o-van-phong-lam-viec-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-ban-phim-may-tinh-o-van-phong-lam-viec-www_tiengdong_com.mp3, đoạn 16.123–18.172 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec",
-      "start_s": 16.123,
-      "end_s": 18.138,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.6
-    },
-    {
-      "name": "Tiếng Bàn Phím Máy Tính ở văn phòng làm việc (đoạn 02)",
-      "slug": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec__c02",
-      "file": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec__c02.mp3",
-      "duration_s": 3.991,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-ban-phim-may-tinh-o-van-phong-lam-viec",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-ban-phim-may-tinh-o-van-phong-lam-viec-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-ban-phim-may-tinh-o-van-phong-lam-viec-www_tiengdong_com.mp3, đoạn 21.24–25.24 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec",
-      "start_s": 21.24,
-      "end_s": 25.231,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Bàn Phím Máy Tính ở văn phòng làm việc (đoạn 03)",
-      "slug": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec__c03",
-      "file": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec__c03.mp3",
-      "duration_s": 0.459,
-      "bytes": 8820,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-ban-phim-may-tinh-o-van-phong-lam-viec",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-ban-phim-may-tinh-o-van-phong-lam-viec-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-ban-phim-may-tinh-o-van-phong-lam-viec-www_tiengdong_com.mp3, đoạn 31.766–32.265 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec",
-      "start_s": 31.766,
-      "end_s": 32.225,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.6
-    },
-    {
-      "name": "Tiếng Bàn Phím Máy Tính ở văn phòng làm việc (đoạn 04)",
-      "slug": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec__c04",
-      "file": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec__c04.mp3",
-      "duration_s": 4.919,
-      "bytes": 80291,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-ban-phim-may-tinh-o-van-phong-lam-viec",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-ban-phim-may-tinh-o-van-phong-lam-viec-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-ban-phim-may-tinh-o-van-phong-lam-viec-www_tiengdong_com.mp3, đoạn 47.508–52.456 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-ban-phim-may-tinh-o-van-phong-lam-viec",
-      "start_s": 47.508,
-      "end_s": 52.427,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.3
-    },
-    {
-      "name": "Tiếng gõ Bàn Phím chậm (đoạn 01)",
-      "slug": "tieng-go-ban-phim-cham__c01",
-      "file": "tieng-go-ban-phim-cham__c01.mp3",
-      "duration_s": 1.9,
-      "bytes": 31390,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-go-ban-phim-cham",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-go-ban-phim-cham-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-go-ban-phim-cham-www_tiengdong_com.mp3, đoạn 2.83–4.78 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-go-ban-phim-cham",
-      "start_s": 2.83,
-      "end_s": 4.73,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.7
-    },
-    {
-      "name": "Tiếng gõ Bàn Phím chậm (đoạn 02)",
-      "slug": "tieng-go-ban-phim-cham__c02",
-      "file": "tieng-go-ban-phim-cham__c02.mp3",
-      "duration_s": 1.33,
-      "bytes": 22194,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-go-ban-phim-cham",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-go-ban-phim-cham-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-go-ban-phim-cham-www_tiengdong_com.mp3, đoạn 10.18–11.58 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-go-ban-phim-cham",
-      "start_s": 10.18,
-      "end_s": 11.51,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.6
-    },
-    {
-      "name": "Tiếng gõ Bàn Phím chậm (đoạn 03)",
-      "slug": "tieng-go-ban-phim-cham__c03",
-      "file": "tieng-go-ban-phim-cham__c03.mp3",
-      "duration_s": 1.32,
-      "bytes": 22194,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-go-ban-phim-cham",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-go-ban-phim-cham-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-go-ban-phim-cham-www_tiengdong_com.mp3, đoạn 34.08–35.48 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-go-ban-phim-cham",
-      "start_s": 34.08,
-      "end_s": 35.4,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.6
-    },
-    {
-      "name": "Tiếng gõ Bàn Phím chậm (đoạn 04)",
-      "slug": "tieng-go-ban-phim-cham__c04",
-      "file": "tieng-go-ban-phim-cham__c04.mp3",
-      "duration_s": 1.32,
-      "bytes": 22194,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-go-ban-phim-cham",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-go-ban-phim-cham-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-go-ban-phim-cham-www_tiengdong_com.mp3, đoạn 46.03–47.43 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-go-ban-phim-cham",
-      "start_s": 46.03,
-      "end_s": 47.35,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.8
-    },
-    {
-      "name": "Tiếng gõ Bàn Phím chậm (đoạn 05)",
-      "slug": "tieng-go-ban-phim-cham__c05",
-      "file": "tieng-go-ban-phim-cham__c05.mp3",
-      "duration_s": 1.33,
-      "bytes": 22194,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-go-ban-phim-cham",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-go-ban-phim-cham-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-go-ban-phim-cham-www_tiengdong_com.mp3, đoạn 69.93–71.33 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-go-ban-phim-cham",
-      "start_s": 69.93,
-      "end_s": 71.26,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.2
-    },
-    {
-      "name": "Âm thanh đánh Bàn Phím máy tính bàn (đoạn 01)",
-      "slug": "am-thanh-danh-ban-phim-may-tinh-ban__c01",
-      "file": "am-thanh-danh-ban-phim-may-tinh-ban__c01.mp3",
-      "duration_s": 3.33,
-      "bytes": 54377,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-danh-ban-phim-may-tinh-ban",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3, đoạn 5.53–8.88 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-danh-ban-phim-may-tinh-ban",
-      "start_s": 5.53,
-      "end_s": 8.86,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Âm thanh đánh Bàn Phím máy tính bàn (đoạn 02)",
-      "slug": "am-thanh-danh-ban-phim-may-tinh-ban__c02",
-      "file": "am-thanh-danh-ban-phim-may-tinh-ban__c02.mp3",
-      "duration_s": 3.33,
-      "bytes": 54377,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-danh-ban-phim-may-tinh-ban",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3, đoạn 28.88–32.23 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-danh-ban-phim-may-tinh-ban",
-      "start_s": 28.88,
-      "end_s": 32.21,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Âm thanh đánh Bàn Phím máy tính bàn (đoạn 03)",
-      "slug": "am-thanh-danh-ban-phim-may-tinh-ban__c03",
-      "file": "am-thanh-danh-ban-phim-may-tinh-ban__c03.mp3",
-      "duration_s": 3.34,
-      "bytes": 54377,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-danh-ban-phim-may-tinh-ban",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3, đoạn 87.13–90.48 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-danh-ban-phim-may-tinh-ban",
-      "start_s": 87.13,
-      "end_s": 90.47,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.6
-    },
-    {
-      "name": "Âm thanh đánh Bàn Phím máy tính bàn (đoạn 04)",
-      "slug": "am-thanh-danh-ban-phim-may-tinh-ban__c04",
-      "file": "am-thanh-danh-ban-phim-may-tinh-ban__c04.mp3",
-      "duration_s": 3.33,
-      "bytes": 54377,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-danh-ban-phim-may-tinh-ban",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3, đoạn 98.88–102.23 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-danh-ban-phim-may-tinh-ban",
-      "start_s": 98.88,
-      "end_s": 102.21,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Âm thanh đánh Bàn Phím máy tính bàn (đoạn 05)",
-      "slug": "am-thanh-danh-ban-phim-may-tinh-ban__c05",
-      "file": "am-thanh-danh-ban-phim-may-tinh-ban__c05.mp3",
-      "duration_s": 3.33,
-      "bytes": 54377,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-danh-ban-phim-may-tinh-ban",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3, đoạn 110.48–113.83 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "am-thanh-danh-ban-phim-may-tinh-ban",
-      "start_s": 110.48,
-      "end_s": 113.81,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.6
-    },
-    {
-      "name": "Tiếng đánh bàn phím Laptop (đoạn 01)",
-      "slug": "tieng-danh-ban-phim-laptop__c01",
-      "file": "tieng-danh-ban-phim-laptop__c01.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-danh-ban-phim-laptop",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3, đoạn 61.1–65.1 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-danh-ban-phim-laptop",
-      "start_s": 61.1,
-      "end_s": 65.1,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.6
-    },
-    {
-      "name": "Tiếng đánh bàn phím Laptop (đoạn 02)",
-      "slug": "tieng-danh-ban-phim-laptop__c02",
-      "file": "tieng-danh-ban-phim-laptop__c02.mp3",
-      "duration_s": 4.0,
-      "bytes": 65244,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-danh-ban-phim-laptop",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3, đoạn 73.0–77.0 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-danh-ban-phim-laptop",
-      "start_s": 73.0,
-      "end_s": 77.0,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng đánh bàn phím Laptop (đoạn 03)",
-      "slug": "tieng-danh-ban-phim-laptop__c03",
-      "file": "tieng-danh-ban-phim-laptop__c03.mp3",
-      "duration_s": 1.3,
-      "bytes": 21776,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-danh-ban-phim-laptop",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3, đoạn 96.88–98.18 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-danh-ban-phim-laptop",
-      "start_s": 96.88,
-      "end_s": 98.18,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng đánh bàn phím Laptop (đoạn 04)",
-      "slug": "tieng-danh-ban-phim-laptop__c04",
-      "file": "tieng-danh-ban-phim-laptop__c04.mp3",
-      "duration_s": 0.3,
-      "bytes": 5894,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-danh-ban-phim-laptop",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3, đoạn 128.625–128.925 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-danh-ban-phim-laptop",
-      "start_s": 128.625,
-      "end_s": 128.925,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng đánh bàn phím Laptop (đoạn 05)",
-      "slug": "tieng-danh-ban-phim-laptop__c05",
-      "file": "tieng-danh-ban-phim-laptop__c05.mp3",
-      "duration_s": 0.35,
-      "bytes": 6730,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-danh-ban-phim-laptop",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3, đoạn 195.03–195.38 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-danh-ban-phim-laptop",
-      "start_s": 195.03,
-      "end_s": 195.38,
-      "tags": [
-        "gõ bàn phím",
-        "làm việc",
-        "máy tính"
-      ],
-      "tags_ascii": [
-        "go ban phim",
-        "lam viec",
-        "may tinh"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền khi nhân vật đang gõ việc, soạn báo cáo hoặc gõ liên tục.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng Click, Nhấp chuột máy tính nhiều lần (đoạn 01)",
-      "slug": "tieng-click-nhap-chuot-may-tinh-nhieu-lan__c01",
-      "file": "tieng-click-nhap-chuot-may-tinh-nhieu-lan__c01.mp3",
-      "duration_s": 0.35,
-      "bytes": 6956,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-click-nhap-chuot-may-tinh-nhieu-lan",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-click-nhap-chuot-may-tinh-nhieu-lan-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-click-nhap-chuot-may-tinh-nhieu-lan-www_tiengdong_com.mp3, đoạn 2.73–3.08 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-click-nhap-chuot-may-tinh-nhieu-lan",
-      "start_s": 2.73,
-      "end_s": 3.08,
-      "tags": [
-        "chuột máy tính",
-        "click"
-      ],
-      "tags_ascii": [
-        "chuot may tinh",
-        "click"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhấp chuột mở file, bấm nút xác nhận hoặc thao tác máy tính.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Click, Nhấp chuột máy tính nhiều lần (đoạn 02)",
-      "slug": "tieng-click-nhap-chuot-may-tinh-nhieu-lan__c02",
-      "file": "tieng-click-nhap-chuot-may-tinh-nhieu-lan__c02.mp3",
-      "duration_s": 0.4,
-      "bytes": 7724,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-click-nhap-chuot-may-tinh-nhieu-lan",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-click-nhap-chuot-may-tinh-nhieu-lan-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-click-nhap-chuot-may-tinh-nhieu-lan-www_tiengdong_com.mp3, đoạn 5.68–6.08 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-click-nhap-chuot-may-tinh-nhieu-lan",
-      "start_s": 5.68,
-      "end_s": 6.08,
-      "tags": [
-        "chuột máy tính",
-        "click"
-      ],
-      "tags_ascii": [
-        "chuot may tinh",
-        "click"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhấp chuột mở file, bấm nút xác nhận hoặc thao tác máy tính.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Click, Nhấp chuột máy tính nhiều lần (đoạn 03)",
-      "slug": "tieng-click-nhap-chuot-may-tinh-nhieu-lan__c03",
-      "file": "tieng-click-nhap-chuot-may-tinh-nhieu-lan__c03.mp3",
-      "duration_s": 0.45,
-      "bytes": 8492,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-click-nhap-chuot-may-tinh-nhieu-lan",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-click-nhap-chuot-may-tinh-nhieu-lan-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-click-nhap-chuot-may-tinh-nhieu-lan-www_tiengdong_com.mp3, đoạn 8.33–8.78 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-click-nhap-chuot-may-tinh-nhieu-lan",
-      "start_s": 8.33,
-      "end_s": 8.78,
-      "tags": [
-        "chuột máy tính",
-        "click"
-      ],
-      "tags_ascii": [
-        "chuot may tinh",
-        "click"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhấp chuột mở file, bấm nút xác nhận hoặc thao tác máy tính.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Cuộn chuột, Lăn chuột máy tính (đoạn 01)",
-      "slug": "tieng-cuon-chuot-lan-chuot-may-tinh__c01",
-      "file": "tieng-cuon-chuot-lan-chuot-may-tinh__c01.mp3",
-      "duration_s": 0.3,
-      "bytes": 5894,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-cuon-chuot-lan-chuot-may-tinh",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-cuon-chuot-lan-chuot-may-tinh-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-cuon-chuot-lan-chuot-may-tinh-www_tiengdong_com.mp3, đoạn 3.725–4.025 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-cuon-chuot-lan-chuot-may-tinh",
-      "start_s": 3.725,
-      "end_s": 4.025,
-      "tags": [
-        "chuột máy tính",
-        "click",
-        "lăn chuột",
-        "cuộn"
-      ],
-      "tags_ascii": [
-        "chuot may tinh",
-        "click",
-        "lan chuot",
-        "cuon"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhấp chuột mở file, bấm nút xác nhận hoặc thao tác máy tính.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng Cuộn chuột, Lăn chuột máy tính (đoạn 02)",
-      "slug": "tieng-cuon-chuot-lan-chuot-may-tinh__c02",
-      "file": "tieng-cuon-chuot-lan-chuot-may-tinh__c02.mp3",
-      "duration_s": 0.3,
-      "bytes": 5894,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-cuon-chuot-lan-chuot-may-tinh",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-cuon-chuot-lan-chuot-may-tinh-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-cuon-chuot-lan-chuot-may-tinh-www_tiengdong_com.mp3, đoạn 18.075–18.375 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-cuon-chuot-lan-chuot-may-tinh",
-      "start_s": 18.075,
-      "end_s": 18.375,
-      "tags": [
-        "chuột máy tính",
-        "click",
-        "lăn chuột",
-        "cuộn"
-      ],
-      "tags_ascii": [
-        "chuot may tinh",
-        "click",
-        "lan chuot",
-        "cuon"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhấp chuột mở file, bấm nút xác nhận hoặc thao tác máy tính.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng Cuộn chuột, Lăn chuột máy tính (đoạn 03)",
-      "slug": "tieng-cuon-chuot-lan-chuot-may-tinh__c03",
-      "file": "tieng-cuon-chuot-lan-chuot-may-tinh__c03.mp3",
-      "duration_s": 0.3,
-      "bytes": 5894,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-cuon-chuot-lan-chuot-may-tinh",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-cuon-chuot-lan-chuot-may-tinh-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-cuon-chuot-lan-chuot-may-tinh-www_tiengdong_com.mp3, đoạn 19.775–20.075 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-cuon-chuot-lan-chuot-may-tinh",
-      "start_s": 19.775,
-      "end_s": 20.075,
-      "tags": [
-        "chuột máy tính",
-        "click",
-        "lăn chuột",
-        "cuộn"
-      ],
-      "tags_ascii": [
-        "chuot may tinh",
-        "click",
-        "lan chuot",
-        "cuon"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi nhấp chuột mở file, bấm nút xác nhận hoặc thao tác máy tính.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng chuông Điện Thoại Bàn ở văn phòng (đoạn 01)",
-      "slug": "tieng-chuong-dien-thoai-ban-o-van-phong__c01",
-      "file": "tieng-chuong-dien-thoai-ban-o-van-phong__c01.mp3",
-      "duration_s": 1.09,
-      "bytes": 18433,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-chuong-dien-thoai-ban-o-van-phong",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chuong-dien-thoai-ban-o-van-phong-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-chuong-dien-thoai-ban-o-van-phong-www_tiengdong_com.mp3, đoạn 3.13–4.23 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-chuong-dien-thoai-ban-o-van-phong",
-      "start_s": 3.13,
-      "end_s": 4.22,
-      "tags": [
-        "chuông điện thoại",
-        "cuộc gọi"
-      ],
-      "tags_ascii": [
-        "chuong dien thoai",
-        "cuoc goi"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi có cuộc gọi đến hoặc cảnh chờ máy bàn ở văn phòng.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng chuông Điện Thoại Bàn ở văn phòng (đoạn 02)",
-      "slug": "tieng-chuong-dien-thoai-ban-o-van-phong__c02",
-      "file": "tieng-chuong-dien-thoai-ban-o-van-phong__c02.mp3",
-      "duration_s": 1.09,
-      "bytes": 18433,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-chuong-dien-thoai-ban-o-van-phong",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chuong-dien-thoai-ban-o-van-phong-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-chuong-dien-thoai-ban-o-van-phong-www_tiengdong_com.mp3, đoạn 15.13–16.23 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-chuong-dien-thoai-ban-o-van-phong",
-      "start_s": 15.13,
-      "end_s": 16.22,
-      "tags": [
-        "chuông điện thoại",
-        "cuộc gọi"
-      ],
-      "tags_ascii": [
-        "chuong dien thoai",
-        "cuoc goi"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi có cuộc gọi đến hoặc cảnh chờ máy bàn ở văn phòng.",
-      "loudness_peak_db": -3.6
-    },
-    {
-      "name": "Tiếng chuông Điện Thoại Bàn ở văn phòng (đoạn 03)",
-      "slug": "tieng-chuong-dien-thoai-ban-o-van-phong__c03",
-      "file": "tieng-chuong-dien-thoai-ban-o-van-phong__c03.mp3",
-      "duration_s": 1.09,
-      "bytes": 18433,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-chuong-dien-thoai-ban-o-van-phong",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chuong-dien-thoai-ban-o-van-phong-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-chuong-dien-thoai-ban-o-van-phong-www_tiengdong_com.mp3, đoạn 21.13–22.23 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-chuong-dien-thoai-ban-o-van-phong",
-      "start_s": 21.13,
-      "end_s": 22.22,
-      "tags": [
-        "chuông điện thoại",
-        "cuộc gọi"
-      ],
-      "tags_ascii": [
-        "chuong dien thoai",
-        "cuoc goi"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi có cuộc gọi đến hoặc cảnh chờ máy bàn ở văn phòng.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng chuông Điện Thoại Bàn ở văn phòng (đoạn 04)",
-      "slug": "tieng-chuong-dien-thoai-ban-o-van-phong__c04",
-      "file": "tieng-chuong-dien-thoai-ban-o-van-phong__c04.mp3",
-      "duration_s": 1.09,
-      "bytes": 18433,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-chuong-dien-thoai-ban-o-van-phong",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chuong-dien-thoai-ban-o-van-phong-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-chuong-dien-thoai-ban-o-van-phong-www_tiengdong_com.mp3, đoạn 24.13–25.23 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-chuong-dien-thoai-ban-o-van-phong",
-      "start_s": 24.13,
-      "end_s": 25.22,
-      "tags": [
-        "chuông điện thoại",
-        "cuộc gọi"
-      ],
-      "tags_ascii": [
-        "chuong dien thoai",
-        "cuoc goi"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi có cuộc gọi đến hoặc cảnh chờ máy bàn ở văn phòng.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Telephone Ringing sound effects (đoạn 01)",
-      "slug": "telephone-ringing-sound-effects__c01",
-      "file": "telephone-ringing-sound-effects__c01.mp3",
-      "duration_s": 1.09,
-      "bytes": 18433,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/telephone-ringing-sound-effects",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Telephone-ringing-sound-effects-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Telephone-ringing-sound-effects-www_tiengdong_com.mp3, đoạn 0.43–1.58 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "telephone-ringing-sound-effects",
-      "start_s": 0.43,
-      "end_s": 1.52,
-      "tags": [
-        "chuông điện thoại",
-        "cuộc gọi"
-      ],
-      "tags_ascii": [
-        "chuong dien thoai",
-        "cuoc goi"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi có cuộc gọi đến hoặc cảnh chờ máy bàn ở văn phòng.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Telephone Ringing sound effects (đoạn 02)",
-      "slug": "telephone-ringing-sound-effects__c02",
-      "file": "telephone-ringing-sound-effects__c02.mp3",
-      "duration_s": 1.1,
-      "bytes": 18851,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/telephone-ringing-sound-effects",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Telephone-ringing-sound-effects-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Telephone-ringing-sound-effects-www_tiengdong_com.mp3, đoạn 9.43–10.58 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "telephone-ringing-sound-effects",
-      "start_s": 9.43,
-      "end_s": 10.53,
-      "tags": [
-        "chuông điện thoại",
-        "cuộc gọi"
-      ],
-      "tags_ascii": [
-        "chuong dien thoai",
-        "cuoc goi"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi có cuộc gọi đến hoặc cảnh chờ máy bàn ở văn phòng.",
-      "loudness_peak_db": -3.3
-    },
-    {
-      "name": "Telephone Ringing sound effects (đoạn 03)",
-      "slug": "telephone-ringing-sound-effects__c03",
-      "file": "telephone-ringing-sound-effects__c03.mp3",
-      "duration_s": 1.09,
-      "bytes": 18433,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/telephone-ringing-sound-effects",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Telephone-ringing-sound-effects-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Telephone-ringing-sound-effects-www_tiengdong_com.mp3, đoạn 24.43–25.58 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "telephone-ringing-sound-effects",
-      "start_s": 24.43,
-      "end_s": 25.52,
-      "tags": [
-        "chuông điện thoại",
-        "cuộc gọi"
-      ],
-      "tags_ascii": [
-        "chuong dien thoai",
-        "cuoc goi"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi có cuộc gọi đến hoặc cảnh chờ máy bàn ở văn phòng.",
-      "loudness_peak_db": -3.3
-    },
-    {
-      "name": "Telephone Ringing sound effects (đoạn 04)",
-      "slug": "telephone-ringing-sound-effects__c04",
-      "file": "telephone-ringing-sound-effects__c04.mp3",
-      "duration_s": 1.09,
-      "bytes": 18433,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/telephone-ringing-sound-effects",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Telephone-ringing-sound-effects-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Telephone-ringing-sound-effects-www_tiengdong_com.mp3, đoạn 27.58–28.73 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "telephone-ringing-sound-effects",
-      "start_s": 27.58,
-      "end_s": 28.67,
-      "tags": [
-        "chuông điện thoại",
-        "cuộc gọi"
-      ],
-      "tags_ascii": [
-        "chuong dien thoai",
-        "cuoc goi"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng khi có cuộc gọi đến hoặc cảnh chờ máy bàn ở văn phòng.",
-      "loudness_peak_db": -3.7
-    },
-    {
-      "name": "Tiếng chuông Đang nối máy điện thoại Tút tút tút… (đoạn 01)",
-      "slug": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut__c01",
-      "file": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut__c01.mp3",
-      "duration_s": 1.06,
-      "bytes": 18092,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut-www_tiengdong_com.mp3, đoạn 7.48–8.58 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut",
-      "start_s": 7.48,
-      "end_s": 8.54,
-      "tags": [
-        "tút tút",
-        "chờ máy"
-      ],
-      "tags_ascii": [
-        "tut tut",
-        "cho may"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh gọi điện không ai nghe máy.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng chuông Đang nối máy điện thoại Tút tút tút… (đoạn 02)",
-      "slug": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut__c02",
-      "file": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut__c02.mp3",
-      "duration_s": 1.08,
-      "bytes": 18092,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut-www_tiengdong_com.mp3, đoạn 12.48–13.58 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut",
-      "start_s": 12.48,
-      "end_s": 13.56,
-      "tags": [
-        "tút tút",
-        "chờ máy"
-      ],
-      "tags_ascii": [
-        "tut tut",
-        "cho may"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh gọi điện không ai nghe máy.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng chuông Đang nối máy điện thoại Tút tút tút… (đoạn 03)",
-      "slug": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut__c03",
-      "file": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut__c03.mp3",
-      "duration_s": 1.09,
-      "bytes": 18476,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut-www_tiengdong_com.mp3, đoạn 17.53–18.63 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut",
-      "start_s": 17.53,
-      "end_s": 18.62,
-      "tags": [
-        "tút tút",
-        "chờ máy"
-      ],
-      "tags_ascii": [
-        "tut tut",
-        "cho may"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh gọi điện không ai nghe máy.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng chuông Đang nối máy điện thoại Tút tút tút… (đoạn 04)",
-      "slug": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut__c04",
-      "file": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut__c04.mp3",
-      "duration_s": 1.07,
-      "bytes": 18092,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut-www_tiengdong_com.mp3, đoạn 22.58–23.68 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut",
-      "start_s": 22.58,
-      "end_s": 23.65,
-      "tags": [
-        "tút tút",
-        "chờ máy"
-      ],
-      "tags_ascii": [
-        "tut tut",
-        "cho may"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh gọi điện không ai nghe máy.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng Ồn ào, Lộn xộn, Bận rộn ở Văn Phòng làm việc (đoạn 01)",
-      "slug": "tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec__c01",
-      "file": "tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec__c01.mp3",
-      "duration_s": 0.65,
-      "bytes": 11564,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec-www_tiengdong_com.mp3, đoạn 2.68–3.33 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec",
-      "start_s": 2.68,
-      "end_s": 3.33,
-      "tags": [
-        "ồn ào",
-        "bàn tán",
-        "văn phòng"
-      ],
-      "tags_ascii": [
-        "on ao",
-        "ban tan",
-        "van phong"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền ồn ào văn phòng hoặc cảnh bàn tán đông người.",
-      "loudness_peak_db": -3.3
-    },
-    {
-      "name": "Tiếng Ồn ào, Lộn xộn, Bận rộn ở Văn Phòng làm việc (đoạn 02)",
-      "slug": "tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec__c02",
-      "file": "tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec__c02.mp3",
-      "duration_s": 0.7,
-      "bytes": 12332,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ Tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec-www_tiengdong_com.mp3, đoạn 27.38–28.08 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec",
-      "start_s": 27.38,
-      "end_s": 28.08,
-      "tags": [
-        "ồn ào",
-        "bàn tán",
-        "văn phòng"
-      ],
-      "tags_ascii": [
-        "on ao",
-        "ban tan",
-        "van phong"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền ồn ào văn phòng hoặc cảnh bàn tán đông người.",
-      "loudness_peak_db": -3.5
-    },
-    {
-      "name": "Tiếng Bàn tán Xôn xao, Ồn ào ở Văn phòng (đoạn 01)",
-      "slug": "tieng-ban-tan-xon-xao-on-ao-o-van-phong__c01",
-      "file": "tieng-ban-tan-xon-xao-on-ao-o-van-phong__c01.mp3",
-      "duration_s": 0.75,
-      "bytes": 12999,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-ban-tan-xon-xao-on-ao-o-van-phong",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-ban-tan-xon-xao-on-ao-o-van-phong-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-ban-tan-xon-xao-on-ao-o-van-phong-www_tiengdong_com.mp3, đoạn 68.88–69.63 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-ban-tan-xon-xao-on-ao-o-van-phong",
-      "start_s": 68.88,
-      "end_s": 69.63,
-      "tags": [
-        "ồn ào",
-        "bàn tán",
-        "văn phòng"
-      ],
-      "tags_ascii": [
-        "on ao",
-        "ban tan",
-        "van phong"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền ồn ào văn phòng hoặc cảnh bàn tán đông người.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Bàn tán Xôn xao, Ồn ào ở Văn phòng (nền lặp ~10 giây)",
-      "slug": "tieng-ban-tan-xon-xao-on-ao-o-van-phong__c02",
-      "file": "tieng-ban-tan-xon-xao-on-ao-o-van-phong__c02.mp3",
-      "duration_s": 10.0,
-      "bytes": 160957,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-ban-tan-xon-xao-on-ao-o-van-phong",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-ban-tan-xon-xao-on-ao-o-van-phong-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-ban-tan-xon-xao-on-ao-o-van-phong-www_tiengdong_com.mp3, đoạn 72.1–82.1 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-ban-tan-xon-xao-on-ao-o-van-phong",
-      "start_s": 72.1,
-      "end_s": 82.1,
-      "tags": [
-        "ồn ào",
-        "bàn tán",
-        "văn phòng",
-        "nền lặp",
-        "vòng lặp"
-      ],
-      "tags_ascii": [
-        "on ao",
-        "ban tan",
-        "van phong",
-        "nen lap",
-        "vong lap"
-      ],
-      "use_case_vi": "Nền lặp khoảng 10 giây; Dùng làm nền ồn ào văn phòng hoặc cảnh bàn tán đông người.",
-      "loudness_peak_db": -3.4
-    },
-    {
-      "name": "Tiếng Bàn tán Xôn xao, Ồn ào ở Văn phòng (đoạn 03)",
-      "slug": "tieng-ban-tan-xon-xao-on-ao-o-van-phong__c03",
-      "file": "tieng-ban-tan-xon-xao-on-ao-o-van-phong__c03.mp3",
-      "duration_s": 3.8,
-      "bytes": 61901,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-ban-tan-xon-xao-on-ao-o-van-phong",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-ban-tan-xon-xao-on-ao-o-van-phong-www_tiengdong_com.mp3",
-      "audit": "CLIP 2026-11-18: cắt từ tieng-ban-tan-xon-xao-on-ao-o-van-phong-www_tiengdong_com.mp3, đoạn 78.38–82.18 s; chưa nghe thủ công.",
-      "kind": "clip",
-      "parent_slug": "tieng-ban-tan-xon-xao-on-ao-o-van-phong",
-      "start_s": 78.38,
-      "end_s": 82.18,
-      "tags": [
-        "ồn ào",
-        "bàn tán",
-        "văn phòng"
-      ],
-      "tags_ascii": [
-        "on ao",
-        "ban tan",
-        "van phong"
-      ],
-      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền ồn ào văn phòng hoặc cảnh bàn tán đông người.",
-      "loudness_peak_db": -3.4
+      "audit": "ok (wp-audio-shortcode)"
     }
   ]
 }
