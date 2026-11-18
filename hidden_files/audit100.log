@@ -1,0 +1,143 @@
+[1/100] am-thanh-go-ban-phim-may-tinh WRONG method=article-post-2003
+  old: https://tiengdong.com/wp-content/uploads/tieng-may-ban-hang-tu-dong-www_tiengdong_com.mp3
+  new: https://tiengdong.com/wp-content/uploads/Am-thanh-tieng-go-ban-phim-may-tinh-www_tiengdong_com.mp3
+  removed wrong file /home/hatch/workspace/kho-sound-meme/sounds/van-phong/tieng-may-ban-hang-tu-dong-www_tiengdong_com.mp3
+  -> Am-thanh-tieng-go-ban-phim-may-tinh-www_tiengdong_com.mp3 369225 bytes duration=6.949 | /home/hatch/workspace/kho-sound-meme/sounds/van-phong/Am-thanh-tieng-go-ban-phim-may-tinh-www_tiengdong_com.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+[2/100] tieng-ban-phim-may-tinh-o-van-phong-lam-viec OK method=wp-audio-shortcode Tieng-ban-phim-may-tinh-o-van-phong-lam-viec-www_tiengdong_com.mp3
+[3/100] tieng-go-ban-phim-cham OK method=wp-audio-shortcode Tieng-go-ban-phim-cham-www_tiengdong_com.mp3
+[4/100] am-thanh-danh-ban-phim-may-tinh-macbook OK method=wp-audio-shortcode Am-thanh-danh-ban-phim-may-tinh-macbook-www_tiengdong_com.mp3
+[5/100] tieng-danh-ban-phim-laptop OK method=wp-audio-shortcode Tieng-danh-ban-phim-laptop-www_tiengdong_com.mp3
+[6/100] tieng-click-nhap-chuot-may-tinh-nhieu-lan OK method=wp-audio-shortcode tieng-click-nhap-chuot-may-tinh-nhieu-lan-www_tiengdong_com.mp3
+[7/100] tieng-click-chuot WRONG method=wp-audio-shortcode
+  old: https://tiengdong.com/wp-content/uploads/tong-hop-tieng-click-chuot-may-tinh-www_tiengdong_com.mp3
+  new: https://tiengdong.com/wp-content/uploads/Tieng-click-chuot-www_tiengdong_com.mp3
+  removed wrong file /home/hatch/workspace/kho-sound-meme/sounds/van-phong/tong-hop-tieng-click-chuot-may-tinh-www_tiengdong_com.mp3
+  -> Tieng-click-chuot-www_tiengdong_com.mp3 338295 bytes duration=3.246 | /home/hatch/workspace/kho-sound-meme/sounds/van-phong/Tieng-click-chuot-www_tiengdong_com.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 192 kbps, 48 kHz, Stereo
+[8/100] tieng-cuon-chuot-lan-chuot-may-tinh OK method=wp-audio-shortcode tieng-cuon-chuot-lan-chuot-may-tinh-www_tiengdong_com.mp3
+[9/100] tieng-chuong-dien-thoai-ban-o-van-phong OK method=wp-audio-shortcode Tieng-chuong-dien-thoai-ban-o-van-phong-www_tiengdong_com.mp3
+[10/100] telephone-ringing-sound-effects OK method=wp-audio-shortcode Telephone-ringing-sound-effects-www_tiengdong_com.mp3
+[11/100] tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut OK method=wp-audio-shortcode tieng-chuong-dang-noi-may-dien-thoai-tut-tut-tut-www_tiengdong_com.mp3
+[12/100] tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec OK method=wp-audio-shortcode Tieng-on-ao-lon-xon-ban-ron-o-van-phong-lam-viec-www_tiengdong_com.mp3
+[13/100] tieng-ban-tan-xon-xao-on-ao-o-van-phong OK method=wp-audio-shortcode tieng-ban-tan-xon-xao-on-ao-o-van-phong-www_tiengdong_com.mp3
+[14/100] tieng-vo-tay-trong-cuoc-hop OK method=wp-audio-shortcode Tieng-vo-tay-trong-cuoc-hop-www_tiengdong_com.mp3
+[15/100] tieng-ngoi-xuong-ghe-van-phong OK method=wp-audio-shortcode tieng-ngoi-xuong-ghe-van-phong-www_tiengdong_com.mp3
+[16/100] tieng-cuoi-hahaha-bac-gau-vlog OK method=wp-audio-shortcode cau-noi-viral-tieng-cuoi-hahaha-bac-gau-vlog-www_tiengdong_com.mp3
+[17/100] tieng-cuoi-troll OK method=wp-audio-shortcode Tieng-cuoi-troll-www_tiengdong_com.mp3
+[18/100] tieng-cuoi-deu-giong-tre-con OK method=wp-audio-shortcode tieng-cuoi-deu-giong-tre-con-www_tiengdong_com.mp3
+[19/100] giong-cuoi-deu OK method=wp-audio-shortcode Giong-cuoi-deu-www_tiengdong_com.mp3
+[20/100] tieng-cuoi-hehehe OK method=wp-audio-shortcode Tieng-cuoi-hehehe-www_tiengdong_com.mp3
+[21/100] tieng-cuoi-gion OK method=wp-audio-shortcode Tieng-cuoi-gion-www_tiengdong_com.mp3
+[22/100] tieng-cuoi-gia-tao OK method=wp-audio-shortcode tieng-cuoi-gia-tao-www_tiengdong_com.mp3
+[23/100] tieng-cuoi-khuc-khich OK method=wp-audio-shortcode Tieng-cuoi-khuc-khich-www_tiengdong_com.mp3
+[24/100] tieng-cuoi-dam-dong OK method=wp-audio-shortcode Tieng-cuoi-dam-dong-www_tiengdong_com.mp3
+[25/100] tieng-cuoi-va-vo-tay-nhieu-nguoi OK method=wp-audio-shortcode Tieng-cuoi-va-vo-tay-nhieu-nguoi-www_tiengdong_com.mp3
+[26/100] tieng-vo-tay WRONG method=article-post-2392
+  old: https://tiengdong.com/wp-content/uploads/Am-thanh-tra-loi-dung-chinh-xac-www_tiengdong_com.mp3
+  new: https://tiengdong.com/wp-content/uploads/Tieng-vo-tay-www_tiengdong_com.mp3
+  removed wrong file /home/hatch/workspace/kho-sound-meme/sounds/cuoi-reaction/Am-thanh-tra-loi-dung-chinh-xac-www_tiengdong_com.mp3
+  -> Tieng-vo-tay-www_tiengdong_com.mp3 347133 bytes duration=11.024 | /home/hatch/workspace/kho-sound-meme/sounds/cuoi-reaction/Tieng-vo-tay-www_tiengdong_com.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 64 kbps, 44.1 kHz, Stereo
+[27/100] tieng-vo-tay-nho-mot-nguoi-vo OK method=wp-audio-shortcode Tieng-vo-tay-nho-mot-nguoi-vo-www_tiengdong_com.mp3
+[28/100] tieng-vo-tay-va-huyt-sao-cua-khan-gia OK method=wp-audio-shortcode Tieng-vo-tay-va-huyt-sao-cua-khan-gia-www_tiengdong_com.mp3
+[29/100] tieng-huyt-sao WRONG method=wp-audio-shortcode
+  old: https://tiengdong.com/wp-content/uploads/tieng-huyt-sao-huyt-gio-huyt-hiu-www_tiengdong_com.mp3
+  new: https://tiengdong.com/wp-content/uploads/Tieng-huyt-sao-www_tiengdong_com.mp3
+  removed wrong file /home/hatch/workspace/kho-sound-meme/sounds/cuoi-reaction/tieng-huyt-sao-huyt-gio-huyt-hiu-www_tiengdong_com.mp3
+  -> Tieng-huyt-sao-www_tiengdong_com.mp3 968896 bytes duration=23.36 | /home/hatch/workspace/kho-sound-meme/sounds/cuoi-reaction/Tieng-huyt-sao-www_tiengdong_com.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 320 kbps, 44.1 kHz, JntStereo
+[30/100] tieng-huyt-sao-1-tieng-duy-nhat OK method=wp-audio-shortcode tieng-huyt-sao-1-tieng-duy-nhat-www_tiengdong_com.mp3
+[31/100] sad-trombone-wah-wah-wah-fail-sound-effect OK method=wp-audio-shortcode Sad-trombone-wah-wah-wah-fail-sound-effect-www_tiengdong_com.mp3
+[32/100] fail-sound-effect WRONG method=wp-audio-shortcode
+  old: https://tiengdong.com/wp-content/uploads/Sad-trombone-wah-wah-wah-fail-sound-effect-www_tiengdong_com.mp3
+  new: https://tiengdong.com/wp-content/uploads/Fail-sound-effect-www_tiengdong_com.mp3
+  removed wrong file /home/hatch/workspace/kho-sound-meme/sounds/meme-punch/Sad-trombone-wah-wah-wah-fail-sound-effect-www_tiengdong_com-2.mp3
+  -> Fail-sound-effect-www_tiengdong_com.mp3 355733 bytes duration=5.99 | /home/hatch/workspace/kho-sound-meme/sounds/meme-punch/Fail-sound-effect-www_tiengdong_com.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+[33/100] dramatic-sound OK method=wp-audio-shortcode Dramatic-sound-www_tiengdong_com.mp3
+[34/100] dramatic-vine-instagram-boom-sound-effect OK method=wp-audio-shortcode Dramatic-vine-instagram-boom-sound-effect-www_tiengdong_com.mp3
+[35/100] boom-sound-effect WRONG method=wp-audio-shortcode
+  old: https://tiengdong.com/wp-content/uploads/Dramatic-vine-instagram-boom-sound-effect-www_tiengdong_com.mp3
+  new: https://tiengdong.com/wp-content/uploads/Boom-sound-effect-www_tiengdong_com.mp3
+  removed wrong file /home/hatch/workspace/kho-sound-meme/sounds/meme-punch/Dramatic-vine-instagram-boom-sound-effect-www_tiengdong_com-2.mp3
+  -> Boom-sound-effect-www_tiengdong_com.mp3 309340 bytes duration=3.088 | /home/hatch/workspace/kho-sound-meme/sounds/meme-punch/Boom-sound-effect-www_tiengdong_com.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Stereo
+[36/100] whoosh-sound-effect OK method=wp-audio-shortcode Whoosh-sound-effect-www_tiengdong_com.mp3
+[37/100] pop-sound-effect OK method=wp-audio-shortcode pop-sound-effect-www_tiengdong_com.mp3
+[38/100] ding-sound-effect OK method=wp-audio-shortcode Ding-sound-effect-www_tiengdong_com.mp3
+[39/100] the-price-is-right-ding-sound-effect OK method=wp-audio-shortcode the-price-is-right-ding-sound-effect-www_tiengdong_com.mp3
+[40/100] am-thanh-ta-da OK method=wp-audio-shortcode Am-thanh-ta-da-www_tiengdong_com.mp3
+[41/100] am-thanh-ten-ten-ten-bat-ngo OK method=wp-audio-shortcode am-thanh-ten-ten-ten-bat-ngo-www_tiengdong_com.mp3
+[42/100] bruh-sound-effect OK method=wp-audio-shortcode Bruh-sound-effect-www_tiengdong_com.mp3
+[43/100] oof-sound-effect WRONG method=wp-audio-shortcode
+  old: https://tiengdong.com/wp-content/uploads/Minecraft-damage-oof-sound-effect-www_tiengdong_com.mp3
+  new: https://tiengdong.com/wp-content/uploads/Oof-sound-effect-www_tiengdong_com.mp3
+  removed wrong file /home/hatch/workspace/kho-sound-meme/sounds/meme-punch/Minecraft-damage-oof-sound-effect-www_tiengdong_com.mp3
+  -> Oof-sound-effect-www_tiengdong_com.mp3 84175 bytes duration=2.4 | /home/hatch/workspace/kho-sound-meme/sounds/meme-punch/Oof-sound-effect-www_tiengdong_com.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 48 kHz, JntStereo
+[44/100] windows-xp-error-sound-effect OK method=wp-audio-shortcode windows-xp-error-sound-effect-www_tiengdong_com.mp3
+[45/100] tieng-danh-ram-meme OK method=wp-audio-shortcode tieng-danh-ram-meme-www_tiengdong_com.mp3
+[46/100] am-thanh-tru-luong-tiktok OK method=wp-audio-shortcode am-thanh-tru-luong-tiktok-www_tiengdong_com.mp3
+[47/100] nhac-chuong-sep-oi-co-dien-thoai OK method=wp-audio-shortcode nhac-chuong-sep-oi-co-dien-thoai-www_tiengdong_com.mp3
+[48/100] nhac-chuong-bao-cao-sep-co-dien-thoai OK method=wp-audio-shortcode nhac-chuong-bao-cao-sep-co-dien-thoai-www_tiengdong_com.mp3
+[49/100] ban-biet-gi-chua-ui-troi-dat-oi-tui-het-tien-roi-ban-goc OK method=wp-audio-shortcode cau-noi-viral-ban-biet-gi-chua-ui-troi-dat-oi-tui-het-tien-roi-ban-goc-www_tiengdong_com.mp3
+[50/100] troi-oi-duoc-khong-ni-yen-tam-len-ban-goc OK method=wp-audio-shortcode cau-noi-viral-troi-oi-duoc-khong-ni-yen-tam-len-ban-goc-www_tiengdong_com.mp3
+[51/100] roi-cac-ban-thay-que-khong-linda OK method=wp-audio-shortcode am-thanh-meme-roi-cac-ban-thay-que-khong-linda-www_tiengdong_com.mp3
+[52/100] dua-thoi-dung-co-lam-qua-linda OK method=wp-audio-shortcode cau-noi-viral-dua-thoi-dung-co-lam-qua-linda-www_tiengdong_com.mp3
+[53/100] noi-the-thi-chiu-roi-rambo OK method=wp-audio-shortcode cau-noi-viral-noi-the-thi-chiu-roi-rambo-www_tiengdong_com.mp3
+[54/100] ai-ep-may-met-thi-nghi-chi-phien-ban-goc OK method=wp-audio-shortcode cau-noi-viral-ai-ep-may-met-thi-nghi-chi-phien-ban-goc-www_tiengdong_com.mp3
+[55/100] co-len-co-len-sap-toi-roi-sap-toi-roi-ban-goc OK method=wp-audio-shortcode cau-noi-viral-co-len-co-len-sap-toi-roi-sap-toi-roi-ban-goc-www_tiengdong_com.mp3
+[56/100] tieng-chim-hot-buoi-sang WRONG method=article-post-3704
+  old: https://tiengdong.com/wp-content/uploads/tieng-chim-hut-mat-xac-phao-www_tiengdong_com.mp3
+  new: https://tiengdong.com/wp-content/uploads/Tieng-chim-hot-buoi-sang-www_tiengdong_com.mp3
+  removed wrong file /home/hatch/workspace/kho-sound-meme/sounds/thien-nhien-dong-vat/tieng-chim-hut-mat-xac-phao-www_tiengdong_com.mp3
+  -> Tieng-chim-hot-buoi-sang-www_tiengdong_com.mp3 2683331 bytes duration=66.194 | /home/hatch/workspace/kho-sound-meme/sounds/thien-nhien-dong-vat/Tieng-chim-hot-buoi-sang-www_tiengdong_com.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 320 kbps, 44.1 kHz, Monaural
+[57/100] tieng-mua-roi OK method=wp-audio-shortcode Tieng-mua-roi-www_tiengdong_com.mp3
+[58/100] tieng-song-bien-nhe-nhang OK method=wp-audio-shortcode Tieng-song-bien-nhe-nhang-www_tiengdong_com.mp3
+[59/100] tieng-gio-thoi OK method=wp-audio-shortcode Tieng-gio-thoi-www_tiengdong_com.mp3
+[60/100] tieng-sam-set-khi-troi-bat-dau-mua OK method=wp-audio-shortcode Tieng-sam-set-khi-troi-bat-dau-mua-www_tiengdong_com.mp3
+[61/100] tieng-meo-keu-de-thuong OK method=wp-audio-shortcode Tieng-meo-keu-de-thuong-www_tiengdong_com.mp3
+[62/100] tieng-con-cho-sua-ngan-3-tieng OK method=wp-audio-shortcode Tieng-con-cho-sua-ngan-3-tieng-www_tiengdong_com.mp3
+[63/100] tieng-chim-hai-au-keu-va-tieng-song-bien OK method=wp-audio-shortcode Tieng-chim-hai-au-keu-va-tieng-song-bien-www_tiengdong_com.mp3
+[64/100] tieng-mua-roi-ti-tach-tren-mai-hien OK method=wp-audio-shortcode Tieng-mua-ti-tach-tren-mai-hien-www_tiengdong_com.mp3
+[65/100] tieng-keu-cac-con-vat-nuoi-trong-gia-dinh OK method=article-post-43936 tieng-keu-cac-con-vat-nuoi-trong-gia-dinh-www_tiengdong_com.mp3
+[66/100] am-thanh-thong-bao OK method=wp-audio-shortcode am-thanh-thong-bao-www_tiengdong_com.mp3
+[67/100] am-thanh-thong-bao-ios-17 OK method=wp-audio-shortcode am-thanh-thong-bao-ios-17-www_tiengdong_com.mp3
+[68/100] am-thanh-thong-bao-canh-bao-cong-nghe-cao OK method=wp-audio-shortcode Am-thanh-thong-bao-canh-bao-cong-nghe-cao-www_tiengdong_com.mp3
+[69/100] am-thanh-thong-bao-de-thuong OK method=wp-audio-shortcode am-thanh-thong-bao-de-thuong-www_tiengdong_com.mp3
+[70/100] am-thanh-sac-pin-samsung-galaxy OK method=wp-audio-shortcode am-thanh-sac-pin-samsung-galaxy-www_tiengdong_com.mp3
+[71/100] tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan OK method=wp-audio-shortcode tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan-www_tiengdong_com.mp3
+[72/100] tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi OK method=wp-audio-shortcode tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3
+[73/100] nhac-chuong-bao-thuc-iphone OK method=wp-audio-shortcode Nhac-chuong-bao-thuc-iphone-www_tiengdong_com.mp3
+[74/100] tieng-bip-bip-bam-mat-ma-mo-khoa-cua OK method=wp-audio-shortcode tieng-bip-bip-bam-mat-ma-mo-khoa-cua-www_tiengdong_com.mp3
+[75/100] am-thanh-thong-bao-wechat OK method=wp-audio-shortcode am-thanh-thong-bao-wechat-www_tiengdong_com.mp3
+[76/100] sfx-le-tuan-khang-cinematic-tension-trailer OK method=wp-audio-shortcode sfx-le-tuan-khang-cinematic-tension-trailer-www_tiengdong_com.mp3
+[77/100] nhac-trailer-kich-tinh OK method=wp-audio-shortcode Nhac-trailer-kich-tinh-www_tiengdong_com.mp3
+[78/100] am-thanh-nhip-trong-trong-trailer-phim OK method=wp-audio-shortcode Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3
+[79/100] am-thanh-xuat-hien-mo-dau-cua-trailer-phim OK method=wp-audio-shortcode Am-thanh-xuat-hien-mo-dau-cua-trailer-phim-www_tiengdong_com.mp3
+[80/100] hit-boom-impact-thud-movie-trailer-cinematic-sound-effect OK method=wp-audio-shortcode hit-boom-impact-thud-movie-trailer-cinematic-sound-effect-www_tiengdong_com.mp3
+[81/100] nhac-nen-phim-hanh-dong-dau-sung-cang-thang OK method=wp-audio-shortcode Nhac-nen-phim-hanh-dong-dau-sung-cang-thang-www_tiengdong_com.mp3
+[82/100] am-thanh-nguy-hiem-hoi-hop-trong-phim OK method=wp-audio-shortcode Am-thanh-nguy-hiem-hoi-hop-trong-phim-www_tiengdong_com.mp3
+[83/100] am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky OK method=wp-audio-shortcode Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3
+[84/100] am-thanh-hoanh-trang-gay-soc OK method=wp-audio-shortcode Am-thanh-hoanh-trang-gay-soc-www_tiengdong_com.mp3
+[85/100] tieng-bom-no-va-tieng-day-chay-cham-chay OK method=wp-audio-shortcode tieng-bom-no-va-tieng-day-chay-cham-chay-www_tiengdong_com.mp3
+[86/100] tieng-xe-o-to-chay-qua-lai-tren-duong OK method=wp-audio-shortcode Tieng-xe-o-to-chay-qua-lai-tren-duong-www_tiengdong_com.mp3
+[87/100] tieng-xe-tai-chay-qua-lai-o-duong-pho OK method=wp-audio-shortcode Tieng-xe-tai-chay-qua-lai-o-duong-pho-www_tiengdong_com.mp3
+[88/100] tieng-xe-co-qua-lai-tren-duong-cao-toc OK method=wp-audio-shortcode Tieng-xe-co-qua-lai-tren-duong-cao-toc-www_tiengdong_com.mp3
+[89/100] tieng-xe-buyt-chay-tren-duong OK method=wp-audio-shortcode Tieng-xe-buyt-chay-tren-duong-www_tiengdong_com.mp3
+[90/100] tieng-xe-o-to-tang-toc OK method=wp-audio-shortcode Tieng-xe-o-to-tang-toc-www_tiengdong_com.mp3
+[91/100] am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam OK method=wp-audio-shortcode am-thanh-moi-truong-tieng-on-ao-o-cho-viet-nam-www_tiengdong_com.mp3
+[92/100] tieng-nau-an-va-mo-nap OK method=wp-audio-shortcode Tieng-nau-va-mo-nap-www_tiengdong_com.mp3
+[93/100] tieng-nau-an-trong-bep OK method=wp-audio-shortcode Tieng-nau-an-trong-bep-www_tiengdong_com.mp3
+[94/100] tieng-tre-em-cuoi-dua-va-chay OK method=wp-audio-shortcode Tieng-tre-em-cuoi-dua-va-chay-www_tiengdong_com.mp3
+[95/100] tieng-cuoi-tre-em OK method=wp-audio-shortcode Tieng-cuoi-tre-em-www_tiengdong_com.mp3
+[96/100] tieng-tre-em-khoc-nhe-doi-thu-gi-do OK method=wp-audio-shortcode Tieng-tre-em-khoc-nhe-doi-thu-gi-do-www_tiengdong_com.mp3
+[97/100] tieng-nhieu-nguoi-noi-happy-birthday OK method=wp-audio-shortcode Tieng-nhieu-nguoi-noi-happy-birthday-www_tiengdong_com.mp3
+[98/100] tieng-thoi-ken-party-horn-trong-tiec-sinh-nhat OK method=wp-audio-shortcode Tieng-thoi-ken-party-horn-trong-tiec-sinh-nhat-www_tiengdong_com.mp3
+[99/100] tieng-buoc-chan-di-len-cau-thang WRONG method=wp-audio-shortcode
+  old: https://tiengdong.com/wp-content/uploads/tieng-buoc-chan-di-tren-dat-bun-lay-nen-dat-am-uot-sample-2-www_tiengdong_com.mp3
+  new: https://tiengdong.com/wp-content/uploads/Tieng-buoc-chan-di-len-cau-thang-www_tiengdong_com.mp3
+  removed wrong file /home/hatch/workspace/kho-sound-meme/sounds/gia-dinh-doi-song/tieng-buoc-chan-di-tren-dat-bun-lay-nen-dat-am-uot-sample-2-www_tiengdong_com.mp3
+  -> Tieng-buoc-chan-di-len-cau-thang-www_tiengdong_com.mp3 318699 bytes duration=11.842 | /home/hatch/workspace/kho-sound-meme/sounds/gia-dinh-doi-song/Tieng-buoc-chan-di-len-cau-thang-www_tiengdong_com.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 192 kbps, 44.1 kHz, Monaural
+[100/100] tieng-chuong-cua WRONG method=wp-audio-shortcode
+  old: https://tiengdong.com/wp-content/uploads/Tong-hop-cac-tieng-chuong-cua-hay-nhat-www_tiengdong_com.mp3
+  new: https://tiengdong.com/wp-content/uploads/Tieng-chuong-cua-www-tiengdong_com.mp3
+  removed wrong file /home/hatch/workspace/kho-sound-meme/sounds/gia-dinh-doi-song/Tong-hop-cac-tieng-chuong-cua-hay-nhat-www_tiengdong_com.mp3
+  -> Tieng-chuong-cua-www-tiengdong_com.mp3 349611 bytes duration=2.271 | /home/hatch/workspace/kho-sound-meme/sounds/gia-dinh-doi-song/Tieng-chuong-cua-www-tiengdong_com.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 320 kbps, 44.1 kHz, JntStereo
+AUDIT DONE kept=90 fixed=10 unresolved=0 downloaded=100/100 total_bytes=71789673
+FIXED: ['am-thanh-go-ban-phim-may-tinh', 'tieng-click-chuot', 'tieng-vo-tay', 'tieng-huyt-sao', 'fail-sound-effect', 'boom-sound-effect', 'oof-sound-effect', 'tieng-chim-hot-buoi-sang', 'tieng-buoc-chan-di-len-cau-thang', 'tieng-chuong-cua']
+UNRESOLVED: []

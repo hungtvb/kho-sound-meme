@@ -1,0 +1,127 @@
+{
+  "group": "Công nghệ/UI",
+  "group_slug": "cong-nghe-ui",
+  "count": 10,
+  "items": [
+    {
+      "name": "Âm thanh thông báo MP3",
+      "slug": "am-thanh-thong-bao",
+      "file": "am-thanh-thong-bao-www_tiengdong_com.mp3",
+      "duration_s": 1.23,
+      "bytes": 279969,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/am-thanh-thong-bao",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Âm thanh thông báo iOS 17",
+      "slug": "am-thanh-thong-bao-ios-17",
+      "file": "am-thanh-thong-bao-ios-17-www_tiengdong_com.mp3",
+      "duration_s": 0.98,
+      "bytes": 275789,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/am-thanh-thong-bao-ios-17",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-ios-17-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Âm thanh Thông báo, Cảnh báo công nghệ cao",
+      "slug": "am-thanh-thong-bao-canh-bao-cong-nghe-cao",
+      "file": "Am-thanh-thong-bao-canh-bao-cong-nghe-cao-www_tiengdong_com.mp3",
+      "duration_s": 3.29,
+      "bytes": 113445,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/am-thanh-thong-bao-canh-bao-cong-nghe-cao",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-thong-bao-canh-bao-cong-nghe-cao-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Âm thanh thông báo Dễ Thương",
+      "slug": "am-thanh-thong-bao-de-thuong",
+      "file": "am-thanh-thong-bao-de-thuong-www_tiengdong_com.mp3",
+      "duration_s": 1.93,
+      "bytes": 290835,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/am-thanh-thong-bao-de-thuong",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-de-thuong-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Âm thanh sạc pin Samsung Galaxy",
+      "slug": "am-thanh-sac-pin-samsung-galaxy",
+      "file": "am-thanh-sac-pin-samsung-galaxy-www_tiengdong_com.mp3",
+      "duration_s": 1.27,
+      "bytes": 271684,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/am-thanh-sac-pin-samsung-galaxy",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-sac-pin-samsung-galaxy-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Tiếng chuông thông báo Đồng hồ Casio (kêu 1 lần)",
+      "slug": "tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan",
+      "file": "tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan-www_tiengdong_com.mp3",
+      "duration_s": 0.81,
+      "bytes": 52563,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Tiếng Loa Bluetooth thông báo kết nối với thiết bị",
+      "slug": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi",
+      "file": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3",
+      "duration_s": 43.56,
+      "bytes": 744070,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Nhạc chuông Báo Thức iPhone",
+      "slug": "nhac-chuong-bao-thuc-iphone",
+      "file": "Nhac-chuong-bao-thuc-iphone-www_tiengdong_com.mp3",
+      "duration_s": 14.84,
+      "bytes": 497442,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-iphone",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-chuong-bao-thuc-iphone-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Tiếng bíp bíp Bấm Mật Mã mở khóa cửa",
+      "slug": "tieng-bip-bip-bam-mat-ma-mo-khoa-cua",
+      "file": "tieng-bip-bip-bam-mat-ma-mo-khoa-cua-www_tiengdong_com.mp3",
+      "duration_s": 11.16,
+      "bytes": 219040,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-bip-bip-bam-mat-ma-mo-khoa-cua",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-bip-bip-bam-mat-ma-mo-khoa-cua-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Âm thanh thông báo Wechat",
+      "slug": "am-thanh-thong-bao-wechat",
+      "file": "am-thanh-thong-bao-wechat-www_tiengdong_com.mp3",
+      "duration_s": 2.18,
+      "bytes": 294286,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/am-thanh-thong-bao-wechat",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-wechat-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    }
+  ]
+}

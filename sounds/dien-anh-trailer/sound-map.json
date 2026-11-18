@@ -1,0 +1,127 @@
+{
+  "group": "Điện ảnh/Trailer",
+  "group_slug": "dien-anh-trailer",
+  "count": 10,
+  "items": [
+    {
+      "name": "SFX Lê Tuấn Khang – Cinematic Tension Trailer",
+      "slug": "sfx-le-tuan-khang-cinematic-tension-trailer",
+      "file": "sfx-le-tuan-khang-cinematic-tension-trailer-www_tiengdong_com.mp3",
+      "duration_s": 77.34,
+      "bytes": 1404184,
+      "viral": true,
+      "viral_note": "Tên creator viral TikTok Lê Tuấn Khang",
+      "source_url": "https://tiengdong.com/sfx-le-tuan-khang-cinematic-tension-trailer",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/sfx-le-tuan-khang-cinematic-tension-trailer-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Nhạc Trailer Kịch Tính",
+      "slug": "nhac-trailer-kich-tinh",
+      "file": "Nhac-trailer-kich-tinh-www_tiengdong_com.mp3",
+      "duration_s": 60.34,
+      "bytes": 2459793,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/nhac-trailer-kich-tinh",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-trailer-kich-tinh-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Âm thanh Nhịp Trống trong trailer phim",
+      "slug": "am-thanh-nhip-trong-trong-trailer-phim",
+      "file": "Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3",
+      "duration_s": 22.61,
+      "bytes": 577277,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/am-thanh-nhip-trong-trong-trailer-phim",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-nhip-trong-trong-trailer-phim-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Âm thanh xuất hiện mở đầu của trailer phim",
+      "slug": "am-thanh-xuat-hien-mo-dau-cua-trailer-phim",
+      "file": "Am-thanh-xuat-hien-mo-dau-cua-trailer-phim-www_tiengdong_com.mp3",
+      "duration_s": 10.54,
+      "bytes": 458743,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/am-thanh-xuat-hien-mo-dau-cua-trailer-phim",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-xuat-hien-mo-dau-cua-trailer-phim-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Hit/Boom/Impact/Thud (Movie Trailer Cinematic) sound effect",
+      "slug": "hit-boom-impact-thud-movie-trailer-cinematic-sound-effect",
+      "file": "hit-boom-impact-thud-movie-trailer-cinematic-sound-effect-www_tiengdong_com.mp3",
+      "duration_s": 9.71,
+      "bytes": 202395,
+      "viral": true,
+      "viral_note": "Trailer boom – dòng Vine Boom viral",
+      "source_url": "https://tiengdong.com/hit-boom-impact-thud-movie-trailer-cinematic-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/hit-boom-impact-thud-movie-trailer-cinematic-sound-effect-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Nhạc nền phim Hành Động Đấu Súng căng thẳng",
+      "slug": "nhac-nen-phim-hanh-dong-dau-sung-cang-thang",
+      "file": "Nhac-nen-phim-hanh-dong-dau-sung-cang-thang-www_tiengdong_com.mp3",
+      "duration_s": 50.16,
+      "bytes": 1238293,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/nhac-nen-phim-hanh-dong-dau-sung-cang-thang",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-nen-phim-hanh-dong-dau-sung-cang-thang-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Âm thanh Nguy hiểm, Hồi hộp trong phim",
+      "slug": "am-thanh-nguy-hiem-hoi-hop-trong-phim",
+      "file": "Am-thanh-nguy-hiem-hoi-hop-trong-phim-www_tiengdong_com.mp3",
+      "duration_s": 8.71,
+      "bytes": 385617,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/am-thanh-nguy-hiem-hoi-hop-trong-phim",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-nguy-hiem-hoi-hop-trong-phim-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Âm thanh cái kết xuất hiện Hồi hộp và Ly kỳ",
+      "slug": "am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
+      "file": "Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3",
+      "duration_s": 57.46,
+      "bytes": 1413439,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-cai-ket-xuat-hien-hoi-hop-va-ly-ky-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Hiệu ứng âm thanh Hoành tráng, Gây sốc",
+      "slug": "am-thanh-hoanh-trang-gay-soc",
+      "file": "Am-thanh-hoanh-trang-gay-soc-www_tiengdong_com.mp3",
+      "duration_s": 14.26,
+      "bytes": 600933,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/am-thanh-hoanh-trang-gay-soc",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-hoanh-trang-gay-soc-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    },
+    {
+      "name": "Tiếng Bom Nổ và tiếng Dây cháy chậm cháy",
+      "slug": "tieng-bom-no-va-tieng-day-chay-cham-chay",
+      "file": "tieng-bom-no-va-tieng-day-chay-cham-chay-www_tiengdong_com.mp3",
+      "duration_s": 41.29,
+      "bytes": 495313,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-bom-no-va-tieng-day-chay-cham-chay",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-bom-no-va-tieng-day-chay-cham-chay-www_tiengdong_com.mp3",
+      "audit": "ok (wp-audio-shortcode)"
+    }
+  ]
+}
