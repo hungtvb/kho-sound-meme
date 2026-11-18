@@ -1,7 +1,7 @@
 {
   "group": "Thiên nhiên/Động vật",
   "group_slug": "thien-nhien-dong-vat",
-  "count": 10,
+  "count": 31,
   "items": [
     {
       "name": "Tiếng chim hót Buổi Sáng",
@@ -13,7 +13,18 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-chim-hot-buoi-sang",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chim-hot-buoi-sang-www_tiengdong_com.mp3",
-      "audit": "FIXED (article-post-3704): replaced wrong sidebar mp3 tieng-chim-hut-mat-xac-phao-www_tiengdong_com.mp3 with page main player mp3"
+      "audit": "FIXED (article-post-3704): replaced wrong sidebar mp3 tieng-chim-hut-mat-xac-phao-www_tiengdong_com.mp3 with page main player mp3",
+      "kind": "original",
+      "long": true,
+      "tags": [
+        "chim hót",
+        "buổi sáng"
+      ],
+      "tags_ascii": [
+        "chim hot",
+        "buoi sang"
+      ],
+      "use_case_vi": "Dùng làm nền buổi sáng yên bình, đi làm sớm."
     },
     {
       "name": "Tiếng Mưa Rơi",
@@ -25,7 +36,20 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-mua-roi",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-mua-roi-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "long": true,
+      "tags": [
+        "mưa",
+        "buồn",
+        "ngoài trời"
+      ],
+      "tags_ascii": [
+        "mua",
+        "buon",
+        "ngoai troi"
+      ],
+      "use_case_vi": "Dùng làm nền buồn hoặc cảnh chờ đợi, trời mưa ngoài cửa sổ."
     },
     {
       "name": "Tiếng Sóng Biển nhẹ nhàng",
@@ -37,7 +61,18 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-song-bien-nhe-nhang",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-song-bien-nhe-nhang-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "long": true,
+      "tags": [
+        "sóng biển",
+        "thư giãn"
+      ],
+      "tags_ascii": [
+        "song bien",
+        "thu gian"
+      ],
+      "use_case_vi": "Dùng làm nền thư giãn cho cảnh nghỉ trưa hoặc thả hồn."
     },
     {
       "name": "Hiệu ứng âm thanh tiếng Gió Thổi",
@@ -49,7 +84,17 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-gio-thoi",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-gio-thoi-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "gió",
+        "ngoài trời"
+      ],
+      "tags_ascii": [
+        "gio",
+        "ngoai troi"
+      ],
+      "use_case_vi": "Dùng làm nền gió nhẹ cho cảnh ngoài trời."
     },
     {
       "name": "Tiếng Sấm Sét khi trời bắt đầu Mưa",
@@ -61,7 +106,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-sam-set-khi-troi-bat-dau-mua",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-sam-set-khi-troi-bat-dau-mua-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "mưa",
+        "buồn",
+        "ngoài trời"
+      ],
+      "tags_ascii": [
+        "mua",
+        "buon",
+        "ngoai troi"
+      ],
+      "use_case_vi": "Dùng làm nền buồn hoặc cảnh chờ đợi, trời mưa ngoài cửa sổ."
     },
     {
       "name": "Tiếng Mèo Kêu dễ thương",
@@ -73,7 +130,22 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-meo-keu-de-thuong",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-meo-keu-de-thuong-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "long": true,
+      "tags": [
+        "mèo",
+        "chó",
+        "thú cưng",
+        "dễ thương"
+      ],
+      "tags_ascii": [
+        "meo",
+        "cho",
+        "thu cung",
+        "de thuong"
+      ],
+      "use_case_vi": "Dùng chèn tiếng vật nuôi kêu cho cảnh dễ thương."
     },
     {
       "name": "Tiếng con Chó sủa (ngắn, 3 tiếng)",
@@ -85,7 +157,21 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-con-cho-sua-ngan-3-tieng",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-con-cho-sua-ngan-3-tieng-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "mèo",
+        "chó",
+        "thú cưng",
+        "dễ thương"
+      ],
+      "tags_ascii": [
+        "meo",
+        "cho",
+        "thu cung",
+        "de thuong"
+      ],
+      "use_case_vi": "Dùng chèn tiếng vật nuôi kêu cho cảnh dễ thương."
     },
     {
       "name": "Tiếng chim Hải Âu kêu và tiếng Sóng Biển",
@@ -97,7 +183,21 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-chim-hai-au-keu-va-tieng-song-bien",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chim-hai-au-keu-va-tieng-song-bien-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "sóng biển",
+        "thư giãn",
+        "chim hót",
+        "buổi sáng"
+      ],
+      "tags_ascii": [
+        "song bien",
+        "thu gian",
+        "chim hot",
+        "buoi sang"
+      ],
+      "use_case_vi": "Dùng làm nền thư giãn cho cảnh nghỉ trưa hoặc thả hồn."
     },
     {
       "name": "Tiếng Mưa rơi Tí tách trên Mái hiên",
@@ -109,7 +209,20 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-mua-roi-ti-tach-tren-mai-hien",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-mua-ti-tach-tren-mai-hien-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "long": true,
+      "tags": [
+        "mưa",
+        "buồn",
+        "ngoài trời"
+      ],
+      "tags_ascii": [
+        "mua",
+        "buon",
+        "ngoai troi"
+      ],
+      "use_case_vi": "Dùng làm nền buồn hoặc cảnh chờ đợi, trời mưa ngoài cửa sổ."
     },
     {
       "name": "Tiếng kêu các Con Vật Nuôi trong gia đình",
@@ -121,7 +234,634 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-keu-cac-con-vat-nuoi-trong-gia-dinh",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-keu-cac-con-vat-nuoi-trong-gia-dinh-www_tiengdong_com.mp3",
-      "audit": "ok (article-post-43936)"
+      "audit": "ok (article-post-43936)",
+      "kind": "original",
+      "long": true,
+      "tags": [
+        "mèo",
+        "chó",
+        "thú cưng",
+        "dễ thương"
+      ],
+      "tags_ascii": [
+        "meo",
+        "cho",
+        "thu cung",
+        "de thuong"
+      ],
+      "use_case_vi": "Dùng chèn tiếng vật nuôi kêu cho cảnh dễ thương."
+    },
+    {
+      "name": "Tiếng chim hót Buổi Sáng (đoạn 01)",
+      "slug": "tieng-chim-hot-buoi-sang__c01",
+      "file": "tieng-chim-hot-buoi-sang__c01.mp3",
+      "duration_s": 1.3,
+      "bytes": 21776,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-chim-hot-buoi-sang",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chim-hot-buoi-sang-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-chim-hot-buoi-sang-www_tiengdong_com.mp3, đoạn 8.13–9.43 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-chim-hot-buoi-sang",
+      "start_s": 8.13,
+      "end_s": 9.43,
+      "tags": [
+        "chim hót",
+        "buổi sáng"
+      ],
+      "tags_ascii": [
+        "chim hot",
+        "buoi sang"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền buổi sáng yên bình, đi làm sớm.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Tiếng chim hót Buổi Sáng (nền lặp ~10 giây)",
+      "slug": "tieng-chim-hot-buoi-sang__c02",
+      "file": "tieng-chim-hot-buoi-sang__c02.mp3",
+      "duration_s": 10.0,
+      "bytes": 160957,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-chim-hot-buoi-sang",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chim-hot-buoi-sang-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-chim-hot-buoi-sang-www_tiengdong_com.mp3, đoạn 28.5–38.5 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-chim-hot-buoi-sang",
+      "start_s": 28.5,
+      "end_s": 38.5,
+      "tags": [
+        "chim hót",
+        "buổi sáng",
+        "nền lặp",
+        "vòng lặp"
+      ],
+      "tags_ascii": [
+        "chim hot",
+        "buoi sang",
+        "nen lap",
+        "vong lap"
+      ],
+      "use_case_vi": "Nền lặp khoảng 10 giây; Dùng làm nền buổi sáng yên bình, đi làm sớm.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Tiếng chim hót Buổi Sáng (đoạn 03)",
+      "slug": "tieng-chim-hot-buoi-sang__c03",
+      "file": "tieng-chim-hot-buoi-sang__c03.mp3",
+      "duration_s": 1.3,
+      "bytes": 21776,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-chim-hot-buoi-sang",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chim-hot-buoi-sang-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-chim-hot-buoi-sang-www_tiengdong_com.mp3, đoạn 41.18–42.48 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-chim-hot-buoi-sang",
+      "start_s": 41.18,
+      "end_s": 42.48,
+      "tags": [
+        "chim hót",
+        "buổi sáng"
+      ],
+      "tags_ascii": [
+        "chim hot",
+        "buoi sang"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền buổi sáng yên bình, đi làm sớm.",
+      "loudness_peak_db": -3.5
+    },
+    {
+      "name": "Tiếng Mưa Rơi (đoạn 01)",
+      "slug": "tieng-mua-roi__c01",
+      "file": "tieng-mua-roi__c01.mp3",
+      "duration_s": 4.0,
+      "bytes": 64940,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-mua-roi",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-mua-roi-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-mua-roi-www_tiengdong_com.mp3, đoạn 112.05–116.05 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-mua-roi",
+      "start_s": 112.05,
+      "end_s": 116.05,
+      "tags": [
+        "mưa",
+        "buồn",
+        "ngoài trời"
+      ],
+      "tags_ascii": [
+        "mua",
+        "buon",
+        "ngoai troi"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền buồn hoặc cảnh chờ đợi, trời mưa ngoài cửa sổ.",
+      "loudness_peak_db": -3.9
+    },
+    {
+      "name": "Tiếng Mưa Rơi (nền lặp ~10 giây)",
+      "slug": "tieng-mua-roi__c02",
+      "file": "tieng-mua-roi__c02.mp3",
+      "duration_s": 10.0,
+      "bytes": 160940,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-mua-roi",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-mua-roi-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-mua-roi-www_tiengdong_com.mp3, đoạn 158.1–168.1 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-mua-roi",
+      "start_s": 158.1,
+      "end_s": 168.1,
+      "tags": [
+        "mưa",
+        "buồn",
+        "ngoài trời",
+        "nền lặp",
+        "vòng lặp"
+      ],
+      "tags_ascii": [
+        "mua",
+        "buon",
+        "ngoai troi",
+        "nen lap",
+        "vong lap"
+      ],
+      "use_case_vi": "Nền lặp khoảng 10 giây; Dùng làm nền buồn hoặc cảnh chờ đợi, trời mưa ngoài cửa sổ.",
+      "loudness_peak_db": -3.6
+    },
+    {
+      "name": "Tiếng Mưa Rơi (đoạn 03)",
+      "slug": "tieng-mua-roi__c03",
+      "file": "tieng-mua-roi__c03.mp3",
+      "duration_s": 4.0,
+      "bytes": 64940,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-mua-roi",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-mua-roi-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-mua-roi-www_tiengdong_com.mp3, đoạn 185.45–189.45 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-mua-roi",
+      "start_s": 185.45,
+      "end_s": 189.45,
+      "tags": [
+        "mưa",
+        "buồn",
+        "ngoài trời"
+      ],
+      "tags_ascii": [
+        "mua",
+        "buon",
+        "ngoai troi"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền buồn hoặc cảnh chờ đợi, trời mưa ngoài cửa sổ.",
+      "loudness_peak_db": -3.0
+    },
+    {
+      "name": "Tiếng Sóng Biển nhẹ nhàng (đoạn 01)",
+      "slug": "tieng-song-bien-nhe-nhang__c01",
+      "file": "tieng-song-bien-nhe-nhang__c01.mp3",
+      "duration_s": 0.75,
+      "bytes": 12999,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-song-bien-nhe-nhang",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-song-bien-nhe-nhang-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-song-bien-nhe-nhang-www_tiengdong_com.mp3, đoạn 244.48–245.23 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-song-bien-nhe-nhang",
+      "start_s": 244.48,
+      "end_s": 245.23,
+      "tags": [
+        "sóng biển",
+        "thư giãn"
+      ],
+      "tags_ascii": [
+        "song bien",
+        "thu gian"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền thư giãn cho cảnh nghỉ trưa hoặc thả hồn.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Tiếng Sóng Biển nhẹ nhàng (đoạn 02)",
+      "slug": "tieng-song-bien-nhe-nhang__c02",
+      "file": "tieng-song-bien-nhe-nhang__c02.mp3",
+      "duration_s": 0.7,
+      "bytes": 12163,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-song-bien-nhe-nhang",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-song-bien-nhe-nhang-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-song-bien-nhe-nhang-www_tiengdong_com.mp3, đoạn 471.33–472.03 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-song-bien-nhe-nhang",
+      "start_s": 471.33,
+      "end_s": 472.03,
+      "tags": [
+        "sóng biển",
+        "thư giãn"
+      ],
+      "tags_ascii": [
+        "song bien",
+        "thu gian"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền thư giãn cho cảnh nghỉ trưa hoặc thả hồn.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Hiệu ứng âm thanh tiếng Gió Thổi (đoạn 01)",
+      "slug": "tieng-gio-thoi__c01",
+      "file": "tieng-gio-thoi__c01.mp3",
+      "duration_s": 4.0,
+      "bytes": 65244,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-gio-thoi",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-gio-thoi-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-gio-thoi-www_tiengdong_com.mp3, đoạn 0.55–4.55 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-gio-thoi",
+      "start_s": 0.55,
+      "end_s": 4.55,
+      "tags": [
+        "gió",
+        "ngoài trời"
+      ],
+      "tags_ascii": [
+        "gio",
+        "ngoai troi"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền gió nhẹ cho cảnh ngoài trời.",
+      "loudness_peak_db": -3.5
+    },
+    {
+      "name": "Hiệu ứng âm thanh tiếng Gió Thổi (đoạn 02)",
+      "slug": "tieng-gio-thoi__c02",
+      "file": "tieng-gio-thoi__c02.mp3",
+      "duration_s": 3.0,
+      "bytes": 48944,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-gio-thoi",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-gio-thoi-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-gio-thoi-www_tiengdong_com.mp3, đoạn 5.75–8.75 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-gio-thoi",
+      "start_s": 5.75,
+      "end_s": 8.75,
+      "tags": [
+        "gió",
+        "ngoài trời"
+      ],
+      "tags_ascii": [
+        "gio",
+        "ngoai troi"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền gió nhẹ cho cảnh ngoài trời.",
+      "loudness_peak_db": -3.5
+    },
+    {
+      "name": "Tiếng Mèo Kêu dễ thương (đoạn 01)",
+      "slug": "tieng-meo-keu-de-thuong__c01",
+      "file": "tieng-meo-keu-de-thuong__c01.mp3",
+      "duration_s": 0.75,
+      "bytes": 12999,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-meo-keu-de-thuong",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-meo-keu-de-thuong-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-meo-keu-de-thuong-www_tiengdong_com.mp3, đoạn 89.08–89.83 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-meo-keu-de-thuong",
+      "start_s": 89.08,
+      "end_s": 89.83,
+      "tags": [
+        "mèo",
+        "chó",
+        "thú cưng",
+        "dễ thương"
+      ],
+      "tags_ascii": [
+        "meo",
+        "cho",
+        "thu cung",
+        "de thuong"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng chèn tiếng vật nuôi kêu cho cảnh dễ thương.",
+      "loudness_peak_db": -3.5
+    },
+    {
+      "name": "Tiếng Mèo Kêu dễ thương (nền lặp ~10 giây)",
+      "slug": "tieng-meo-keu-de-thuong__c02",
+      "file": "tieng-meo-keu-de-thuong__c02.mp3",
+      "duration_s": 10.0,
+      "bytes": 160957,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-meo-keu-de-thuong",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-meo-keu-de-thuong-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-meo-keu-de-thuong-www_tiengdong_com.mp3, đoạn 92.75–102.75 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-meo-keu-de-thuong",
+      "start_s": 92.75,
+      "end_s": 102.75,
+      "tags": [
+        "mèo",
+        "chó",
+        "thú cưng",
+        "dễ thương",
+        "nền lặp",
+        "vòng lặp"
+      ],
+      "tags_ascii": [
+        "meo",
+        "cho",
+        "thu cung",
+        "de thuong",
+        "nen lap",
+        "vong lap"
+      ],
+      "use_case_vi": "Nền lặp khoảng 10 giây; Dùng chèn tiếng vật nuôi kêu cho cảnh dễ thương.",
+      "loudness_peak_db": -3.3
+    },
+    {
+      "name": "Tiếng Mèo Kêu dễ thương (đoạn 03)",
+      "slug": "tieng-meo-keu-de-thuong__c03",
+      "file": "tieng-meo-keu-de-thuong__c03.mp3",
+      "duration_s": 0.75,
+      "bytes": 12999,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-meo-keu-de-thuong",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-meo-keu-de-thuong-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-meo-keu-de-thuong-www_tiengdong_com.mp3, đoạn 97.88–98.63 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-meo-keu-de-thuong",
+      "start_s": 97.88,
+      "end_s": 98.63,
+      "tags": [
+        "mèo",
+        "chó",
+        "thú cưng",
+        "dễ thương"
+      ],
+      "tags_ascii": [
+        "meo",
+        "cho",
+        "thu cung",
+        "de thuong"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng chèn tiếng vật nuôi kêu cho cảnh dễ thương.",
+      "loudness_peak_db": -3.2
+    },
+    {
+      "name": "Tiếng chim Hải Âu kêu và tiếng Sóng Biển (đoạn 01)",
+      "slug": "tieng-chim-hai-au-keu-va-tieng-song-bien__c01",
+      "file": "tieng-chim-hai-au-keu-va-tieng-song-bien__c01.mp3",
+      "duration_s": 2.15,
+      "bytes": 35569,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-chim-hai-au-keu-va-tieng-song-bien",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chim-hai-au-keu-va-tieng-song-bien-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-chim-hai-au-keu-va-tieng-song-bien-www_tiengdong_com.mp3, đoạn 0.48–2.63 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-chim-hai-au-keu-va-tieng-song-bien",
+      "start_s": 0.48,
+      "end_s": 2.63,
+      "tags": [
+        "sóng biển",
+        "thư giãn",
+        "chim hót",
+        "buổi sáng"
+      ],
+      "tags_ascii": [
+        "song bien",
+        "thu gian",
+        "chim hot",
+        "buoi sang"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền thư giãn cho cảnh nghỉ trưa hoặc thả hồn.",
+      "loudness_peak_db": -3.5
+    },
+    {
+      "name": "Tiếng chim Hải Âu kêu và tiếng Sóng Biển (nền lặp ~10 giây)",
+      "slug": "tieng-chim-hai-au-keu-va-tieng-song-bien__c02",
+      "file": "tieng-chim-hai-au-keu-va-tieng-song-bien__c02.mp3",
+      "duration_s": 10.0,
+      "bytes": 160957,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-chim-hai-au-keu-va-tieng-song-bien",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chim-hai-au-keu-va-tieng-song-bien-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-chim-hai-au-keu-va-tieng-song-bien-www_tiengdong_com.mp3, đoạn 0.5–10.5 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-chim-hai-au-keu-va-tieng-song-bien",
+      "start_s": 0.5,
+      "end_s": 10.5,
+      "tags": [
+        "sóng biển",
+        "thư giãn",
+        "chim hót",
+        "buổi sáng",
+        "nền lặp",
+        "vòng lặp"
+      ],
+      "tags_ascii": [
+        "song bien",
+        "thu gian",
+        "chim hot",
+        "buoi sang",
+        "nen lap",
+        "vong lap"
+      ],
+      "use_case_vi": "Nền lặp khoảng 10 giây; Dùng làm nền thư giãn cho cảnh nghỉ trưa hoặc thả hồn.",
+      "loudness_peak_db": -3.3
+    },
+    {
+      "name": "Tiếng chim Hải Âu kêu và tiếng Sóng Biển (đoạn 03)",
+      "slug": "tieng-chim-hai-au-keu-va-tieng-song-bien__c03",
+      "file": "tieng-chim-hai-au-keu-va-tieng-song-bien__c03.mp3",
+      "duration_s": 4.25,
+      "bytes": 69006,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-chim-hai-au-keu-va-tieng-song-bien",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chim-hai-au-keu-va-tieng-song-bien-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-chim-hai-au-keu-va-tieng-song-bien-www_tiengdong_com.mp3, đoạn 4.33–8.58 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-chim-hai-au-keu-va-tieng-song-bien",
+      "start_s": 4.33,
+      "end_s": 8.58,
+      "tags": [
+        "sóng biển",
+        "thư giãn",
+        "chim hót",
+        "buổi sáng"
+      ],
+      "tags_ascii": [
+        "song bien",
+        "thu gian",
+        "chim hot",
+        "buoi sang"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền thư giãn cho cảnh nghỉ trưa hoặc thả hồn.",
+      "loudness_peak_db": -3.6
+    },
+    {
+      "name": "Tiếng Mưa rơi Tí tách trên Mái hiên (đoạn 01)",
+      "slug": "tieng-mua-roi-ti-tach-tren-mai-hien__c01",
+      "file": "tieng-mua-roi-ti-tach-tren-mai-hien__c01.mp3",
+      "duration_s": 0.55,
+      "bytes": 10074,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-mua-roi-ti-tach-tren-mai-hien",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-mua-ti-tach-tren-mai-hien-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-mua-ti-tach-tren-mai-hien-www_tiengdong_com.mp3, đoạn 1.38–1.93 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-mua-roi-ti-tach-tren-mai-hien",
+      "start_s": 1.38,
+      "end_s": 1.93,
+      "tags": [
+        "mưa",
+        "buồn",
+        "ngoài trời"
+      ],
+      "tags_ascii": [
+        "mua",
+        "buon",
+        "ngoai troi"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền buồn hoặc cảnh chờ đợi, trời mưa ngoài cửa sổ.",
+      "loudness_peak_db": -3.0
+    },
+    {
+      "name": "Tiếng Mưa rơi Tí tách trên Mái hiên (đoạn 02)",
+      "slug": "tieng-mua-roi-ti-tach-tren-mai-hien__c02",
+      "file": "tieng-mua-roi-ti-tach-tren-mai-hien__c02.mp3",
+      "duration_s": 0.3,
+      "bytes": 5894,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-mua-roi-ti-tach-tren-mai-hien",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-mua-ti-tach-tren-mai-hien-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Tieng-mua-ti-tach-tren-mai-hien-www_tiengdong_com.mp3, đoạn 6.475–6.775 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-mua-roi-ti-tach-tren-mai-hien",
+      "start_s": 6.475,
+      "end_s": 6.775,
+      "tags": [
+        "mưa",
+        "buồn",
+        "ngoài trời"
+      ],
+      "tags_ascii": [
+        "mua",
+        "buon",
+        "ngoai troi"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng làm nền buồn hoặc cảnh chờ đợi, trời mưa ngoài cửa sổ.",
+      "loudness_peak_db": -3.8
+    },
+    {
+      "name": "Tiếng kêu các Con Vật Nuôi trong gia đình (đoạn 01)",
+      "slug": "tieng-keu-cac-con-vat-nuoi-trong-gia-dinh__c01",
+      "file": "tieng-keu-cac-con-vat-nuoi-trong-gia-dinh__c01.mp3",
+      "duration_s": 1.0,
+      "bytes": 16940,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-keu-cac-con-vat-nuoi-trong-gia-dinh",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-keu-cac-con-vat-nuoi-trong-gia-dinh-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ tieng-keu-cac-con-vat-nuoi-trong-gia-dinh-www_tiengdong_com.mp3, đoạn 49.68–50.68 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-keu-cac-con-vat-nuoi-trong-gia-dinh",
+      "start_s": 49.68,
+      "end_s": 50.68,
+      "tags": [
+        "mèo",
+        "chó",
+        "thú cưng",
+        "dễ thương"
+      ],
+      "tags_ascii": [
+        "meo",
+        "cho",
+        "thu cung",
+        "de thuong"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng chèn tiếng vật nuôi kêu cho cảnh dễ thương.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Tiếng kêu các Con Vật Nuôi trong gia đình (nền lặp ~10 giây)",
+      "slug": "tieng-keu-cac-con-vat-nuoi-trong-gia-dinh__c02",
+      "file": "tieng-keu-cac-con-vat-nuoi-trong-gia-dinh__c02.mp3",
+      "duration_s": 10.0,
+      "bytes": 160940,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-keu-cac-con-vat-nuoi-trong-gia-dinh",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-keu-cac-con-vat-nuoi-trong-gia-dinh-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ tieng-keu-cac-con-vat-nuoi-trong-gia-dinh-www_tiengdong_com.mp3, đoạn 75.7–85.7 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-keu-cac-con-vat-nuoi-trong-gia-dinh",
+      "start_s": 75.7,
+      "end_s": 85.7,
+      "tags": [
+        "mèo",
+        "chó",
+        "thú cưng",
+        "dễ thương",
+        "nền lặp",
+        "vòng lặp"
+      ],
+      "tags_ascii": [
+        "meo",
+        "cho",
+        "thu cung",
+        "de thuong",
+        "nen lap",
+        "vong lap"
+      ],
+      "use_case_vi": "Nền lặp khoảng 10 giây; Dùng chèn tiếng vật nuôi kêu cho cảnh dễ thương.",
+      "loudness_peak_db": -3.5
+    },
+    {
+      "name": "Tiếng kêu các Con Vật Nuôi trong gia đình (đoạn 03)",
+      "slug": "tieng-keu-cac-con-vat-nuoi-trong-gia-dinh__c03",
+      "file": "tieng-keu-cac-con-vat-nuoi-trong-gia-dinh__c03.mp3",
+      "duration_s": 4.0,
+      "bytes": 64940,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-keu-cac-con-vat-nuoi-trong-gia-dinh",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-keu-cac-con-vat-nuoi-trong-gia-dinh-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ tieng-keu-cac-con-vat-nuoi-trong-gia-dinh-www_tiengdong_com.mp3, đoạn 78.6–82.6 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-keu-cac-con-vat-nuoi-trong-gia-dinh",
+      "start_s": 78.6,
+      "end_s": 82.6,
+      "tags": [
+        "mèo",
+        "chó",
+        "thú cưng",
+        "dễ thương"
+      ],
+      "tags_ascii": [
+        "meo",
+        "cho",
+        "thu cung",
+        "de thuong"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng chèn tiếng vật nuôi kêu cho cảnh dễ thương.",
+      "loudness_peak_db": -3.4
     }
   ]
 }

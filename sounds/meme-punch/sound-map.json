@@ -1,7 +1,7 @@
 {
   "group": "Meme punch/fail/dramatic",
   "group_slug": "meme-punch",
-  "count": 15,
+  "count": 22,
   "items": [
     {
       "name": "Sad Trombone Wah Wah Wah Fail sound effect",
@@ -13,7 +13,19 @@
       "viral_note": "Sad Trombone – VoxBooster: top sound hài 2026",
       "source_url": "https://tiengdong.com/sad-trombone-wah-wah-wah-fail-sound-effect",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Sad-trombone-wah-wah-wah-fail-sound-effect-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "trombone",
+        "fail",
+        "sound"
+      ],
+      "tags_ascii": [
+        "trombone",
+        "fail",
+        "sound"
+      ],
+      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file."
     },
     {
       "name": "Fail sound effect",
@@ -25,7 +37,19 @@
       "viral_note": "Fail – meme SFX kinh điển, dùng rộng trên TikTok/Shorts",
       "source_url": "https://tiengdong.com/fail-sound-effect",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Fail-sound-effect-www_tiengdong_com.mp3",
-      "audit": "FIXED (wp-audio-shortcode): replaced wrong sidebar mp3 Sad-trombone-wah-wah-wah-fail-sound-effect-www_tiengdong_com.mp3 with page main player mp3"
+      "audit": "FIXED (wp-audio-shortcode): replaced wrong sidebar mp3 Sad-trombone-wah-wah-wah-fail-sound-effect-www_tiengdong_com.mp3 with page main player mp3",
+      "kind": "original",
+      "tags": [
+        "fail",
+        "sound",
+        "effect"
+      ],
+      "tags_ascii": [
+        "fail",
+        "sound",
+        "effect"
+      ],
+      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file."
     },
     {
       "name": "Dramatic sound",
@@ -37,7 +61,17 @@
       "viral_note": "Dramatic – meme dramatic kinh điển",
       "source_url": "https://tiengdong.com/dramatic-sound",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Dramatic-sound-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "kịch tính",
+        "dramatic"
+      ],
+      "tags_ascii": [
+        "kich tinh",
+        "dramatic"
+      ],
+      "use_case_vi": "Dùng cho khoảnh khắc kịch tính trước khi lộ ra punchline."
     },
     {
       "name": "Hiệu ứng âm thanh Chiến Thắng",
@@ -49,7 +83,17 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-chien-thang",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-chien-thang-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'dramatic-vine-instagram-boom-sound-effect' bi BO theo copyright-audit (a: Ten gan Vine/Instagram; 'Vine Boom' la clip goc tu video Vine, viral_note ghi 'Vine Boom - UseSounds #1'. Nguon goc ban ); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
+      "audit": "REPLACEMENT 2026-11-18: thay 'dramatic-vine-instagram-boom-sound-effect' bi BO theo copyright-audit (a: Ten gan Vine/Instagram; 'Vine Boom' la clip goc tu video Vine, viral_note ghi 'Vine Boom - UseSounds #1'. Nguon goc ban ); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "kind": "original",
+      "tags": [
+        "chien",
+        "thang"
+      ],
+      "tags_ascii": [
+        "chien",
+        "thang"
+      ],
+      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file."
     },
     {
       "name": "Boom sound effect",
@@ -61,7 +105,21 @@
       "viral_note": "Boom – dòng Vine Boom viral",
       "source_url": "https://tiengdong.com/boom-sound-effect",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Boom-sound-effect-www_tiengdong_com.mp3",
-      "audit": "FIXED (wp-audio-shortcode): replaced wrong sidebar mp3 Dramatic-vine-instagram-boom-sound-effect-www_tiengdong_com.mp3 with page main player mp3"
+      "audit": "FIXED (wp-audio-shortcode): replaced wrong sidebar mp3 Dramatic-vine-instagram-boom-sound-effect-www_tiengdong_com.mp3 with page main player mp3",
+      "kind": "original",
+      "tags": [
+        "hit",
+        "boom",
+        "đập",
+        "kịch tính"
+      ],
+      "tags_ascii": [
+        "hit",
+        "boom",
+        "dap",
+        "kich tinh"
+      ],
+      "use_case_vi": "Dùng để nhấn một cú đập hoặc punchline thật mạnh."
     },
     {
       "name": "Whoosh sound effect",
@@ -73,7 +131,20 @@
       "viral_note": "Whoosh – transition viral, tag phổ biến trên Pixabay",
       "source_url": "https://tiengdong.com/whoosh-sound-effect",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Whoosh-sound-effect-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "long": true,
+      "tags": [
+        "whoosh",
+        "vút",
+        "chuyển cảnh"
+      ],
+      "tags_ascii": [
+        "whoosh",
+        "vut",
+        "chuyen canh"
+      ],
+      "use_case_vi": "Dùng cho hiệu ứng vút khi chuyển cảnh hoặc nhân vật rời đi."
     },
     {
       "name": "Pop sound effect",
@@ -85,7 +156,17 @@
       "viral_note": "Pop – tag phổ biến Pixabay/TikTok",
       "source_url": "https://tiengdong.com/pop-sound-effect",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/pop-sound-effect-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "sound",
+        "effect"
+      ],
+      "tags_ascii": [
+        "sound",
+        "effect"
+      ],
+      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file."
     },
     {
       "name": "Ding sound effect",
@@ -97,7 +178,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/ding-sound-effect",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Ding-sound-effect-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "ding",
+        "sound",
+        "effect"
+      ],
+      "tags_ascii": [
+        "ding",
+        "sound",
+        "effect"
+      ],
+      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file."
     },
     {
       "name": "Âm thanh Thất Bại",
@@ -109,7 +202,15 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-that-bai",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-that-bai-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'the-price-is-right-ding-sound-effect' bi BO theo copyright-audit (a: Gameshow truyen hinh 'The Price Is Right'; viral_note ghi 'Price Is Right losing horn'.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
+      "audit": "REPLACEMENT 2026-11-18: thay 'the-price-is-right-ding-sound-effect' bi BO theo copyright-audit (a: Gameshow truyen hinh 'The Price Is Right'; viral_note ghi 'Price Is Right losing horn'.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "kind": "original",
+      "tags": [
+        "that"
+      ],
+      "tags_ascii": [
+        "that"
+      ],
+      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file."
     },
     {
       "name": "Hiệu ứng âm thanh Ta Da",
@@ -121,7 +222,15 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-ta-da",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-ta-da-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "âm thanh"
+      ],
+      "tags_ascii": [
+        "am thanh"
+      ],
+      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file."
     },
     {
       "name": "Âm thanh Tèn Tén Ten (Bất ngờ)",
@@ -133,7 +242,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-ten-ten-ten-bat-ngo",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-ten-ten-ten-bat-ngo-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "sốc",
+        "bất ngờ",
+        "gây sốc"
+      ],
+      "tags_ascii": [
+        "soc",
+        "bat ngo",
+        "gay soc"
+      ],
+      "use_case_vi": "Dùng khi nhân vật sốc hoặc nghe tin bất ngờ."
     },
     {
       "name": "Hiệu ứng âm thanh Bất Ngờ",
@@ -145,7 +266,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-bat-ngo",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-bat-ngo-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'bruh-sound-effect' bi BO theo copyright-audit (c: Clip giong noi 'bruh' cua nguoi that, cat ra tu video goc; file khong ghi nguon goc/tac gia - khong chac, bo cho an toan); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
+      "audit": "REPLACEMENT 2026-11-18: thay 'bruh-sound-effect' bi BO theo copyright-audit (c: Clip giong noi 'bruh' cua nguoi that, cat ra tu video goc; file khong ghi nguon goc/tac gia - khong chac, bo cho an toan); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "kind": "original",
+      "tags": [
+        "sốc",
+        "bất ngờ",
+        "gây sốc"
+      ],
+      "tags_ascii": [
+        "soc",
+        "bat ngo",
+        "gay soc"
+      ],
+      "use_case_vi": "Dùng khi nhân vật sốc hoặc nghe tin bất ngờ."
     },
     {
       "name": "Hiệu ứng tiếng Còi hoạt hình",
@@ -157,7 +290,17 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-coi-hoat-hinh",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-coi-hoat-hinh-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'oof-sound-effect' bi BO theo copyright-audit (a: Roblox OOF - am thanh co ban quyen goc cua game Roblox; viral_note ghi 'Roblox OOF'.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
+      "audit": "REPLACEMENT 2026-11-18: thay 'oof-sound-effect' bi BO theo copyright-audit (a: Roblox OOF - am thanh co ban quyen goc cua game Roblox; viral_note ghi 'Roblox OOF'.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "kind": "original",
+      "tags": [
+        "hoat",
+        "hinh"
+      ],
+      "tags_ascii": [
+        "hoat",
+        "hinh"
+      ],
+      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file."
     },
     {
       "name": "Success sound effect",
@@ -169,7 +312,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/success-sound-effect",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/success-sound-effect-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'windows-xp-error-sound-effect' bi BO theo copyright-audit (a: Am thanh he dieu hanh Windows XP (Microsoft) - am thanh co ban quyen goc.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
+      "audit": "REPLACEMENT 2026-11-18: thay 'windows-xp-error-sound-effect' bi BO theo copyright-audit (a: Am thanh he dieu hanh Windows XP (Microsoft) - am thanh co ban quyen goc.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "kind": "original",
+      "tags": [
+        "success",
+        "sound",
+        "effect"
+      ],
+      "tags_ascii": [
+        "success",
+        "sound",
+        "effect"
+      ],
+      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file."
     },
     {
       "name": "Tiếng đánh Rắm meme",
@@ -181,7 +336,207 @@
       "viral_note": "Tiếng đánh rắm meme – meme sound phổ biến; bản Fart 4/5 từng trending trên Pixabay",
       "source_url": "https://tiengdong.com/tieng-danh-ram-meme",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-danh-ram-meme-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "danh",
+        "meme"
+      ],
+      "tags_ascii": [
+        "danh",
+        "meme"
+      ],
+      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file."
+    },
+    {
+      "name": "Dramatic sound (đoạn 01)",
+      "slug": "dramatic-sound__c01",
+      "file": "dramatic-sound__c01.mp3",
+      "duration_s": 3.0,
+      "bytes": 48944,
+      "viral": true,
+      "viral_note": "Cắt từ bản gốc viral",
+      "source_url": "https://tiengdong.com/dramatic-sound",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Dramatic-sound-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Dramatic-sound-www_tiengdong_com.mp3, đoạn 4.4–7.4 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "dramatic-sound",
+      "start_s": 4.4,
+      "end_s": 7.4,
+      "tags": [
+        "kịch tính",
+        "dramatic"
+      ],
+      "tags_ascii": [
+        "kich tinh",
+        "dramatic"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho khoảnh khắc kịch tính trước khi lộ ra punchline.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Dramatic sound (đoạn 02)",
+      "slug": "dramatic-sound__c02",
+      "file": "dramatic-sound__c02.mp3",
+      "duration_s": 4.0,
+      "bytes": 65244,
+      "viral": true,
+      "viral_note": "Cắt từ bản gốc viral",
+      "source_url": "https://tiengdong.com/dramatic-sound",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Dramatic-sound-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Dramatic-sound-www_tiengdong_com.mp3, đoạn 10.9–14.9 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "dramatic-sound",
+      "start_s": 10.9,
+      "end_s": 14.9,
+      "tags": [
+        "kịch tính",
+        "dramatic"
+      ],
+      "tags_ascii": [
+        "kich tinh",
+        "dramatic"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho khoảnh khắc kịch tính trước khi lộ ra punchline.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Dramatic sound (đoạn 03)",
+      "slug": "dramatic-sound__c03",
+      "file": "dramatic-sound__c03.mp3",
+      "duration_s": 3.0,
+      "bytes": 48944,
+      "viral": true,
+      "viral_note": "Cắt từ bản gốc viral",
+      "source_url": "https://tiengdong.com/dramatic-sound",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Dramatic-sound-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Dramatic-sound-www_tiengdong_com.mp3, đoạn 12.3–15.3 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "dramatic-sound",
+      "start_s": 12.3,
+      "end_s": 15.3,
+      "tags": [
+        "kịch tính",
+        "dramatic"
+      ],
+      "tags_ascii": [
+        "kich tinh",
+        "dramatic"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho khoảnh khắc kịch tính trước khi lộ ra punchline.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Whoosh sound effect (đoạn 01)",
+      "slug": "whoosh-sound-effect__c01",
+      "file": "whoosh-sound-effect__c01.mp3",
+      "duration_s": 0.39,
+      "bytes": 7148,
+      "viral": true,
+      "viral_note": "Cắt từ bản gốc viral",
+      "source_url": "https://tiengdong.com/whoosh-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Whoosh-sound-effect-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Whoosh-sound-effect-www_tiengdong_com.mp3, đoạn 23.53–23.93 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "whoosh-sound-effect",
+      "start_s": 23.53,
+      "end_s": 23.92,
+      "tags": [
+        "whoosh",
+        "vút",
+        "chuyển cảnh"
+      ],
+      "tags_ascii": [
+        "whoosh",
+        "vut",
+        "chuyen canh"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho hiệu ứng vút khi chuyển cảnh hoặc nhân vật rời đi.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Whoosh sound effect (đoạn 02)",
+      "slug": "whoosh-sound-effect__c02",
+      "file": "whoosh-sound-effect__c02.mp3",
+      "duration_s": 0.5,
+      "bytes": 9238,
+      "viral": true,
+      "viral_note": "Cắt từ bản gốc viral",
+      "source_url": "https://tiengdong.com/whoosh-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Whoosh-sound-effect-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Whoosh-sound-effect-www_tiengdong_com.mp3, đoạn 26.43–26.93 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "whoosh-sound-effect",
+      "start_s": 26.43,
+      "end_s": 26.93,
+      "tags": [
+        "whoosh",
+        "vút",
+        "chuyển cảnh"
+      ],
+      "tags_ascii": [
+        "whoosh",
+        "vut",
+        "chuyen canh"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho hiệu ứng vút khi chuyển cảnh hoặc nhân vật rời đi.",
+      "loudness_peak_db": -3.2
+    },
+    {
+      "name": "Whoosh sound effect (đoạn 03)",
+      "slug": "whoosh-sound-effect__c03",
+      "file": "whoosh-sound-effect__c03.mp3",
+      "duration_s": 0.35,
+      "bytes": 6730,
+      "viral": true,
+      "viral_note": "Cắt từ bản gốc viral",
+      "source_url": "https://tiengdong.com/whoosh-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Whoosh-sound-effect-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Whoosh-sound-effect-www_tiengdong_com.mp3, đoạn 29.53–29.88 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "whoosh-sound-effect",
+      "start_s": 29.53,
+      "end_s": 29.88,
+      "tags": [
+        "whoosh",
+        "vút",
+        "chuyển cảnh"
+      ],
+      "tags_ascii": [
+        "whoosh",
+        "vut",
+        "chuyen canh"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho hiệu ứng vút khi chuyển cảnh hoặc nhân vật rời đi.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Whoosh sound effect (đoạn 04)",
+      "slug": "whoosh-sound-effect__c04",
+      "file": "whoosh-sound-effect__c04.mp3",
+      "duration_s": 0.64,
+      "bytes": 11327,
+      "viral": true,
+      "viral_note": "Cắt từ bản gốc viral",
+      "source_url": "https://tiengdong.com/whoosh-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Whoosh-sound-effect-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Whoosh-sound-effect-www_tiengdong_com.mp3, đoạn 41.28–41.93 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "whoosh-sound-effect",
+      "start_s": 41.28,
+      "end_s": 41.92,
+      "tags": [
+        "whoosh",
+        "vút",
+        "chuyển cảnh"
+      ],
+      "tags_ascii": [
+        "whoosh",
+        "vut",
+        "chuyen canh"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho hiệu ứng vút khi chuyển cảnh hoặc nhân vật rời đi.",
+      "loudness_peak_db": -3.5
     }
   ]
 }

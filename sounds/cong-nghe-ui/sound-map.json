@@ -1,7 +1,7 @@
 {
   "group": "Công nghệ/UI",
   "group_slug": "cong-nghe-ui",
-  "count": 10,
+  "count": 25,
   "items": [
     {
       "name": "Âm thanh thông báo MP3",
@@ -13,7 +13,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-thong-bao",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "thông báo",
+        "kết nối",
+        "loa"
+      ],
+      "tags_ascii": [
+        "thong bao",
+        "ket noi",
+        "loa"
+      ],
+      "use_case_vi": "Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị."
     },
     {
       "name": "Âm thanh thông báo Cool",
@@ -25,7 +37,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-thong-bao-cool",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-cool-th-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-thong-bao-ios-17' bi BO theo copyright-audit (a: Am thanh he thong iOS 17 (Apple) - am thanh thuong hieu he dieu hanh.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
+      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-thong-bao-ios-17' bi BO theo copyright-audit (a: Am thanh he thong iOS 17 (Apple) - am thanh thuong hieu he dieu hanh.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "kind": "original",
+      "tags": [
+        "thông báo",
+        "kết nối",
+        "loa"
+      ],
+      "tags_ascii": [
+        "thong bao",
+        "ket noi",
+        "loa"
+      ],
+      "use_case_vi": "Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị."
     },
     {
       "name": "Âm thanh Thông báo, Cảnh báo công nghệ cao",
@@ -37,7 +61,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-thong-bao-canh-bao-cong-nghe-cao",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-thong-bao-canh-bao-cong-nghe-cao-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "thông báo",
+        "kết nối",
+        "loa"
+      ],
+      "tags_ascii": [
+        "thong bao",
+        "ket noi",
+        "loa"
+      ],
+      "use_case_vi": "Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị."
     },
     {
       "name": "Âm thanh thông báo Dễ Thương",
@@ -49,7 +85,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-thong-bao-de-thuong",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-de-thuong-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "thông báo",
+        "kết nối",
+        "loa"
+      ],
+      "tags_ascii": [
+        "thong bao",
+        "ket noi",
+        "loa"
+      ],
+      "use_case_vi": "Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị."
     },
     {
       "name": "Âm thanh thông báo Hoạt Hình",
@@ -61,7 +109,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/am-thanh-thong-bao-hoat-hinh",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-hoat-hinh-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-sac-pin-samsung-galaxy' bi BO theo copyright-audit (a: Am thanh sac pin Samsung Galaxy - am thanh thuong hieu Samsung.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
+      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-sac-pin-samsung-galaxy' bi BO theo copyright-audit (a: Am thanh sac pin Samsung Galaxy - am thanh thuong hieu Samsung.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "kind": "original",
+      "tags": [
+        "thông báo",
+        "kết nối",
+        "loa"
+      ],
+      "tags_ascii": [
+        "thong bao",
+        "ket noi",
+        "loa"
+      ],
+      "use_case_vi": "Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị."
     },
     {
       "name": "Nhạc chuông báo thức Cool",
@@ -73,7 +133,21 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-cool",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/nhac-chuong-bao-thuc-cool-th-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan' bi BO theo copyright-audit (a: Tieng chuong dong ho Casio - am thanh thuong hieu Casio.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
+      "audit": "REPLACEMENT 2026-11-18: thay 'tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan' bi BO theo copyright-audit (a: Tieng chuong dong ho Casio - am thanh thuong hieu Casio.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "kind": "original",
+      "tags": [
+        "báo thức",
+        "buổi sáng",
+        "chuông",
+        "nhạc nền"
+      ],
+      "tags_ascii": [
+        "bao thuc",
+        "buoi sang",
+        "chuong",
+        "nhac nen"
+      ],
+      "use_case_vi": "Dùng cho cảnh thức dậy đi làm, ngủ quên hoặc sáng thứ Hai."
     },
     {
       "name": "Tiếng Loa Bluetooth thông báo kết nối với thiết bị",
@@ -85,7 +159,20 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "long": true,
+      "tags": [
+        "thông báo",
+        "kết nối",
+        "loa"
+      ],
+      "tags_ascii": [
+        "thong bao",
+        "ket noi",
+        "loa"
+      ],
+      "use_case_vi": "Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị."
     },
     {
       "name": "Nhạc chuông Báo thức Dễ thương",
@@ -97,7 +184,21 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-de-thuong",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-chuong-bao-thuc-de-thuong-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'nhac-chuong-bao-thuc-iphone' bi BO theo copyright-audit (a: Nhac chuong bao thuc iPhone (Apple) - am thanh thuong hieu.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
+      "audit": "REPLACEMENT 2026-11-18: thay 'nhac-chuong-bao-thuc-iphone' bi BO theo copyright-audit (a: Nhac chuong bao thuc iPhone (Apple) - am thanh thuong hieu.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "kind": "original",
+      "tags": [
+        "báo thức",
+        "buổi sáng",
+        "chuông",
+        "nhạc nền"
+      ],
+      "tags_ascii": [
+        "bao thuc",
+        "buoi sang",
+        "chuong",
+        "nhac nen"
+      ],
+      "use_case_vi": "Dùng cho cảnh thức dậy đi làm, ngủ quên hoặc sáng thứ Hai."
     },
     {
       "name": "Tiếng bíp bíp Bấm Mật Mã mở khóa cửa",
@@ -109,7 +210,19 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/tieng-bip-bip-bam-mat-ma-mo-khoa-cua",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-bip-bip-bam-mat-ma-mo-khoa-cua-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "audit": "ok (wp-audio-shortcode)",
+      "kind": "original",
+      "tags": [
+        "bíp",
+        "mật mã",
+        "mở cửa"
+      ],
+      "tags_ascii": [
+        "bip",
+        "mat ma",
+        "mo cua"
+      ],
+      "use_case_vi": "Dùng cho cảnh mở cửa bằng mật mã, quẹt thẻ hoặc vào phòng họp."
     },
     {
       "name": "Nhạc chuông Báo Thức Nhẹ Nhàng",
@@ -121,7 +234,465 @@
       "viral_note": "",
       "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-nhe-nhang",
       "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-chuong-bao-thuc-nhe-nhang-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-thong-bao-wechat' bi BO theo copyright-audit (a: Am thanh thong bao WeChat - am thanh thuong hieu ung dung.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
+      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-thong-bao-wechat' bi BO theo copyright-audit (a: Am thanh thong bao WeChat - am thanh thuong hieu ung dung.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "kind": "original",
+      "tags": [
+        "báo thức",
+        "buổi sáng",
+        "chuông",
+        "nhạc nền"
+      ],
+      "tags_ascii": [
+        "bao thuc",
+        "buoi sang",
+        "chuong",
+        "nhac nen"
+      ],
+      "use_case_vi": "Dùng cho cảnh thức dậy đi làm, ngủ quên hoặc sáng thứ Hai."
+    },
+    {
+      "name": "Nhạc chuông báo thức Cool (đoạn 01)",
+      "slug": "nhac-chuong-bao-thuc-cool__c01",
+      "file": "nhac-chuong-bao-thuc-cool__c01.mp3",
+      "duration_s": 2.7,
+      "bytes": 44346,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-cool",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/nhac-chuong-bao-thuc-cool-th-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ nhac-chuong-bao-thuc-cool-th-www_tiengdong_com.mp3, đoạn 4.73–7.48 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "nhac-chuong-bao-thuc-cool",
+      "start_s": 4.73,
+      "end_s": 7.43,
+      "tags": [
+        "báo thức",
+        "buổi sáng",
+        "chuông",
+        "nhạc nền"
+      ],
+      "tags_ascii": [
+        "bao thuc",
+        "buoi sang",
+        "chuong",
+        "nhac nen"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh thức dậy đi làm, ngủ quên hoặc sáng thứ Hai.",
+      "loudness_peak_db": -3.5
+    },
+    {
+      "name": "Nhạc chuông báo thức Cool (đoạn 02)",
+      "slug": "nhac-chuong-bao-thuc-cool__c02",
+      "file": "nhac-chuong-bao-thuc-cool__c02.mp3",
+      "duration_s": 5.92,
+      "bytes": 95755,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-cool",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/nhac-chuong-bao-thuc-cool-th-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ nhac-chuong-bao-thuc-cool-th-www_tiengdong_com.mp3, đoạn 8.48–14.43 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "nhac-chuong-bao-thuc-cool",
+      "start_s": 8.48,
+      "end_s": 14.4,
+      "tags": [
+        "báo thức",
+        "buổi sáng",
+        "chuông",
+        "nhạc nền"
+      ],
+      "tags_ascii": [
+        "bao thuc",
+        "buoi sang",
+        "chuong",
+        "nhac nen"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh thức dậy đi làm, ngủ quên hoặc sáng thứ Hai.",
+      "loudness_peak_db": -3.2
+    },
+    {
+      "name": "Nhạc chuông báo thức Cool (nền lặp ~10 giây)",
+      "slug": "nhac-chuong-bao-thuc-cool__c03",
+      "file": "nhac-chuong-bao-thuc-cool__c03.mp3",
+      "duration_s": 10.0,
+      "bytes": 160957,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-cool",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/nhac-chuong-bao-thuc-cool-th-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ nhac-chuong-bao-thuc-cool-th-www_tiengdong_com.mp3, đoạn 8.7–18.7 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "nhac-chuong-bao-thuc-cool",
+      "start_s": 8.7,
+      "end_s": 18.7,
+      "tags": [
+        "báo thức",
+        "buổi sáng",
+        "chuông",
+        "nhạc nền",
+        "nền lặp",
+        "vòng lặp"
+      ],
+      "tags_ascii": [
+        "bao thuc",
+        "buoi sang",
+        "chuong",
+        "nhac nen",
+        "nen lap",
+        "vong lap"
+      ],
+      "use_case_vi": "Nền lặp khoảng 10 giây; Dùng cho cảnh thức dậy đi làm, ngủ quên hoặc sáng thứ Hai.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Tiếng Loa Bluetooth thông báo kết nối với thiết bị (đoạn 01)",
+      "slug": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi__c01",
+      "file": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi__c01.mp3",
+      "duration_s": 2.91,
+      "bytes": 47690,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3, đoạn 15.23–18.18 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi",
+      "start_s": 15.23,
+      "end_s": 18.14,
+      "tags": [
+        "thông báo",
+        "kết nối",
+        "loa"
+      ],
+      "tags_ascii": [
+        "thong bao",
+        "ket noi",
+        "loa"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị.",
+      "loudness_peak_db": -3.5
+    },
+    {
+      "name": "Tiếng Loa Bluetooth thông báo kết nối với thiết bị (đoạn 02)",
+      "slug": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi__c02",
+      "file": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi__c02.mp3",
+      "duration_s": 1.38,
+      "bytes": 23030,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3, đoạn 20.73–22.13 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi",
+      "start_s": 20.73,
+      "end_s": 22.11,
+      "tags": [
+        "thông báo",
+        "kết nối",
+        "loa"
+      ],
+      "tags_ascii": [
+        "thong bao",
+        "ket noi",
+        "loa"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Tiếng Loa Bluetooth thông báo kết nối với thiết bị (đoạn 03)",
+      "slug": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi__c03",
+      "file": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi__c03.mp3",
+      "duration_s": 0.9,
+      "bytes": 15507,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3, đoạn 25.38–26.28 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi",
+      "start_s": 25.38,
+      "end_s": 26.28,
+      "tags": [
+        "thông báo",
+        "kết nối",
+        "loa"
+      ],
+      "tags_ascii": [
+        "thong bao",
+        "ket noi",
+        "loa"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Tiếng Loa Bluetooth thông báo kết nối với thiết bị (đoạn 04)",
+      "slug": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi__c04",
+      "file": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi__c04.mp3",
+      "duration_s": 4.0,
+      "bytes": 65244,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi-www_tiengdong_com.mp3, đoạn 36.95–40.95 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-loa-bluetooth-thong-bao-ket-noi-voi-thiet-bi",
+      "start_s": 36.95,
+      "end_s": 40.95,
+      "tags": [
+        "thông báo",
+        "kết nối",
+        "loa"
+      ],
+      "tags_ascii": [
+        "thong bao",
+        "ket noi",
+        "loa"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Nhạc chuông Báo thức Dễ thương (đoạn 01)",
+      "slug": "nhac-chuong-bao-thuc-de-thuong__c01",
+      "file": "nhac-chuong-bao-thuc-de-thuong__c01.mp3",
+      "duration_s": 0.3,
+      "bytes": 5894,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-de-thuong",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-chuong-bao-thuc-de-thuong-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Nhac-chuong-bao-thuc-de-thuong-www_tiengdong_com.mp3, đoạn 5.525–5.825 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "nhac-chuong-bao-thuc-de-thuong",
+      "start_s": 5.525,
+      "end_s": 5.825,
+      "tags": [
+        "báo thức",
+        "buổi sáng",
+        "chuông",
+        "nhạc nền"
+      ],
+      "tags_ascii": [
+        "bao thuc",
+        "buoi sang",
+        "chuong",
+        "nhac nen"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh thức dậy đi làm, ngủ quên hoặc sáng thứ Hai.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Nhạc chuông Báo thức Dễ thương (đoạn 02)",
+      "slug": "nhac-chuong-bao-thuc-de-thuong__c02",
+      "file": "nhac-chuong-bao-thuc-de-thuong__c02.mp3",
+      "duration_s": 0.6,
+      "bytes": 10492,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-de-thuong",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-chuong-bao-thuc-de-thuong-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Nhac-chuong-bao-thuc-de-thuong-www_tiengdong_com.mp3, đoạn 10.23–10.83 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "nhac-chuong-bao-thuc-de-thuong",
+      "start_s": 10.23,
+      "end_s": 10.83,
+      "tags": [
+        "báo thức",
+        "buổi sáng",
+        "chuông",
+        "nhạc nền"
+      ],
+      "tags_ascii": [
+        "bao thuc",
+        "buoi sang",
+        "chuong",
+        "nhac nen"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh thức dậy đi làm, ngủ quên hoặc sáng thứ Hai.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Tiếng bíp bíp Bấm Mật Mã mở khóa cửa (đoạn 01)",
+      "slug": "tieng-bip-bip-bam-mat-ma-mo-khoa-cua__c01",
+      "file": "tieng-bip-bip-bam-mat-ma-mo-khoa-cua__c01.mp3",
+      "duration_s": 3.68,
+      "bytes": 59811,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-bip-bip-bam-mat-ma-mo-khoa-cua",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-bip-bip-bam-mat-ma-mo-khoa-cua-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ tieng-bip-bip-bam-mat-ma-mo-khoa-cua-www_tiengdong_com.mp3, đoạn 0.43–4.13 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-bip-bip-bam-mat-ma-mo-khoa-cua",
+      "start_s": 0.43,
+      "end_s": 4.11,
+      "tags": [
+        "bíp",
+        "mật mã",
+        "mở cửa"
+      ],
+      "tags_ascii": [
+        "bip",
+        "mat ma",
+        "mo cua"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh mở cửa bằng mật mã, quẹt thẻ hoặc vào phòng họp.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Tiếng bíp bíp Bấm Mật Mã mở khóa cửa (đoạn 02)",
+      "slug": "tieng-bip-bip-bam-mat-ma-mo-khoa-cua__c02",
+      "file": "tieng-bip-bip-bam-mat-ma-mo-khoa-cua__c02.mp3",
+      "duration_s": 0.55,
+      "bytes": 10074,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-bip-bip-bam-mat-ma-mo-khoa-cua",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-bip-bip-bam-mat-ma-mo-khoa-cua-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ tieng-bip-bip-bam-mat-ma-mo-khoa-cua-www_tiengdong_com.mp3, đoạn 6.33–6.88 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-bip-bip-bam-mat-ma-mo-khoa-cua",
+      "start_s": 6.33,
+      "end_s": 6.88,
+      "tags": [
+        "bíp",
+        "mật mã",
+        "mở cửa"
+      ],
+      "tags_ascii": [
+        "bip",
+        "mat ma",
+        "mo cua"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh mở cửa bằng mật mã, quẹt thẻ hoặc vào phòng họp.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Tiếng bíp bíp Bấm Mật Mã mở khóa cửa (đoạn 03)",
+      "slug": "tieng-bip-bip-bam-mat-ma-mo-khoa-cua__c03",
+      "file": "tieng-bip-bip-bam-mat-ma-mo-khoa-cua__c03.mp3",
+      "duration_s": 1.75,
+      "bytes": 28882,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/tieng-bip-bip-bam-mat-ma-mo-khoa-cua",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-bip-bip-bam-mat-ma-mo-khoa-cua-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ tieng-bip-bip-bam-mat-ma-mo-khoa-cua-www_tiengdong_com.mp3, đoạn 8.38–10.13 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "tieng-bip-bip-bam-mat-ma-mo-khoa-cua",
+      "start_s": 8.38,
+      "end_s": 10.13,
+      "tags": [
+        "bíp",
+        "mật mã",
+        "mở cửa"
+      ],
+      "tags_ascii": [
+        "bip",
+        "mat ma",
+        "mo cua"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh mở cửa bằng mật mã, quẹt thẻ hoặc vào phòng họp.",
+      "loudness_peak_db": -3.6
+    },
+    {
+      "name": "Nhạc chuông Báo Thức Nhẹ Nhàng (đoạn 01)",
+      "slug": "nhac-chuong-bao-thuc-nhe-nhang__c01",
+      "file": "nhac-chuong-bao-thuc-nhe-nhang__c01.mp3",
+      "duration_s": 5.45,
+      "bytes": 88232,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-nhe-nhang",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-chuong-bao-thuc-nhe-nhang-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Nhac-chuong-bao-thuc-nhe-nhang-www_tiengdong_com.mp3, đoạn 0.33–5.78 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "nhac-chuong-bao-thuc-nhe-nhang",
+      "start_s": 0.33,
+      "end_s": 5.78,
+      "tags": [
+        "báo thức",
+        "buổi sáng",
+        "chuông",
+        "nhạc nền"
+      ],
+      "tags_ascii": [
+        "bao thuc",
+        "buoi sang",
+        "chuong",
+        "nhac nen"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh thức dậy đi làm, ngủ quên hoặc sáng thứ Hai.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Nhạc chuông Báo Thức Nhẹ Nhàng (nền lặp ~10 giây)",
+      "slug": "nhac-chuong-bao-thuc-nhe-nhang__c02",
+      "file": "nhac-chuong-bao-thuc-nhe-nhang__c02.mp3",
+      "duration_s": 10.0,
+      "bytes": 160957,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-nhe-nhang",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-chuong-bao-thuc-nhe-nhang-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Nhac-chuong-bao-thuc-nhe-nhang-www_tiengdong_com.mp3, đoạn 1.85–11.85 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "nhac-chuong-bao-thuc-nhe-nhang",
+      "start_s": 1.85,
+      "end_s": 11.85,
+      "tags": [
+        "báo thức",
+        "buổi sáng",
+        "chuông",
+        "nhạc nền",
+        "nền lặp",
+        "vòng lặp"
+      ],
+      "tags_ascii": [
+        "bao thuc",
+        "buoi sang",
+        "chuong",
+        "nhac nen",
+        "nen lap",
+        "vong lap"
+      ],
+      "use_case_vi": "Nền lặp khoảng 10 giây; Dùng cho cảnh thức dậy đi làm, ngủ quên hoặc sáng thứ Hai.",
+      "loudness_peak_db": -3.4
+    },
+    {
+      "name": "Nhạc chuông Báo Thức Nhẹ Nhàng (đoạn 03)",
+      "slug": "nhac-chuong-bao-thuc-nhe-nhang__c03",
+      "file": "nhac-chuong-bao-thuc-nhe-nhang__c03.mp3",
+      "duration_s": 4.75,
+      "bytes": 76947,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-nhe-nhang",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-chuong-bao-thuc-nhe-nhang-www_tiengdong_com.mp3",
+      "audit": "CLIP 2026-11-18: cắt từ Nhac-chuong-bao-thuc-nhe-nhang-www_tiengdong_com.mp3, đoạn 9.33–14.08 s; chưa nghe thủ công.",
+      "kind": "clip",
+      "parent_slug": "nhac-chuong-bao-thuc-nhe-nhang",
+      "start_s": 9.33,
+      "end_s": 14.08,
+      "tags": [
+        "báo thức",
+        "buổi sáng",
+        "chuông",
+        "nhạc nền"
+      ],
+      "tags_ascii": [
+        "bao thuc",
+        "buoi sang",
+        "chuong",
+        "nhac nen"
+      ],
+      "use_case_vi": "Đoạn ngắn để chêm sfx; Dùng cho cảnh thức dậy đi làm, ngủ quên hoặc sáng thứ Hai.",
+      "loudness_peak_db": -3.3
     }
   ]
 }
