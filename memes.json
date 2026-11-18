@@ -16,7 +16,23 @@
       "viral_trending": true,
       "viral_note": "Template 'survive Monday' quen thuộc trên các trang meme; MemeChor chuyên mục meme thứ 2",
       "source_url": "https://cdn.memechor.com/meme/1735569822935-1735569822944.jpg",
-      "page": "https://www.memechor.com/meme/monday-meme-the-hilarious-struggle-we-all-face-6772b19ff1370dae2f1f8d8a"
+      "page": "https://www.memechor.com/meme/monday-meme-the-hilarious-struggle-we-all-face-6772b19ff1370dae2f1f8d8a",
+      "orientation": "square",
+      "tags": [
+        "văn phòng",
+        "thứ Hai",
+        "mệt mỏi",
+        "buồn",
+        "gia đình"
+      ],
+      "tags_ascii": [
+        "van phong",
+        "thu hai",
+        "met moi",
+        "buon",
+        "gia dinh"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -33,7 +49,23 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://images.pexels.com/photos/37471678/pexels-photo-37471678/free-photo-of-cat-sitting-at-desk-with-laptop-in-home-office.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "page": "https://www.pexels.com/search/funny%20laptop/"
+      "page": "https://www.pexels.com/search/funny%20laptop/",
+      "orientation": "portrait",
+      "tags": [
+        "mèo",
+        "văn phòng",
+        "cà phê",
+        "thứ Hai",
+        "buồn"
+      ],
+      "tags_ascii": [
+        "meo",
+        "van phong",
+        "ca phe",
+        "thu hai",
+        "buon"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Văn phòng/đi làm",
@@ -50,7 +82,17 @@
       "viral_trending": true,
       "viral_note": "Mèo văn phòng là template viral quen thuộc trên Cheezburger",
       "source_url": "https://i.chzbgr.com/original/9200450304/h6477CB7E/cartoon",
-      "page": ""
+      "page": "",
+      "orientation": "landscape",
+      "tags": [
+        "mèo",
+        "văn phòng"
+      ],
+      "tags_ascii": [
+        "meo",
+        "van phong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -67,7 +109,23 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://opis-cdn.tinkoffjournal.ru/mercury/0b10fa76.6beeaf66_screenshot_20260316_203742_whatsapp.jpg",
-      "page": "https://t-j.ru/unemployed-shocking-realities/"
+      "page": "https://t-j.ru/unemployed-shocking-realities/",
+      "orientation": "portrait",
+      "tags": [
+        "mèo",
+        "văn phòng",
+        "họp",
+        "chê bai",
+        "mệt mỏi"
+      ],
+      "tags_ascii": [
+        "meo",
+        "van phong",
+        "hop",
+        "che bai",
+        "met moi"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -84,7 +142,23 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://i.pinimg.com/474x/87/50/1c/87501c3f80375b55cfca7c2f9d533fed.jpg",
-      "page": "https://www.pinterest.de/pin/678425131403524169/"
+      "page": "https://www.pinterest.de/pin/678425131403524169/",
+      "orientation": "portrait",
+      "tags": [
+        "văn phòng",
+        "cà phê",
+        "mệt mỏi",
+        "buồn",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "van phong",
+        "ca phe",
+        "met moi",
+        "buon",
+        "hoc tap"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Văn phòng/đi làm",
@@ -101,7 +175,19 @@
       "viral_trending": true,
       "viral_note": "Loạt ảnh 'before coffee' của Petmaya lan truyền từ 2016",
       "source_url": "https://petmaya.com/wp-content/uploads/2016/06/before-coffee-19.jpg",
-      "page": "https://petmaya.com/28-funny-before-coffee/"
+      "page": "https://petmaya.com/28-funny-before-coffee/",
+      "orientation": "square",
+      "tags": [
+        "thỏ",
+        "cà phê",
+        "mệt mỏi"
+      ],
+      "tags_ascii": [
+        "tho",
+        "ca phe",
+        "met moi"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -118,7 +204,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://static1.cafeland.vn/cafelandData/upload/tintuc/doanhnhan/2016/11/tuan-01/giutienluongcafeland-1478077837.jpg",
-      "page": "https://cafeland.vn/doanh-nhan/doanh-nhan/vua-co-luong-roi-hay-lam-nhung-dieu-nay-de-tien-khong-chay-di-khi-vua-moi-den-16969.html"
+      "page": "https://cafeland.vn/doanh-nhan/doanh-nhan/vua-co-luong-roi-hay-lam-nhung-dieu-nay-de-tien-khong-chay-di-khi-vua-moi-den-16969.html",
+      "orientation": "landscape",
+      "tags": [
+        "cười",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "cuoi",
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -135,7 +231,23 @@
       "viral_trending": true,
       "viral_note": "Thuộc bộ 'meme hết tiền' trend VN 2025; trang nguồn ghi 'meme trend'",
       "source_url": "https://anhnail.vn/wp-content/uploads/2025/11/meme-het-sach-tien-1.jpg",
-      "page": "https://anhnail.vn/het-tien-meme/"
+      "page": "https://anhnail.vn/het-tien-meme/",
+      "orientation": "square",
+      "tags": [
+        "chó",
+        "cười",
+        "tiền lương",
+        "học tập",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "cho",
+        "cuoi",
+        "tien luong",
+        "hoc tap",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -152,7 +264,17 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2022/5/25/photo1653463552677-16534635528031324201774.jpg",
-      "page": "https://cafef.vn/dung-de-bi-cuon-theo-boi-lan-song-dai-nghi-viec-se-that-sai-lam-khi-hat-do-bat-com-giua-luc-suy-thoai-dang-ap-den-20220525142734424.chn"
+      "page": "https://cafef.vn/dung-de-bi-cuon-theo-boi-lan-song-dai-nghi-viec-se-that-sai-lam-khi-hat-do-bat-com-giua-luc-suy-thoai-dang-ap-den-20220525142734424.chn",
+      "orientation": "landscape",
+      "tags": [
+        "văn phòng",
+        "nghỉ việc"
+      ],
+      "tags_ascii": [
+        "van phong",
+        "nghi viec"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -169,7 +291,19 @@
       "viral_trending": true,
       "viral_note": "'I QUIT' là hình ảnh meme nghỉ việc kinh điển, dùng lại rất nhiều",
       "source_url": "https://st.quantrimang.com/photos/image/2016/09/01/nghi-viec-650.jpg",
-      "page": ""
+      "page": "",
+      "orientation": "landscape",
+      "tags": [
+        "văn phòng",
+        "sếp",
+        "nghỉ việc"
+      ],
+      "tags_ascii": [
+        "van phong",
+        "sep",
+        "nghi viec"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -186,7 +320,25 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://content.pancake.vn/web-media-262/s991x617/fwebp80/4f/47/24/a6/9652ae5d3a202298688817cb740c08555aad135b37af053512328b63-w:1274-h:792-l:1653255-t:image/png.png",
-      "page": "https://sheets.x10learn.com/x10Project"
+      "page": "https://sheets.x10learn.com/x10Project",
+      "orientation": "landscape",
+      "tags": [
+        "văn phòng",
+        "deadline",
+        "mệt mỏi",
+        "buồn",
+        "tiền lương",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "van phong",
+        "deadline",
+        "met moi",
+        "buon",
+        "tien luong",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -203,7 +355,19 @@
       "viral_trending": true,
       "viral_note": "Format 2 khung 'sếp vào / sếp đi' là meme văn phòng kinh điển",
       "source_url": "https://piximus.net/media/21962/daily-mix-679-130.jpg",
-      "page": "https://piximus.net/fun/daily-mix-679/m:amp"
+      "page": "https://piximus.net/fun/daily-mix-679/m:amp",
+      "orientation": "portrait",
+      "tags": [
+        "văn phòng",
+        "sếp",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "van phong",
+        "sep",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -220,7 +384,19 @@
       "viral_trending": true,
       "viral_note": "Meme họp Zoom với mèo dán tường nổi tiếng thời làm việc tại nhà",
       "source_url": "https://thrivemyway.com/wp-content/uploads/2021/10/working-from-home-meme-7.jpg",
-      "page": "https://tf20.thefoldline.com/when-is-presidents-day-2026-calendar/"
+      "page": "https://tf20.thefoldline.com/when-is-presidents-day-2026-calendar/",
+      "orientation": "square",
+      "tags": [
+        "mèo",
+        "văn phòng",
+        "họp"
+      ],
+      "tags_ascii": [
+        "meo",
+        "van phong",
+        "hop"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -237,7 +413,17 @@
       "viral_trending": true,
       "viral_note": "Meme hải cẩu làm việc tại nhà là meme kinh điển, lan truyền rộng",
       "source_url": "https://digitalmomblog.b-cdn.net/wp-content/uploads/2018/10/working-from-home-meme-8.jpg",
-      "page": "https://www.digitalmomblog.com/work-from-home-memes/"
+      "page": "https://www.digitalmomblog.com/work-from-home-memes/",
+      "orientation": "landscape",
+      "tags": [
+        "hải cẩu",
+        "văn phòng"
+      ],
+      "tags_ascii": [
+        "hai cau",
+        "van phong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -254,7 +440,19 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGERM5Xh3LDR1XcKCgypgkPRUX9i8ZT-sG_0_DbGNh9uk5ugrPT1OvUtUXM2zOyaPTZi34xAEgZb8Swr78HJZnb4216QtofJOX8ERir57XjxSVm7_lteaxl8tP6FISVXVIx8kN0w/s800/008_pics.jpg",
-      "page": "https://www.darkroastedblend.com/2011/02/cats-ready-to-kill-you.html?showComment=1358343808067"
+      "page": "https://www.darkroastedblend.com/2011/02/cats-ready-to-kill-you.html?showComment=1358343808067",
+      "orientation": "landscape",
+      "tags": [
+        "mèo",
+        "văn phòng",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "meo",
+        "van phong",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -271,7 +469,23 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://images.petpress.net/wp-content/uploads/2022/10/hypoallergenic-cat-breeds5.jpg?strip=all&lossy=1&ssl=1",
-      "page": "https://petpress.net/hypoallergenic-cat-breeds/"
+      "page": "https://petpress.net/hypoallergenic-cat-breeds/",
+      "orientation": "portrait",
+      "tags": [
+        "mèo",
+        "cà phê",
+        "thứ Hai",
+        "mệt mỏi",
+        "buồn"
+      ],
+      "tags_ascii": [
+        "meo",
+        "ca phe",
+        "thu hai",
+        "met moi",
+        "buon"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -288,7 +502,25 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://i.imgflip.com/ac3beh.jpg?a494948",
-      "page": "https://imgflip.com/memegenerator/624971897/A-cat-sitting-at-a-desk-with-a-very-stressed-out-expression-sur"
+      "page": "https://imgflip.com/memegenerator/624971897/A-cat-sitting-at-a-desk-with-a-very-stressed-out-expression-sur",
+      "orientation": "square",
+      "tags": [
+        "mèo",
+        "văn phòng",
+        "cà phê",
+        "thứ Hai",
+        "mệt mỏi",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "meo",
+        "van phong",
+        "ca phe",
+        "thu hai",
+        "met moi",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -305,7 +537,21 @@
       "viral_trending": true,
       "viral_note": "Loạt ảnh chó đi làm từng viral mạng xã hội VN (Báo Mới 2020)",
       "source_url": "https://photo-baomoi.bmcdn.me/w700_r1/2020_02_26_119_34101205/ed34434163028a5cd313.jpg",
-      "page": "https://baomoi.net.vn/chu-cho-ten-dui-va-loat-thu-cung-chiem-song-mang-xa-hoi-c34101205.epi"
+      "page": "https://baomoi.net.vn/chu-cho-ten-dui-va-loat-thu-cung-chiem-song-mang-xa-hoi-c34101205.epi",
+      "orientation": "portrait",
+      "tags": [
+        "chó",
+        "văn phòng",
+        "cười",
+        "chê bai"
+      ],
+      "tags_ascii": [
+        "cho",
+        "van phong",
+        "cuoi",
+        "che bai"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -322,7 +568,25 @@
       "viral_trending": true,
       "viral_note": "'Mèo thở oxy chạy deadline' là meme trend VN, xuất hiện trên TinhTe 2026",
       "source_url": "https://tinhte.edu.vn/wp-content/uploads/2026/01/meme-hai-meo-tho-oxy-chay-deadline.jpg",
-      "page": "https://tinhte.edu.vn/meme-avatar/"
+      "page": "https://tinhte.edu.vn/meme-avatar/",
+      "orientation": "square",
+      "tags": [
+        "mèo",
+        "deadline",
+        "chê bai",
+        "mệt mỏi",
+        "buồn",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "meo",
+        "deadline",
+        "che bai",
+        "met moi",
+        "buon",
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Văn phòng/đi làm",
@@ -339,7 +603,21 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://i.pinimg.com/originals/5f/46/58/5f4658fb52629d1e12478693f3638398.jpg",
-      "page": ""
+      "page": "",
+      "orientation": "square",
+      "tags": [
+        "văn phòng",
+        "mệt mỏi",
+        "buồn",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "van phong",
+        "met moi",
+        "buon",
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -356,7 +634,18 @@
       "viral_trending": true,
       "viral_note": "Template 'amazed cat' viral, dùng làm reaction phổ biến",
       "source_url": "https://ik.imagekit.io/memeboat/memes/amazed-cat-12562",
-      "page": ""
+      "page": "",
+      "file_jpg": "021-meo-ngac-nhien.jpg",
+      "orientation": "landscape",
+      "tags": [
+        "mèo",
+        "ngạc nhiên"
+      ],
+      "tags_ascii": [
+        "meo",
+        "ngac nhien"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -373,7 +662,18 @@
       "viral_trending": true,
       "viral_note": "Template 'confused cat' viral, reaction quen thuộc",
       "source_url": "http://ik.imagekit.io/memeboat/memes/confused-cat-81562",
-      "page": ""
+      "page": "",
+      "file_jpg": "022-meo-boi-roi.jpg",
+      "orientation": "square",
+      "tags": [
+        "mèo",
+        "ngơ ngác"
+      ],
+      "tags_ascii": [
+        "meo",
+        "ngo ngac"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -390,7 +690,17 @@
       "viral_trending": true,
       "viral_note": "Bored Panda là trang viral; bộ ảnh thú cưng hài lan truyền rộng",
       "source_url": "https://static.boredpanda.com/blog/wp-content/uploads/2017/07/people-woke-up-to-funny-weird-pets-animals-184-5978977beee30__700.jpg",
-      "page": ""
+      "page": "",
+      "orientation": "portrait",
+      "tags": [
+        "ngơ ngác",
+        "cười"
+      ],
+      "tags_ascii": [
+        "ngo ngac",
+        "cuoi"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -407,7 +717,15 @@
       "viral_trending": true,
       "viral_note": "Meme mèo đeo kính phổ biến ở VN",
       "source_url": "https://vanvn.net/wp-content/uploads/2024/06/meo-deo-kinh-meme.jpg.webp",
-      "page": ""
+      "page": "",
+      "orientation": "square",
+      "tags": [
+        "mèo"
+      ],
+      "tags_ascii": [
+        "meo"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -424,7 +742,17 @@
       "viral_trending": true,
       "viral_note": "Meme mèo cười phổ biến ở VN",
       "source_url": "https://cdn-media.sforum.vn/storage/app/media/ctv_seo3/meme-meo-cuoi-77.jpg",
-      "page": ""
+      "page": "",
+      "orientation": "square",
+      "tags": [
+        "mèo",
+        "cười"
+      ],
+      "tags_ascii": [
+        "meo",
+        "cuoi"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -441,7 +769,17 @@
       "viral_trending": true,
       "viral_note": "Ảnh chó cười lan truyền ở VN; golden đội hoa hồng là hình quen thuộc",
       "source_url": "https://stingworld.vn/wp-content/uploads/anh-cho-cuoi-12.webp",
-      "page": "https://stingworld.vn/hai-huoc/cho-meme-1847.html"
+      "page": "https://stingworld.vn/hai-huoc/cho-meme-1847.html",
+      "orientation": "square",
+      "tags": [
+        "chó",
+        "cười"
+      ],
+      "tags_ascii": [
+        "cho",
+        "cuoi"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -458,7 +796,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://stingworld.vn/wp-content/uploads/anh-cho-cuoi-11.webp",
-      "page": ""
+      "page": "",
+      "orientation": "square",
+      "tags": [
+        "chó",
+        "cười"
+      ],
+      "tags_ascii": [
+        "cho",
+        "cuoi"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -475,7 +823,19 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://hoichimtroi.com/wp-content/uploads/2025/07/meme-anh-cho-hai-18.jpg",
-      "page": ""
+      "page": "",
+      "orientation": "portrait",
+      "tags": [
+        "chó",
+        "ngơ ngác",
+        "cười"
+      ],
+      "tags_ascii": [
+        "cho",
+        "ngo ngac",
+        "cuoi"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -492,7 +852,15 @@
       "viral_trending": true,
       "viral_note": "Thuộc bộ meme chó hài lan truyền ở VN",
       "source_url": "https://hoichimtroi.com/wp-content/uploads/2025/07/anh-meme-hai-cho.jpg",
-      "page": "https://hoichimtroi.com/meme-anh-cho-hai/"
+      "page": "https://hoichimtroi.com/meme-anh-cho-hai/",
+      "orientation": "portrait",
+      "tags": [
+        "chó"
+      ],
+      "tags_ascii": [
+        "cho"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -509,7 +877,19 @@
       "viral_trending": true,
       "viral_note": "Capybara đang trending toàn cầu; ảnh capybara + đồ ăn lan truyền mạnh",
       "source_url": "https://static.vecteezy.com/system/resources/thumbnails/054/013/797/small_2x/cute-cartoon-capybara-sitting-on-big-hamburger-illustration-free-vector.jpg",
-      "page": ""
+      "page": "",
+      "orientation": "square",
+      "tags": [
+        "capybara",
+        "cười",
+        "ăn uống"
+      ],
+      "tags_ascii": [
+        "capybara",
+        "cuoi",
+        "an uong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -526,7 +906,17 @@
       "viral_trending": true,
       "viral_note": "I Can Has Cheezburger là trang meme mèo viral lâu đời",
       "source_url": "https://i.chzbgr.com/full/10630262272/hC5FCE954/take-responsibility-shirley",
-      "page": "https://icanhas.cheezburger.com/Home/Community"
+      "page": "https://icanhas.cheezburger.com/Home/Community",
+      "orientation": "portrait",
+      "tags": [
+        "mèo",
+        "gia đình"
+      ],
+      "tags_ascii": [
+        "meo",
+        "gia dinh"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -543,7 +933,17 @@
       "viral_trending": true,
       "viral_note": "Tag 'scared cat' top trên Imgflip; template mèo sợ dùng làm reaction phổ biến",
       "source_url": "https://i.imgflip.com/6xvydh.jpg",
-      "page": "https://imgflip.com/m/cats/tag/scared+cat?sort=top-2022-12&after=6ycy37"
+      "page": "https://imgflip.com/m/cats/tag/scared+cat?sort=top-2022-12&after=6ycy37",
+      "orientation": "landscape",
+      "tags": [
+        "mèo",
+        "ngạc nhiên"
+      ],
+      "tags_ascii": [
+        "meo",
+        "ngac nhien"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -560,7 +960,17 @@
       "viral_trending": true,
       "viral_note": "Template 'OMG Kitty' trên Imgflip",
       "source_url": "https://i.imgflip.com/6isqpw.jpg",
-      "page": "https://imgflip.com/meme/394371140/OMG-Kitty"
+      "page": "https://imgflip.com/meme/394371140/OMG-Kitty",
+      "orientation": "landscape",
+      "tags": [
+        "mèo",
+        "ngạc nhiên"
+      ],
+      "tags_ascii": [
+        "meo",
+        "ngac nhien"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -577,7 +987,19 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://i.pinimg.com/474x/f0/d4/62/f0d462c75ff3bdfc5e48df9ca6bf5f69.jpg",
-      "page": "https://se.pinterest.com/littlefluffpedia/cats-being-cats-funny-cat-memes-hilarious-cats/"
+      "page": "https://se.pinterest.com/littlefluffpedia/cats-being-cats-funny-cat-memes-hilarious-cats/",
+      "orientation": "portrait",
+      "tags": [
+        "mèo",
+        "ngạc nhiên",
+        "ngơ ngác"
+      ],
+      "tags_ascii": [
+        "meo",
+        "ngac nhien",
+        "ngo ngac"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Mèo/chó/động vật",
@@ -594,7 +1016,21 @@
       "viral_trending": true,
       "viral_note": "Bored Panda viral; format 'let the dog go check' là meme lan truyền",
       "source_url": "https://static.boredpanda.com/blog/wp-content/uploads/2025/12/694915b3b595b_514093777_24056464467316281_5354800490958135503_n__700.jpg",
-      "page": "https://www.boredpanda.com/random-memes-idiots-in-public-places/?media_id=9837350"
+      "page": "https://www.boredpanda.com/random-memes-idiots-in-public-places/?media_id=9837350",
+      "orientation": "portrait",
+      "tags": [
+        "chó",
+        "ngạc nhiên",
+        "mệt mỏi",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "cho",
+        "ngac nhien",
+        "met moi",
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -611,7 +1047,15 @@
       "viral_trending": true,
       "viral_note": "Meme corgi vs người đưa thư là meme chó kinh điển",
       "source_url": "https://i.imgflip.com/7hslwq.jpg",
-      "page": "https://www.happierhuman.com/funny-dog-memes-jp3/"
+      "page": "https://www.happierhuman.com/funny-dog-memes-jp3/",
+      "orientation": "landscape",
+      "tags": [
+        "chó"
+      ],
+      "tags_ascii": [
+        "cho"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Mèo/chó/động vật",
@@ -628,7 +1072,17 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://i.pinimg.com/originals/55/46/00/554600fa2d724fcd8d7057cca0cea266.jpg",
-      "page": "https://in.pinterest.com/ideas/golden-retriever-with-sunglasses/940247565265/"
+      "page": "https://in.pinterest.com/ideas/golden-retriever-with-sunglasses/940247565265/",
+      "orientation": "portrait",
+      "tags": [
+        "chó",
+        "cười"
+      ],
+      "tags_ascii": [
+        "cho",
+        "cuoi"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -645,7 +1099,17 @@
       "viral_trending": true,
       "viral_note": "Capybara đang trending toàn cầu; template capybara phổ biến trên Meme-Arsenal",
       "source_url": "https://www.meme-arsenal.com/memes/d5f00a4905d550e7fe21b5019c8a94d7.jpg",
-      "page": "https://www.meme-arsenal.com/en/create/chose?tag=the%20capybara%20is%20large&page=1"
+      "page": "https://www.meme-arsenal.com/en/create/chose?tag=the%20capybara%20is%20large&page=1",
+      "orientation": "square",
+      "tags": [
+        "capybara",
+        "ngơ ngác"
+      ],
+      "tags_ascii": [
+        "capybara",
+        "ngo ngac"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -662,7 +1126,19 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://awkward.com/wp-content/uploads/2018/11/funny-suprised-cat6.jpg",
-      "page": "https://awkward.com/this-is-how-cats-react-when-you-meow-at-them/"
+      "page": "https://awkward.com/this-is-how-cats-react-when-you-meow-at-them/",
+      "orientation": "landscape",
+      "tags": [
+        "mèo",
+        "ngạc nhiên",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "meo",
+        "ngac nhien",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Mèo/chó/động vật",
@@ -679,7 +1155,21 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://www.anhnghethuatdulich.com/wp-content/uploads/2025/07/cho-meme.jpg",
-      "page": "https://www.anhnghethuatdulich.com/meme-cho/"
+      "page": "https://www.anhnghethuatdulich.com/meme-cho/",
+      "orientation": "portrait",
+      "tags": [
+        "chó",
+        "ngạc nhiên",
+        "cười",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "cho",
+        "ngac nhien",
+        "cuoi",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Học tập/thi cử",
@@ -696,7 +1186,19 @@
       "viral_trending": false,
       "viral_note": "Không rõ; ảnh trong bộ sưu tập meme học bài mùa thi 2025.",
       "source_url": "https://www.anhnghethuatdulich.com/wp-content/uploads/2025/09/meme-hoc-bai.jpg",
-      "page": "https://www.anhnghethuatdulich.com/meme-hoc-bai-thi-cu/"
+      "page": "https://www.anhnghethuatdulich.com/meme-hoc-bai-thi-cu/",
+      "orientation": "square",
+      "tags": [
+        "gấu",
+        "buồn",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "gau",
+        "buon",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Học tập/thi cử",
@@ -713,7 +1215,19 @@
       "viral_trending": true,
       "viral_note": "Template truyện tranh học đường lan truyền rộng trên Facebook (watermark FB.COM/VERBAY69).",
       "source_url": "https://i.pinimg.com/originals/0f/3e/d9/0f3ed9f4de1beea8db1b2def216614bf.jpg",
-      "page": "https://xaydungso.vn/bai-viet-khac/cap-nhat-nhieu-anh-vui-hoc-hua-hen-mang-lai-tieng-cuoi-sang-khoai-cho-nguoi-xem-vi-cb.html"
+      "page": "https://xaydungso.vn/bai-viet-khac/cap-nhat-nhieu-anh-vui-hoc-hua-hen-mang-lai-tieng-cuoi-sang-khoai-cho-nguoi-xem-vi-cb.html",
+      "orientation": "square",
+      "tags": [
+        "cười",
+        "buồn",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "cuoi",
+        "buon",
+        "hoc tap"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Học tập/thi cử",
@@ -730,7 +1244,17 @@
       "viral_trending": true,
       "viral_note": "Thuộc bộ '101+ meme động viên sĩ tử 2k7' mùa thi, được tổng hợp và chia sẻ rộng rãi.",
       "source_url": "https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://cdn-media.sforum.vn/storage/app/media/giangnguyen/meme%20ch%C3%BAc%20thi%20t%E1%BB%91t/meme-chuc-thi-tot-24.jpg",
-      "page": "https://mytour.vn/vi/blog/kinh-nghiem-hay/hon-101-meme-dong-vien-mua-thi-cuc-hai-huoc-va-doc-dao-danh-rieng-cho-cac-si-tu-2k7-mytour.html"
+      "page": "https://mytour.vn/vi/blog/kinh-nghiem-hay/hon-101-meme-dong-vien-mua-thi-cuc-hai-huoc-va-doc-dao-danh-rieng-cho-cac-si-tu-2k7-mytour.html",
+      "orientation": "square",
+      "tags": [
+        "chó",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "cho",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Học tập/thi cử",
@@ -747,7 +1271,17 @@
       "viral_trending": false,
       "viral_note": "Không rõ; ảnh trong bộ 'Relatable Late-Night Study Memes for Students' của MemeChor.",
       "source_url": "https://cdn.memechor.com/meme/1728463853337-1728463853340.jpg",
-      "page": "https://www.memechor.com/meme/relatable-late-night-study-memes-for-students-670643ed7139bbc4cff4fd5f"
+      "page": "https://www.memechor.com/meme/relatable-late-night-study-memes-for-students-670643ed7139bbc4cff4fd5f",
+      "orientation": "square",
+      "tags": [
+        "buồn",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "buon",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Học tập/thi cử",
@@ -764,7 +1298,21 @@
       "viral_trending": false,
       "viral_note": "Không rõ.",
       "source_url": "https://i.pinimg.com/originals/33/43/9c/33439c2427558a42186d069ec28fa77d.jpg?nii=t",
-      "page": null
+      "page": null,
+      "orientation": "square",
+      "tags": [
+        "deadline",
+        "mệt mỏi",
+        "học tập",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "deadline",
+        "met moi",
+        "hoc tap",
+        "tinh yeu"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Học tập/thi cử",
@@ -781,7 +1329,21 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://toonwords.nl/wp-content/uploads/2026/01/Examen.webp",
-      "page": "https://toonwords.nl/maatschappij/onderwijs/examen/"
+      "page": "https://toonwords.nl/maatschappij/onderwijs/examen/",
+      "orientation": "portrait",
+      "tags": [
+        "mệt mỏi",
+        "học tập",
+        "ăn uống",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "met moi",
+        "hoc tap",
+        "an uong",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Học tập/thi cử",
@@ -798,7 +1360,17 @@
       "viral_trending": true,
       "viral_note": "Template meme động lực phổ biến trên Imgflip, dùng nhiều trong các bài đăng học tập.",
       "source_url": "https://i.imgflip.com/2l2d7g.jpg",
-      "page": "https://imgflip.com/tag/motivation?sort=latest&after=2n2czv"
+      "page": "https://imgflip.com/tag/motivation?sort=latest&after=2n2czv",
+      "orientation": "portrait",
+      "tags": [
+        "buồn",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "buon",
+        "hoc tap"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Học tập/thi cử",
@@ -815,7 +1387,23 @@
       "viral_trending": true,
       "viral_note": "Ảnh chế 'ăn kiến thức' nổi tiếng mùa thi, đăng trên Kenh14 năm 2018 và được chia sẻ lại nhiều lần.",
       "source_url": "https://kenh14cdn.com/2018/12/19/thi-1545206389844879321604-crop-15452063962991434197722.png",
-      "page": null
+      "page": null,
+      "orientation": "landscape",
+      "tags": [
+        "chó",
+        "mệt mỏi",
+        "học tập",
+        "ăn uống",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "cho",
+        "met moi",
+        "hoc tap",
+        "an uong",
+        "tinh yeu"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Học tập/thi cử",
@@ -832,7 +1420,15 @@
       "viral_trending": true,
       "viral_note": "Bài Kenh14 'Bắt bài 1001 kiểu quay bài mùa thi cử' viral, được chia sẻ rộng rãi mỗi mùa thi.",
       "source_url": "https://kenh14cdn.com/thumb_w/1200/YFMU4phyIeiN1VQB5zBGRZ768aPI9/Image/2014/05/ava-35272.jpg",
-      "page": "http://kenh14.vn/doi-song/bat-bai-nhung-kieu-quay-cop-thuong-gap-trong-mua-thi-cu-cua-hoc-tro-2014050609084264.chn"
+      "page": "http://kenh14.vn/doi-song/bat-bai-nhung-kieu-quay-cop-thuong-gap-trong-mua-thi-cu-cua-hoc-tro-2014050609084264.chn",
+      "orientation": "landscape",
+      "tags": [
+        "học tập"
+      ],
+      "tags_ascii": [
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Học tập/thi cử",
@@ -849,7 +1445,17 @@
       "viral_trending": false,
       "viral_note": "Không rõ; ảnh trong bộ 'Relatable Exam Time Struggles' của MemeChor.",
       "source_url": "https://cdn.memechor.com/meme/1737223974823-1737223974829.jpg",
-      "page": "https://www.memechor.com/meme/relatable-exam-time-struggles-the-meme-you-need-678bef26f1370dae2f204358"
+      "page": "https://www.memechor.com/meme/relatable-exam-time-struggles-the-meme-you-need-678bef26f1370dae2f204358",
+      "orientation": "square",
+      "tags": [
+        "buồn",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "buon",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tình yêu/gia đình",
@@ -866,7 +1472,23 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://cdn.piepme.com/30685/images/piep-vEc9c9kF17757523443291775752344329.jpeg",
-      "page": "https://piepme.com/buc-tuong-vo-hinh-8Wd3IiOhacF6.html"
+      "page": "https://piepme.com/buc-tuong-vo-hinh-8Wd3IiOhacF6.html",
+      "orientation": "portrait",
+      "tags": [
+        "deadline",
+        "ngạc nhiên",
+        "cười",
+        "tiền lương",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "deadline",
+        "ngac nhien",
+        "cuoi",
+        "tien luong",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tình yêu/gia đình",
@@ -883,7 +1505,17 @@
       "viral_trending": true,
       "viral_note": "Template viral 'Ship Dynamic' trên Know Your Meme.",
       "source_url": "https://i.kym-cdn.com/photos/images/original/002/411/467/c5f",
-      "page": "https://knowyourmeme.com/photos/2411467-ship-dynamic"
+      "page": "https://knowyourmeme.com/photos/2411467-ship-dynamic",
+      "orientation": "portrait",
+      "tags": [
+        "cười",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "cuoi",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tình yêu/gia đình",
@@ -900,7 +1532,17 @@
       "viral_trending": false,
       "viral_note": "Không rõ; truyện tranh hài về mẹ, lan truyền trong cộng đồng truyện tranh.",
       "source_url": "https://truyen247.pro/images/9181da78432eae31c634b338245aca204f040e5f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f422d476753692d674c32526773673d3d2d313038343132313338322e3136383763376131663136636161653839373335313737353434372e706e67.webp",
-      "page": "https://truyen247.pro/drop-khong-uong-nang-mai-dai-giac-tien-sinh-208098361/chuong-8-1084121382/"
+      "page": "https://truyen247.pro/drop-khong-uong-nang-mai-dai-giac-tien-sinh-208098361/chuong-8-1084121382/",
+      "orientation": "portrait",
+      "tags": [
+        "buồn",
+        "gia đình"
+      ],
+      "tags_ascii": [
+        "buon",
+        "gia dinh"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Tình yêu/gia đình",
@@ -917,7 +1559,15 @@
       "viral_trending": true,
       "viral_note": "Bài Kenh14 về câu nói của mẹ viral; câu 'Mày liệu hồn đấy!' là câu cửa miệng quen thuộc của mẹ Việt.",
       "source_url": "https://kenh14cdn.com/2017/5-1496768003010.jpg",
-      "page": "https://kenh14.vn/may-lieu-hon-day-khi-me-da-noi-cau-nay-thi-thoi-xong-20170607010317791.chn"
+      "page": "https://kenh14.vn/may-lieu-hon-day-khi-me-da-noi-cau-nay-thi-thoi-xong-20170607010317791.chn",
+      "orientation": "square",
+      "tags": [
+        "gia đình"
+      ],
+      "tags_ascii": [
+        "gia dinh"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tình yêu/gia đình",
@@ -934,7 +1584,21 @@
       "viral_trending": false,
       "viral_note": "Không rõ; ảnh trong bộ '100+ meme tình yêu dễ thương' của SForum.",
       "source_url": "https://cdn-media.sforum.vn/storage/app/media/anhthem/meme-tinh-yeu-69.jpg",
-      "page": "https://cellphones.com.vn/sforum/meme-tinh-yeu"
+      "page": "https://cellphones.com.vn/sforum/meme-tinh-yeu",
+      "orientation": "square",
+      "tags": [
+        "chó",
+        "thỏ",
+        "cười",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "cho",
+        "tho",
+        "cuoi",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tình yêu/gia đình",
@@ -951,7 +1615,19 @@
       "viral_trending": false,
       "viral_note": "Không rõ; ảnh trong bài '73 Hilarious Memes That Perfectly Sum Up Romantic Relationships' của TVOvermind.",
       "source_url": "https://tvovermind.com/wp-content/uploads/2026/04/69cdfb6656f61-funnycouplememes__2020-10-13T031949000Z-69cce4866fb0a__700.jpg",
-      "page": "https://tvovermind.com/funny-cute-couple-memes-jokes/"
+      "page": "https://tvovermind.com/funny-cute-couple-memes-jokes/",
+      "orientation": "landscape",
+      "tags": [
+        "mệt mỏi",
+        "tình yêu",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "met moi",
+        "tinh yeu",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tình yêu/gia đình",
@@ -968,7 +1644,19 @@
       "viral_trending": true,
       "viral_note": "Thuộc bộ 'cap thả thính Tết' được gắn mác Hot 2024 trên MyTour, chia sẻ rộng dịp Tết.",
       "source_url": "https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/473889jYB/anh-3-cap-tha-thinh-tet-cho-nguoi-fa.jpg",
-      "page": "https://mytour.vn/vi/blog/bai-viet/hot-2024-bo-suu-tap-cap-tha-thinh-tet-hap-dan-chinh-phuc-trai-tim-ngay-va-luon.html"
+      "page": "https://mytour.vn/vi/blog/bai-viet/hot-2024-bo-suu-tap-cap-tha-thinh-tet-hap-dan-chinh-phuc-trai-tim-ngay-va-luon.html",
+      "orientation": "landscape",
+      "tags": [
+        "tiền lương",
+        "tình yêu",
+        "gia đình"
+      ],
+      "tags_ascii": [
+        "tien luong",
+        "tinh yeu",
+        "gia dinh"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tình yêu/gia đình",
@@ -985,7 +1673,21 @@
       "viral_trending": true,
       "viral_note": "Meme Tết 2026 trong bộ 'TOP Meme lì xì mới nhất Tết 2026' của ZaloPay; chủ đề 'bao giờ cưới' trending mỗi dịp Tết.",
       "source_url": "https://simg.zalopay.com.vn/zlp-website/assets/meme_tet_hoi_bao_gio_lay_chong_vo_6_5f57e8fbe0.webp",
-      "page": "https://zalopay.vn/y-nghia-li-xi-ngay-tet-540"
+      "page": "https://zalopay.vn/y-nghia-li-xi-ngay-tet-540",
+      "orientation": "square",
+      "tags": [
+        "cười",
+        "tiền lương",
+        "học tập",
+        "gia đình"
+      ],
+      "tags_ascii": [
+        "cuoi",
+        "tien luong",
+        "hoc tap",
+        "gia dinh"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tình yêu/gia đình",
@@ -1002,7 +1704,23 @@
       "viral_trending": true,
       "viral_note": "Trang nguồn đặt tiêu đề 'Meme Xin Tiền Bá Đạo Viral'.",
       "source_url": "https://www.anhnghethuatdulich.com/wp-content/uploads/2025/11/meme-xin-tien-1.jpg",
-      "page": "https://www.anhnghethuatdulich.com/meme-xin-tien/"
+      "page": "https://www.anhnghethuatdulich.com/meme-xin-tien/",
+      "orientation": "landscape",
+      "tags": [
+        "cười",
+        "buồn",
+        "tiền lương",
+        "tình yêu",
+        "gia đình"
+      ],
+      "tags_ascii": [
+        "cuoi",
+        "buon",
+        "tien luong",
+        "tinh yeu",
+        "gia dinh"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tình yêu/gia đình",
@@ -1019,7 +1737,17 @@
       "viral_trending": false,
       "viral_note": "Không rõ.",
       "source_url": "https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/474080ois/hinh-anh-tinh-yeu-vo-chong-hanh-phuc-co-chu_090448166.jpg",
-      "page": "https://tablenow.vn/hinh-anh-tinh-yeu-hanh-phuc-voi-do-dep-tuyet-voi"
+      "page": "https://tablenow.vn/hinh-anh-tinh-yeu-hanh-phuc-voi-do-dep-tuyet-voi",
+      "orientation": "square",
+      "tags": [
+        "cười",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "cuoi",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tiền bạc/lương",
@@ -1036,7 +1764,21 @@
       "viral_trending": true,
       "viral_note": "Câu 'Lương đã về' là câu cửa miệng/meme viral quen thuộc của dân công sở VN.",
       "source_url": "https://cdnphoto.dantri.com.vn/nmtQQ_gALR8fBFCtcXWH63DUD00=/2021/09/16/hongluong5-1631772463501.jpeg",
-      "page": "https://pmil.edu.vn/hinh-anh-hai-huoc-cho-luong-ve-a12601.html"
+      "page": "https://pmil.edu.vn/hinh-anh-hai-huoc-cho-luong-ve-a12601.html",
+      "orientation": "landscape",
+      "tags": [
+        "chó",
+        "thỏ",
+        "văn phòng",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "cho",
+        "tho",
+        "van phong",
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tiền bạc/lương",
@@ -1053,7 +1795,21 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://cdn2.tuoitre.vn/thumb_w/1200/2019/1/30/tranh-1-2-2019-xkhac-muasam-tet12-1548865734958162795232.jpg",
-      "page": "https://tuoitre.vn/print/toi-muon-tat-tet-di-cho-tien-dung-chay-mat-20190130232944353.htm"
+      "page": "https://tuoitre.vn/print/toi-muon-tat-tet-di-cho-tien-dung-chay-mat-20190130232944353.htm",
+      "orientation": "landscape",
+      "tags": [
+        "buồn",
+        "tiền lương",
+        "học tập",
+        "gia đình"
+      ],
+      "tags_ascii": [
+        "buon",
+        "tien luong",
+        "hoc tap",
+        "gia dinh"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tiền bạc/lương",
@@ -1070,7 +1826,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://khoanhdep.com/wp-content/uploads/2025/12/meme-het-tien-26.jpg",
-      "page": "https://khoanhdep.com/meme-het-tien/"
+      "page": "https://khoanhdep.com/meme-het-tien/",
+      "orientation": "square",
+      "tags": [
+        "mệt mỏi",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "met moi",
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tiền bạc/lương",
@@ -1087,7 +1853,19 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://khoanhdep.com/wp-content/uploads/2026/01/meme-tien-luong-12.jpg",
-      "page": "https://mungart.com/search/Hey%20Siri%20Meme%20L%C6%B0%C6%A1ng"
+      "page": "https://mungart.com/search/Hey%20Siri%20Meme%20L%C6%B0%C6%A1ng",
+      "orientation": "square",
+      "tags": [
+        "chó",
+        "buồn",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "cho",
+        "buon",
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tiền bạc/lương",
@@ -1104,7 +1882,19 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://i.pinimg.com/474x/e6/c9/8e/e6c98e2b9e464429f64b3b8ae7958402.jpg",
-      "page": "https://www.pinvibe.com/media/940056122218703261"
+      "page": "https://www.pinvibe.com/media/940056122218703261",
+      "orientation": "landscape",
+      "tags": [
+        "ngạc nhiên",
+        "buồn",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "ngac nhien",
+        "buon",
+        "tien luong"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Tiền bạc/lương",
@@ -1121,7 +1911,19 @@
       "viral_trending": true,
       "viral_note": "Template 'Broke Man' nổi tiếng trên Imgflip, được dùng rộng rãi để chế meme hết tiền.",
       "source_url": "https://i.imgflip.com/axyp3.jpg",
-      "page": "https://imgflip.com/memetemplate/18380775/Broke-Man"
+      "page": "https://imgflip.com/memetemplate/18380775/Broke-Man",
+      "orientation": "portrait",
+      "tags": [
+        "cười",
+        "buồn",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "cuoi",
+        "buon",
+        "tien luong"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Tiền bạc/lương",
@@ -1138,7 +1940,19 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://img.boredpanda.com/unsafe/rs:fit:3840:0/q:80/aHR0cHM6Ly9zdGF0aWMuYm9yZWRwYW5kYS5jb20vYmxvZy93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8wOS9zYWRkZXN0LWNhdC1sdWh1LW1hZ2dpZS1saXUtbGFubGFuNzMxLTkzLTU5YzBjMTJiOWY4NzhfXzcwMC5qcGc.webp",
-      "page": "https://2.boredpanda.es/gato-triste-luhu-maggie-liu-2/?media_id=177969"
+      "page": "https://2.boredpanda.es/gato-triste-luhu-maggie-liu-2/?media_id=177969",
+      "orientation": "portrait",
+      "tags": [
+        "mèo",
+        "buồn",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "meo",
+        "buon",
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tiền bạc/lương",
@@ -1155,7 +1969,15 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://tinhte.edu.vn/wp-content/uploads/2025/11/Meme-vi-trong-rong.jpg",
-      "page": "https://tinhte.edu.vn/meme-het-tien/"
+      "page": "https://tinhte.edu.vn/meme-het-tien/",
+      "orientation": "square",
+      "tags": [
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tiền bạc/lương",
@@ -1172,7 +1994,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://media-ds.nguoiduatin.vn/media/le-hoang-tuan/2026/01/30/sal3.jpg",
-      "page": "https://doisongphapluat.nguoiduatin.vn/vong-doi-nghiet-nga-cua-sinh-vat-ten-luong-a611288.html"
+      "page": "https://doisongphapluat.nguoiduatin.vn/vong-doi-nghiet-nga-cua-sinh-vat-ten-luong-a611288.html",
+      "orientation": "landscape",
+      "tags": [
+        "buồn",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "buon",
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Tiền bạc/lương",
@@ -1189,7 +2021,17 @@
       "viral_trending": true,
       "viral_note": "Nguồn 9GAG, nền tảng meme trending quốc tế; tag salary được xem nhiều.",
       "source_url": "https://img-9gag-fun.9cache.com/photo/ayNjK2Y_460swp.webp",
-      "page": "https://9gag.com/tag/salary"
+      "page": "https://9gag.com/tag/salary",
+      "orientation": "landscape",
+      "tags": [
+        "tiền lương",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "tien luong",
+        "tinh yeu"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Thể thao/game",
@@ -1206,7 +2048,17 @@
       "viral_trending": true,
       "viral_note": "Meme so sánh PC/console/mobile là chủ đề viral kinh điển trên 9GAG.",
       "source_url": "https://img-9gag-fun.9cache.com/photo/aPRj2En_700b.jpg",
-      "page": "https://9gag.com/gag/aPRj2En"
+      "page": "https://9gag.com/gag/aPRj2En",
+      "orientation": "landscape",
+      "tags": [
+        "game",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "game",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -1223,7 +2075,19 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://sauvaget.de/wp-content/uploads/2026/02/0dcc8f82-0bc9-434e-aa12-f263f8592b18-1024x683.png",
-      "page": "https://sauvaget.de/weekly-journal/the-week-that-was-05-2026/"
+      "page": "https://sauvaget.de/weekly-journal/the-week-that-was-05-2026/",
+      "orientation": "landscape",
+      "tags": [
+        "buồn",
+        "game",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "buon",
+        "game",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -1240,7 +2104,21 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://24hthethao.com/wp-content/uploads/2026/02/anh-che-bong-da-hai-huoc-nhat.jpg",
-      "page": "https://24hthethao.com/anh-che-bong-da-hai-huoc-nhat-khien-cdv-cuoi-ngat/"
+      "page": "https://24hthethao.com/anh-che-bong-da-hai-huoc-nhat-khien-cdv-cuoi-ngat/",
+      "orientation": "landscape",
+      "tags": [
+        "cười",
+        "chê bai",
+        "bóng đá",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "cuoi",
+        "che bai",
+        "bong da",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -1257,7 +2135,19 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://i.giphy.com/l4pTqdlMJVeqbxXry.webp",
-      "page": "https://media.giphy.com/media/l4pTqdlMJVeqbxXry/giphy.mp4"
+      "page": "https://media.giphy.com/media/l4pTqdlMJVeqbxXry/giphy.mp4",
+      "orientation": "square",
+      "tags": [
+        "họp",
+        "game",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "hop",
+        "game",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -1274,7 +2164,21 @@
       "viral_trending": true,
       "viral_note": "Nguồn chuyên mục 'meme game hay nhất tuần' — tuyển tập trending theo tuần.",
       "source_url": "https://pleated-jeans.com/wp-content/uploads/2024/09/funniest-gaming-memes-september-5-14.jpg",
-      "page": "https://pleated-jeans.com/2024/09/05/funniest-gaming-memes-september-5-2024/"
+      "page": "https://pleated-jeans.com/2024/09/05/funniest-gaming-memes-september-5-2024/",
+      "orientation": "portrait",
+      "tags": [
+        "mệt mỏi",
+        "buồn",
+        "game",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "met moi",
+        "buon",
+        "game",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -1291,7 +2195,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://static.gamehub.vn/img/files/2020/05/13/gamehub.vn-thoi-quen-khien-ban-thua-3.jpg",
-      "page": "https://en.gamehub.vn/hub/neu-muon-thoat-khoi-nhung-chuoi-thua-dai-dang-dang-thi-ban-nen-bo-ngay-nhu"
+      "page": "https://en.gamehub.vn/hub/neu-muon-thoat-khoi-nhung-chuoi-thua-dai-dang-dang-thi-ban-nen-bo-ngay-nhu",
+      "orientation": "portrait",
+      "tags": [
+        "buồn",
+        "game"
+      ],
+      "tags_ascii": [
+        "buon",
+        "game"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -1308,7 +2222,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://img-cdn.2game.vn/pictures/xemgame/2015/03/13/so-thich-game-thu-3.jpg",
-      "page": "https://www.xemgame.com/nhung-so-thich-la-doi-cua-game-thu-post121129.html"
+      "page": "https://www.xemgame.com/nhung-so-thich-la-doi-cua-game-thu-post121129.html",
+      "orientation": "landscape",
+      "tags": [
+        "tiền lương",
+        "game"
+      ],
+      "tags_ascii": [
+        "tien luong",
+        "game"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -1325,7 +2249,15 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://www.gamedesigning.org/wp-content/uploads/2015/08/A191.jpeg",
-      "page": "https://gamedesigning.org/video-game-memes/"
+      "page": "https://gamedesigning.org/video-game-memes/",
+      "orientation": "portrait",
+      "tags": [
+        "game"
+      ],
+      "tags_ascii": [
+        "game"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -1342,7 +2274,23 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "http://media.bongda.com.vn/files/thu.phan/2020/03/16/89560861_924999671256603_989135413559951360_n-1219.jpg",
-      "page": "https://bongdacf.com/thu-vien-anh/anh-khac/-cuoi-vo-bung-voi-anh-che-cac-su-kien-bong-da-gan-da"
+      "page": "https://bongdacf.com/thu-vien-anh/anh-khac/-cuoi-vo-bung-voi-anh-che-cac-su-kien-bong-da-gan-da",
+      "orientation": "landscape",
+      "tags": [
+        "chó",
+        "cười",
+        "buồn",
+        "tiền lương",
+        "bóng đá"
+      ],
+      "tags_ascii": [
+        "cho",
+        "cuoi",
+        "buon",
+        "tien luong",
+        "bong da"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -1359,7 +2307,15 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://i.imgflip.com/ayuj5y.jpg",
-      "page": "https://www.budgetgaming.nl/forum.php?page=topic&topic_id=8330&forum_id=1&start=9558"
+      "page": "https://www.budgetgaming.nl/forum.php?page=topic&topic_id=8330&forum_id=1&start=9558",
+      "orientation": "landscape",
+      "tags": [
+        "game"
+      ],
+      "tags_ascii": [
+        "game"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Du lịch/ăn uống",
@@ -1376,7 +2332,21 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://i.pinimg.com/originals/df/9f/c1/df9fc177c41240e7b28777c9090c5b16.jpg",
-      "page": "https://id.pinterest.com/ideas/cat-in-a-plane/911075177590/"
+      "page": "https://id.pinterest.com/ideas/cat-in-a-plane/911075177590/",
+      "orientation": "square",
+      "tags": [
+        "mèo",
+        "mệt mỏi",
+        "buồn",
+        "du lịch"
+      ],
+      "tags_ascii": [
+        "meo",
+        "met moi",
+        "buon",
+        "du lich"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Du lịch/ăn uống",
@@ -1393,7 +2363,21 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://thetakeoffnap.com/wp-content/uploads/2022/03/funny-portrait-work.png",
-      "page": "https://thetakeoffnap.com/best-travel-memes/"
+      "page": "https://thetakeoffnap.com/best-travel-memes/",
+      "orientation": "portrait",
+      "tags": [
+        "văn phòng",
+        "tiền lương",
+        "du lịch",
+        "ăn uống"
+      ],
+      "tags_ascii": [
+        "van phong",
+        "tien luong",
+        "du lich",
+        "an uong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Du lịch/ăn uống",
@@ -1410,7 +2394,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://images.topiphone.com/wp-content/uploads/2023/10/20231018011307-94.jpg",
-      "page": "https://mobiletechaddicts.com/why-does-my-phone-send-multiple-pictures/?utm_source=google&utm_medium=organic&utm_campaign=gl&wenzhangid=657081&source1=pg026&source2=&reposttitle=Why+Does+My+Phone+Send+Multiple+Pictures%3F%C2%A0&repostid=https://mobiletechaddicts.com/why-does-my-phone-send-multiple-pictures/"
+      "page": "https://mobiletechaddicts.com/why-does-my-phone-send-multiple-pictures/?utm_source=google&utm_medium=organic&utm_campaign=gl&wenzhangid=657081&source1=pg026&source2=&reposttitle=Why+Does+My+Phone+Send+Multiple+Pictures%3F%C2%A0&repostid=https://mobiletechaddicts.com/why-does-my-phone-send-multiple-pictures/",
+      "orientation": "landscape",
+      "tags": [
+        "buồn",
+        "du lịch"
+      ],
+      "tags_ascii": [
+        "buon",
+        "du lich"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Du lịch/ăn uống",
@@ -1427,7 +2421,19 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://kenh14cdn.com/2017/anh5-1483892296343.jpg",
-      "page": "https://kenh14.vn/di-du-lich-ve-da-met-roi-lai-con-hay-gap-nhung-cau-hoi-troi-oi-dat-hoi-kieu-nay-nua-20170108233534005.chn"
+      "page": "https://kenh14.vn/di-du-lich-ve-da-met-roi-lai-con-hay-gap-nhung-cau-hoi-troi-oi-dat-hoi-kieu-nay-nua-20170108233534005.chn",
+      "orientation": "square",
+      "tags": [
+        "mệt mỏi",
+        "buồn",
+        "du lịch"
+      ],
+      "tags_ascii": [
+        "met moi",
+        "buon",
+        "du lich"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Du lịch/ăn uống",
@@ -1444,7 +2450,21 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://gmy.su/wp-content/uploads/2026/03/clipcloud_219_8903d8f6.webp",
-      "page": "https://gmy.su/vliyanie-stressovyh-poezdok-na-muzhskoe-zdorove-i-kak-s-etim-borotsya-2/"
+      "page": "https://gmy.su/vliyanie-stressovyh-poezdok-na-muzhskoe-zdorove-i-kak-s-etim-borotsya-2/",
+      "orientation": "square",
+      "tags": [
+        "ngạc nhiên",
+        "tiền lương",
+        "du lịch",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "ngac nhien",
+        "tien luong",
+        "du lich",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Du lịch/ăn uống",
@@ -1461,7 +2481,15 @@
       "viral_trending": true,
       "viral_note": "Meme thuộc list food meme của BoredPanda, được repost lại ở nhiều nơi.",
       "source_url": "https://static.boredpanda.com/blog/wp-content/uploads/2018/10/funny-food-memes-100-5bc59780afb67__700.jpg",
-      "page": "https://mavink.com/explore/America-Food-Meme"
+      "page": "https://mavink.com/explore/America-Food-Meme",
+      "orientation": "landscape",
+      "tags": [
+        "ăn uống"
+      ],
+      "tags_ascii": [
+        "an uong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Du lịch/ăn uống",
@@ -1478,7 +2506,15 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://pleated-jeans.com/wp-content/uploads/2025/03/funny-food-memes-3-13-24-25.jpg",
-      "page": "https://pleated-jeans.com/2025/03/13/funny-food-memes-3-13-25/"
+      "page": "https://pleated-jeans.com/2025/03/13/funny-food-memes-3-13-25/",
+      "orientation": "landscape",
+      "tags": [
+        "ăn uống"
+      ],
+      "tags_ascii": [
+        "an uong"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Du lịch/ăn uống",
@@ -1495,7 +2531,19 @@
       "viral_trending": true,
       "viral_note": "Nằm trong list '100 Food Memes' của BuzzFeed, được chia sẻ rộng.",
       "source_url": "https://img.buzzfeed.com/buzzfeed-static/static/2018-02/27/6/asset/buzzfeed-prod-fastlane-01/sub-buzz-13513-1519730286-1.png?resize=990:990",
-      "page": "https://www.buzzfeed.com/jamiejones/100-food-memes"
+      "page": "https://www.buzzfeed.com/jamiejones/100-food-memes",
+      "orientation": "square",
+      "tags": [
+        "chó",
+        "ăn uống",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "cho",
+        "an uong",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Du lịch/ăn uống",
@@ -1512,7 +2560,17 @@
       "viral_trending": true,
       "viral_note": "Nằm trong list '100 Food Memes' của BuzzFeed, được chia sẻ rộng.",
       "source_url": "https://img.buzzfeed.com/buzzfeed-static/static/2018-02/27/2/asset/buzzfeed-prod-fastlane-01/sub-buzz-2710-1519718035-1.jpg?resize=990:990",
-      "page": "https://www.buzzfeed.com/jamiejones/100-food-memes"
+      "page": "https://www.buzzfeed.com/jamiejones/100-food-memes",
+      "orientation": "square",
+      "tags": [
+        "ăn uống",
+        "gia đình"
+      ],
+      "tags_ascii": [
+        "an uong",
+        "gia dinh"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Du lịch/ăn uống",
@@ -1529,7 +2587,15 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://maubanhkem.com/wp-content/uploads/2025/10/meme-doi-20.jpg",
-      "page": "https://maubanhkem.com/meme-doi/"
+      "page": "https://maubanhkem.com/meme-doi/",
+      "orientation": "landscape",
+      "tags": [
+        "ăn uống"
+      ],
+      "tags_ascii": [
+        "an uong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Reaction chung",
@@ -1546,7 +2612,19 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://cellphones.com.vn/sforum/wp-content/uploads/2023/11/avatar-vo-tri-68.jpg",
-      "page": "https://cellphones.com.vn/sforum/avatar-vo-tri"
+      "page": "https://cellphones.com.vn/sforum/avatar-vo-tri",
+      "orientation": "square",
+      "tags": [
+        "mèo",
+        "ngạc nhiên",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "meo",
+        "ngac nhien",
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Reaction chung",
@@ -1563,7 +2641,17 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://images.meme-arsenal.com/addf86bdedf20f59fa6ed953b0cb43d5.jpg",
-      "page": "https://www.meme-arsenal.com/en/create/chose?type=all&tag=screaming%20cat&page=6&sort=popular"
+      "page": "https://www.meme-arsenal.com/en/create/chose?type=all&tag=screaming%20cat&page=6&sort=popular",
+      "orientation": "landscape",
+      "tags": [
+        "mèo",
+        "ngạc nhiên"
+      ],
+      "tags_ascii": [
+        "meo",
+        "ngac nhien"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Reaction chung",
@@ -1580,7 +2668,19 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://bangchucai.app/wp-content/uploads/2026/01/meme-bi-soc-hai-huoc-5.webp",
-      "page": "https://www.vjol.info/meme-soc"
+      "page": "https://www.vjol.info/meme-soc",
+      "orientation": "square",
+      "tags": [
+        "mèo",
+        "ngạc nhiên",
+        "tiền lương"
+      ],
+      "tags_ascii": [
+        "meo",
+        "ngac nhien",
+        "tien luong"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Reaction chung",
@@ -1597,7 +2697,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://vntrade.edu.vn/wp-content/uploads/2025/12/anh-meme-hai.jpg",
-      "page": "https://vntrade.edu.vn/cuoi-meme/"
+      "page": "https://vntrade.edu.vn/cuoi-meme/",
+      "orientation": "portrait",
+      "tags": [
+        "chó",
+        "cười"
+      ],
+      "tags_ascii": [
+        "cho",
+        "cuoi"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Reaction chung",
@@ -1614,7 +2724,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/474080AMX/anh-cho-cute-cuoi-deu-meme-hai_090814021.jpeg",
-      "page": "https://mytour.vn/vi/blog/bai-viet/danh-sach-nhung-hinh-anh-cuoi-deu-hai-huoc-nhat"
+      "page": "https://mytour.vn/vi/blog/bai-viet/danh-sach-nhung-hinh-anh-cuoi-deu-hai-huoc-nhat",
+      "orientation": "portrait",
+      "tags": [
+        "chó",
+        "cười"
+      ],
+      "tags_ascii": [
+        "cho",
+        "cuoi"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Reaction chung",
@@ -1631,7 +2751,23 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://imgtag.co.kr/wp-content/uploads/2025/07/250730090123.webp",
-      "page": "https://imgtag.co.kr/category/issue/page/3576/"
+      "page": "https://imgtag.co.kr/category/issue/page/3576/",
+      "orientation": "landscape",
+      "tags": [
+        "thứ Hai",
+        "cười",
+        "chê bai",
+        "tiền lương",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "thu hai",
+        "cuoi",
+        "che bai",
+        "tien luong",
+        "tinh yeu"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Reaction chung",
@@ -1648,7 +2784,17 @@
       "viral_trending": true,
       "viral_note": "Nguồn ghi bộ sưu tập 'meme chê bựa hài thịnh hành hiện nay'.",
       "source_url": "https://cdn-media.sforum.vn/storage/app/media/ctv_seo8/ctv_phung/meme-che/meme-che-8.jpg",
-      "page": "https://cellphones.com.vn/sforum/meme-che"
+      "page": "https://cellphones.com.vn/sforum/meme-che",
+      "orientation": "square",
+      "tags": [
+        "gấu",
+        "chê bai"
+      ],
+      "tags_ascii": [
+        "gau",
+        "che bai"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Reaction chung",
@@ -1665,7 +2811,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474330SHk/anh-meme-che-sieu-hai-huoc_035402122.jpg",
-      "page": "https://thuthuatphanmem.vn/che-meme-tong-hop-meme-che-bua-hai-huoc-nhat/"
+      "page": "https://thuthuatphanmem.vn/che-meme-tong-hop-meme-che-bua-hai-huoc-nhat/",
+      "orientation": "square",
+      "tags": [
+        "chê bai",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "che bai",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Reaction chung",
@@ -1682,7 +2838,21 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://anhanime.vn/wp-content/uploads/2025/04/hinh-meme-meo-vo-tri-ngo-ngac.webp",
-      "page": "https://anhanime.vn/meo-vo-tri-meme/"
+      "page": "https://anhanime.vn/meo-vo-tri-meme/",
+      "orientation": "square",
+      "tags": [
+        "mèo",
+        "ngạc nhiên",
+        "ngơ ngác",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "meo",
+        "ngac nhien",
+        "ngo ngac",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Reaction chung",
@@ -1699,7 +2869,17 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://www.bunbrary.com/wp-content/uploads/2020/09/Moraea-has-a-question-blue.jpg",
-      "page": "https://www.bunbrary.com/general/rabbits-are-crepuscular/"
+      "page": "https://www.bunbrary.com/general/rabbits-are-crepuscular/",
+      "orientation": "landscape",
+      "tags": [
+        "thỏ",
+        "ngơ ngác"
+      ],
+      "tags_ascii": [
+        "tho",
+        "ngo ngac"
+      ],
+      "fit_vertical": true
     }
   ]
 }

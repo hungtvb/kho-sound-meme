@@ -18,7 +18,19 @@
       "viral_trending": false,
       "viral_note": "Không rõ; ảnh trong bộ sưu tập meme học bài mùa thi 2025.",
       "source_url": "https://www.anhnghethuatdulich.com/wp-content/uploads/2025/09/meme-hoc-bai.jpg",
-      "page": "https://www.anhnghethuatdulich.com/meme-hoc-bai-thi-cu/"
+      "page": "https://www.anhnghethuatdulich.com/meme-hoc-bai-thi-cu/",
+      "orientation": "square",
+      "tags": [
+        "gấu",
+        "buồn",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "gau",
+        "buon",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Học tập/thi cử",
@@ -35,7 +47,19 @@
       "viral_trending": true,
       "viral_note": "Template truyện tranh học đường lan truyền rộng trên Facebook (watermark FB.COM/VERBAY69).",
       "source_url": "https://i.pinimg.com/originals/0f/3e/d9/0f3ed9f4de1beea8db1b2def216614bf.jpg",
-      "page": "https://xaydungso.vn/bai-viet-khac/cap-nhat-nhieu-anh-vui-hoc-hua-hen-mang-lai-tieng-cuoi-sang-khoai-cho-nguoi-xem-vi-cb.html"
+      "page": "https://xaydungso.vn/bai-viet-khac/cap-nhat-nhieu-anh-vui-hoc-hua-hen-mang-lai-tieng-cuoi-sang-khoai-cho-nguoi-xem-vi-cb.html",
+      "orientation": "square",
+      "tags": [
+        "cười",
+        "buồn",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "cuoi",
+        "buon",
+        "hoc tap"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Học tập/thi cử",
@@ -52,7 +76,17 @@
       "viral_trending": true,
       "viral_note": "Thuộc bộ '101+ meme động viên sĩ tử 2k7' mùa thi, được tổng hợp và chia sẻ rộng rãi.",
       "source_url": "https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://cdn-media.sforum.vn/storage/app/media/giangnguyen/meme%20ch%C3%BAc%20thi%20t%E1%BB%91t/meme-chuc-thi-tot-24.jpg",
-      "page": "https://mytour.vn/vi/blog/kinh-nghiem-hay/hon-101-meme-dong-vien-mua-thi-cuc-hai-huoc-va-doc-dao-danh-rieng-cho-cac-si-tu-2k7-mytour.html"
+      "page": "https://mytour.vn/vi/blog/kinh-nghiem-hay/hon-101-meme-dong-vien-mua-thi-cuc-hai-huoc-va-doc-dao-danh-rieng-cho-cac-si-tu-2k7-mytour.html",
+      "orientation": "square",
+      "tags": [
+        "chó",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "cho",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Học tập/thi cử",
@@ -69,7 +103,17 @@
       "viral_trending": false,
       "viral_note": "Không rõ; ảnh trong bộ 'Relatable Late-Night Study Memes for Students' của MemeChor.",
       "source_url": "https://cdn.memechor.com/meme/1728463853337-1728463853340.jpg",
-      "page": "https://www.memechor.com/meme/relatable-late-night-study-memes-for-students-670643ed7139bbc4cff4fd5f"
+      "page": "https://www.memechor.com/meme/relatable-late-night-study-memes-for-students-670643ed7139bbc4cff4fd5f",
+      "orientation": "square",
+      "tags": [
+        "buồn",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "buon",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Học tập/thi cử",
@@ -86,7 +130,21 @@
       "viral_trending": false,
       "viral_note": "Không rõ.",
       "source_url": "https://i.pinimg.com/originals/33/43/9c/33439c2427558a42186d069ec28fa77d.jpg?nii=t",
-      "page": null
+      "page": null,
+      "orientation": "square",
+      "tags": [
+        "deadline",
+        "mệt mỏi",
+        "học tập",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "deadline",
+        "met moi",
+        "hoc tap",
+        "tinh yeu"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Học tập/thi cử",
@@ -103,7 +161,21 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://toonwords.nl/wp-content/uploads/2026/01/Examen.webp",
-      "page": "https://toonwords.nl/maatschappij/onderwijs/examen/"
+      "page": "https://toonwords.nl/maatschappij/onderwijs/examen/",
+      "orientation": "portrait",
+      "tags": [
+        "mệt mỏi",
+        "học tập",
+        "ăn uống",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "met moi",
+        "hoc tap",
+        "an uong",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Học tập/thi cử",
@@ -120,7 +192,17 @@
       "viral_trending": true,
       "viral_note": "Template meme động lực phổ biến trên Imgflip, dùng nhiều trong các bài đăng học tập.",
       "source_url": "https://i.imgflip.com/2l2d7g.jpg",
-      "page": "https://imgflip.com/tag/motivation?sort=latest&after=2n2czv"
+      "page": "https://imgflip.com/tag/motivation?sort=latest&after=2n2czv",
+      "orientation": "portrait",
+      "tags": [
+        "buồn",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "buon",
+        "hoc tap"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Học tập/thi cử",
@@ -137,7 +219,23 @@
       "viral_trending": true,
       "viral_note": "Ảnh chế 'ăn kiến thức' nổi tiếng mùa thi, đăng trên Kenh14 năm 2018 và được chia sẻ lại nhiều lần.",
       "source_url": "https://kenh14cdn.com/2018/12/19/thi-1545206389844879321604-crop-15452063962991434197722.png",
-      "page": null
+      "page": null,
+      "orientation": "landscape",
+      "tags": [
+        "chó",
+        "mệt mỏi",
+        "học tập",
+        "ăn uống",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "cho",
+        "met moi",
+        "hoc tap",
+        "an uong",
+        "tinh yeu"
+      ],
+      "fit_vertical": false
     },
     {
       "group": "Học tập/thi cử",
@@ -154,7 +252,15 @@
       "viral_trending": true,
       "viral_note": "Bài Kenh14 'Bắt bài 1001 kiểu quay bài mùa thi cử' viral, được chia sẻ rộng rãi mỗi mùa thi.",
       "source_url": "https://kenh14cdn.com/thumb_w/1200/YFMU4phyIeiN1VQB5zBGRZ768aPI9/Image/2014/05/ava-35272.jpg",
-      "page": "http://kenh14.vn/doi-song/bat-bai-nhung-kieu-quay-cop-thuong-gap-trong-mua-thi-cu-cua-hoc-tro-2014050609084264.chn"
+      "page": "http://kenh14.vn/doi-song/bat-bai-nhung-kieu-quay-cop-thuong-gap-trong-mua-thi-cu-cua-hoc-tro-2014050609084264.chn",
+      "orientation": "landscape",
+      "tags": [
+        "học tập"
+      ],
+      "tags_ascii": [
+        "hoc tap"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Học tập/thi cử",
@@ -171,7 +277,17 @@
       "viral_trending": false,
       "viral_note": "Không rõ; ảnh trong bộ 'Relatable Exam Time Struggles' của MemeChor.",
       "source_url": "https://cdn.memechor.com/meme/1737223974823-1737223974829.jpg",
-      "page": "https://www.memechor.com/meme/relatable-exam-time-struggles-the-meme-you-need-678bef26f1370dae2f204358"
+      "page": "https://www.memechor.com/meme/relatable-exam-time-struggles-the-meme-you-need-678bef26f1370dae2f204358",
+      "orientation": "square",
+      "tags": [
+        "buồn",
+        "học tập"
+      ],
+      "tags_ascii": [
+        "buon",
+        "hoc tap"
+      ],
+      "fit_vertical": true
     }
   ]
 }

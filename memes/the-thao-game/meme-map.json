@@ -18,7 +18,17 @@
       "viral_trending": true,
       "viral_note": "Meme so sánh PC/console/mobile là chủ đề viral kinh điển trên 9GAG.",
       "source_url": "https://img-9gag-fun.9cache.com/photo/aPRj2En_700b.jpg",
-      "page": "https://9gag.com/gag/aPRj2En"
+      "page": "https://9gag.com/gag/aPRj2En",
+      "orientation": "landscape",
+      "tags": [
+        "game",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "game",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -35,7 +45,19 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://sauvaget.de/wp-content/uploads/2026/02/0dcc8f82-0bc9-434e-aa12-f263f8592b18-1024x683.png",
-      "page": "https://sauvaget.de/weekly-journal/the-week-that-was-05-2026/"
+      "page": "https://sauvaget.de/weekly-journal/the-week-that-was-05-2026/",
+      "orientation": "landscape",
+      "tags": [
+        "buồn",
+        "game",
+        "tình yêu"
+      ],
+      "tags_ascii": [
+        "buon",
+        "game",
+        "tinh yeu"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -52,7 +74,21 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://24hthethao.com/wp-content/uploads/2026/02/anh-che-bong-da-hai-huoc-nhat.jpg",
-      "page": "https://24hthethao.com/anh-che-bong-da-hai-huoc-nhat-khien-cdv-cuoi-ngat/"
+      "page": "https://24hthethao.com/anh-che-bong-da-hai-huoc-nhat-khien-cdv-cuoi-ngat/",
+      "orientation": "landscape",
+      "tags": [
+        "cười",
+        "chê bai",
+        "bóng đá",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "cuoi",
+        "che bai",
+        "bong da",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -69,7 +105,19 @@
       "viral_trending": false,
       "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
       "source_url": "https://i.giphy.com/l4pTqdlMJVeqbxXry.webp",
-      "page": "https://media.giphy.com/media/l4pTqdlMJVeqbxXry/giphy.mp4"
+      "page": "https://media.giphy.com/media/l4pTqdlMJVeqbxXry/giphy.mp4",
+      "orientation": "square",
+      "tags": [
+        "họp",
+        "game",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "hop",
+        "game",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -86,7 +134,21 @@
       "viral_trending": true,
       "viral_note": "Nguồn chuyên mục 'meme game hay nhất tuần' — tuyển tập trending theo tuần.",
       "source_url": "https://pleated-jeans.com/wp-content/uploads/2024/09/funniest-gaming-memes-september-5-14.jpg",
-      "page": "https://pleated-jeans.com/2024/09/05/funniest-gaming-memes-september-5-2024/"
+      "page": "https://pleated-jeans.com/2024/09/05/funniest-gaming-memes-september-5-2024/",
+      "orientation": "portrait",
+      "tags": [
+        "mệt mỏi",
+        "buồn",
+        "game",
+        "đời sống"
+      ],
+      "tags_ascii": [
+        "met moi",
+        "buon",
+        "game",
+        "doi song"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -103,7 +165,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://static.gamehub.vn/img/files/2020/05/13/gamehub.vn-thoi-quen-khien-ban-thua-3.jpg",
-      "page": "https://en.gamehub.vn/hub/neu-muon-thoat-khoi-nhung-chuoi-thua-dai-dang-dang-thi-ban-nen-bo-ngay-nhu"
+      "page": "https://en.gamehub.vn/hub/neu-muon-thoat-khoi-nhung-chuoi-thua-dai-dang-dang-thi-ban-nen-bo-ngay-nhu",
+      "orientation": "portrait",
+      "tags": [
+        "buồn",
+        "game"
+      ],
+      "tags_ascii": [
+        "buon",
+        "game"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -120,7 +192,17 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://img-cdn.2game.vn/pictures/xemgame/2015/03/13/so-thich-game-thu-3.jpg",
-      "page": "https://www.xemgame.com/nhung-so-thich-la-doi-cua-game-thu-post121129.html"
+      "page": "https://www.xemgame.com/nhung-so-thich-la-doi-cua-game-thu-post121129.html",
+      "orientation": "landscape",
+      "tags": [
+        "tiền lương",
+        "game"
+      ],
+      "tags_ascii": [
+        "tien luong",
+        "game"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -137,7 +219,15 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://www.gamedesigning.org/wp-content/uploads/2015/08/A191.jpeg",
-      "page": "https://gamedesigning.org/video-game-memes/"
+      "page": "https://gamedesigning.org/video-game-memes/",
+      "orientation": "portrait",
+      "tags": [
+        "game"
+      ],
+      "tags_ascii": [
+        "game"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -154,7 +244,23 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "http://media.bongda.com.vn/files/thu.phan/2020/03/16/89560861_924999671256603_989135413559951360_n-1219.jpg",
-      "page": "https://bongdacf.com/thu-vien-anh/anh-khac/-cuoi-vo-bung-voi-anh-che-cac-su-kien-bong-da-gan-da"
+      "page": "https://bongdacf.com/thu-vien-anh/anh-khac/-cuoi-vo-bung-voi-anh-che-cac-su-kien-bong-da-gan-da",
+      "orientation": "landscape",
+      "tags": [
+        "chó",
+        "cười",
+        "buồn",
+        "tiền lương",
+        "bóng đá"
+      ],
+      "tags_ascii": [
+        "cho",
+        "cuoi",
+        "buon",
+        "tien luong",
+        "bong da"
+      ],
+      "fit_vertical": true
     },
     {
       "group": "Thể thao/game",
@@ -171,7 +277,15 @@
       "viral_trending": false,
       "viral_note": "không rõ",
       "source_url": "https://i.imgflip.com/ayuj5y.jpg",
-      "page": "https://www.budgetgaming.nl/forum.php?page=topic&topic_id=8330&forum_id=1&start=9558"
+      "page": "https://www.budgetgaming.nl/forum.php?page=topic&topic_id=8330&forum_id=1&start=9558",
+      "orientation": "landscape",
+      "tags": [
+        "game"
+      ],
+      "tags_ascii": [
+        "game"
+      ],
+      "fit_vertical": true
     }
   ]
 }
