@@ -4,6 +4,8 @@
   "count": 10,
   "items": [
     {
+      "group": "Học tập/thi cử",
+      "group_slug": "hoc-tap-thi-cu",
       "id": 41,
       "title_vi": "Gấu nâu chăm chỉ học bài",
       "desc_vi": "Gấu nâu hoạt hình ngồi bàn học, tay cầm bút chì màu, trước mặt là giấy tờ và máy tính, vẻ mặt suy tư.",
@@ -19,6 +21,8 @@
       "page": "https://www.anhnghethuatdulich.com/meme-hoc-bai-thi-cu/"
     },
     {
+      "group": "Học tập/thi cử",
+      "group_slug": "hoc-tap-thi-cu",
       "id": 42,
       "title_vi": "Lên bảng trả bài: học hay không học cũng khóc",
       "desc_vi": "Truyện tranh 4 khung: hôm học bài cũ thì hăng hái giơ tay, hôm không học thì cầu mong không bị gọi tên — cuối cùng lên bảng đều khóc.",
@@ -34,6 +38,8 @@
       "page": "https://xaydungso.vn/bai-viet-khac/cap-nhat-nhieu-anh-vui-hoc-hua-hen-mang-lai-tieng-cuoi-sang-khoai-cho-nguoi-xem-vi-cb.html"
     },
     {
+      "group": "Học tập/thi cử",
+      "group_slug": "hoc-tap-thi-cu",
       "id": 43,
       "title_vi": "Chúc thi tốt (THI TỐT!!)",
       "desc_vi": "Nhân vật tròn dễ thương kèm chữ lớn 'THI TỐT!!', dùng để chúc thi.",
@@ -49,6 +55,8 @@
       "page": "https://mytour.vn/vi/blog/kinh-nghiem-hay/hon-101-meme-dong-vien-mua-thi-cuc-hai-huoc-va-doc-dao-danh-rieng-cho-cac-si-tu-2k7-mytour.html"
     },
     {
+      "group": "Học tập/thi cử",
+      "group_slug": "hoc-tap-thi-cu",
       "id": 44,
       "title_vi": "Cày đêm ôn thi: mắt thâm quầng giữa núi sách",
       "desc_vi": "Học sinh mắt thâm quầng ngồi giữa chồng sách và giấy tờ cao ngất, xung quanh là poster 'STUDY HARD'.",
@@ -64,6 +72,8 @@
       "page": "https://www.memechor.com/meme/relatable-late-night-study-memes-for-students-670643ed7139bbc4cff4fd5f"
     },
     {
+      "group": "Học tập/thi cử",
+      "group_slug": "hoc-tap-thi-cu",
       "id": 45,
       "title_vi": "Nhân vật trắng chìm trong đống sách",
       "desc_vi": "Nhân vật blob trắng nhỏ ngồi giữa đống sách đủ màu, một quyển sách xanh đội trên đầu, vẻ mặt kiệt sức.",
@@ -79,21 +89,25 @@
       "page": null
     },
     {
+      "group": "Học tập/thi cử",
+      "group_slug": "hoc-tap-thi-cu",
       "id": 46,
-      "title_vi": "Thi rớt thì đã sao? Đẹp trai không lo chết đói (Conan)",
-      "desc_vi": "Nhân vật Conan (Thám tử lừng danh Conan) nằm phơi nắng ở biển, chữ vàng: 'THI RỚT THÌ ĐÃ SAO? ĐẸP TRAI KHÔNG LO CHẾT ĐÓI'. IP: Detective Conan — chỉ dùng làm reaction ngắn.",
-      "use_case": "Dùng để tự an ủi (hoặc trêu bạn) sau khi thi rớt, điểm kém.",
-      "file": "046-thi-rot-thi-da-sao-dep-trai-khong-lo-chet-doi-conan.jpg",
-      "width": 720,
-      "height": 720,
-      "format": "JPEG",
-      "bytes": 72415,
-      "viral_trending": true,
-      "viral_note": "Template ảnh chế Conan lan truyền rộng trên mạng xã hội Việt Nam, câu 'Thi rớt thì đã sao' quen thuộc mùa thi.",
-      "source_url": "https://aztruyen.top/images/0d66c3606a2ca8487163fba015c1b9d26bcbe870/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f735931345a4a584936486c6159513d3d2d3934383537363430332e313633316538326135386431316132383534363537393832313638312e6a7067.webp",
-      "page": "https://aztruyen.top/anh-che-conan-239690963/5-948576403/"
+      "title_vi": "Lo thi rớt rồi thở phào khi qua môn",
+      "desc_vi": "Truyện tranh 3 khung nhân vật que chung: làm bài thi, lo lắng ôm đầu, rồi giơ cao bài điểm A+ ăn mừng.",
+      "use_case": "Đùa về nỗi lo thi rớt rồi thở phào khi làm bài xong.",
+      "file": "046-lo-thi-rot-roi-tho-phao-khi-qua-mon.webp",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "bytes": 133864,
+      "viral_trending": false,
+      "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
+      "source_url": "https://toonwords.nl/wp-content/uploads/2026/01/Examen.webp",
+      "page": "https://toonwords.nl/maatschappij/onderwijs/examen/"
     },
     {
+      "group": "Học tập/thi cử",
+      "group_slug": "hoc-tap-thi-cu",
       "id": 47,
       "title_vi": "Hey you, keep studying!",
       "desc_vi": "Nhân vật đội mũ cao, áo khoác dài, chữ 'HEY YOU' phía trên và 'KEEP STUDYING' phía dưới — template nhắc nhở học bài.",
@@ -109,6 +123,8 @@
       "page": "https://imgflip.com/tag/motivation?sort=latest&after=2n2czv"
     },
     {
+      "group": "Học tập/thi cử",
+      "group_slug": "hoc-tap-thi-cu",
       "id": 48,
       "title_vi": "Ăn bánh mì hình Việt Nam để nuốt kiến thức",
       "desc_vi": "Ảnh ghép 2 khung: bên trái học sinh ôm đầu stress giữa đống giấy, bên phải tay cầm miếng bánh mì cắn thành hình bản đồ Việt Nam trước sách Hóa học chương 3.",
@@ -124,6 +140,8 @@
       "page": null
     },
     {
+      "group": "Học tập/thi cử",
+      "group_slug": "hoc-tap-thi-cu",
       "id": 49,
       "title_vi": "1001 kiểu quay cóp mùa thi",
       "desc_vi": "Học sinh quay bài bằng phao dài gấp nếp giấu trong tay áo, thầy giáo đứng bên cạnh nhìn chằm chằm — truyện tranh hài về gian lận thi cử.",
@@ -139,6 +157,8 @@
       "page": "http://kenh14.vn/doi-song/bat-bai-nhung-kieu-quay-cop-thuong-gap-trong-mua-thi-cu-cua-hoc-tro-2014050609084264.chn"
     },
     {
+      "group": "Học tập/thi cử",
+      "group_slug": "hoc-tap-thi-cu",
       "id": 50,
       "title_vi": "Quái vật hét lên khi bắt đầu ôn thi",
       "desc_vi": "Sinh vật quái dị hét to giữa đống sách, biển hiệu 'A STUDENT START STUDYING' và 'I SWEAR I'LL STUDYING..' — hài về quyết tâm học rồi bỏ dở.",

@@ -4,6 +4,8 @@
   "count": 20,
   "items": [
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 21,
       "title_vi": "Mèo ngạc nhiên",
       "desc_vi": "Mèo với biểu cảm ngạc nhiên, mắt mở to (template amazed cat của MemeBoat)",
@@ -19,6 +21,8 @@
       "page": ""
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 22,
       "title_vi": "Mèo bối rối",
       "desc_vi": "Mèo với biểu cảm bối rối, khó hiểu (template confused cat của MemeBoat)",
@@ -34,6 +38,8 @@
       "page": ""
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 23,
       "title_vi": "Thú cưng hài hước tỉnh dậy",
       "desc_vi": "Ảnh thú cưng hài hước, kỳ quặc từ bộ sưu tập Bored Panda 'people woke up to funny weird pets'",
@@ -49,6 +55,8 @@
       "page": ""
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 24,
       "title_vi": "Mèo đeo kính ngầu",
       "desc_vi": "Mèo đeo kính râm, vẻ mặt ngầu (meme mèo đeo kính VN)",
@@ -64,6 +72,8 @@
       "page": ""
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 25,
       "title_vi": "Mèo cười",
       "desc_vi": "Meme mèo cười (ảnh mèo với biểu cảm cười, bộ meme mèo cười VN)",
@@ -79,6 +89,8 @@
       "page": ""
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 26,
       "title_vi": "Chó cười đội hoa hồng",
       "desc_vi": "Chó golden retriever cười, đội bông hồng vàng lớn trên đầu, nằm trên sofa (theo mô tả từ kết quả tìm kiếm)",
@@ -94,6 +106,8 @@
       "page": "https://stingworld.vn/hai-huoc/cho-meme-1847.html"
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 27,
       "title_vi": "Chó cười",
       "desc_vi": "Ảnh chó cười (cùng bộ ảnh chó cười trên StingWorld)",
@@ -109,6 +123,8 @@
       "page": ""
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 28,
       "title_vi": "Chó hài",
       "desc_vi": "Ảnh chó hài hước (bộ meme ảnh chó hài VN)",
@@ -124,6 +140,8 @@
       "page": ""
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 29,
       "title_vi": "Chó mặc áo hoodie",
       "desc_vi": "Chó mặc áo hoodie xanh có in hình mặt chó, chụp góc thấp cận mặt (theo mô tả từ kết quả tìm kiếm)",
@@ -139,6 +157,8 @@
       "page": "https://hoichimtroi.com/meme-anh-cho-hai/"
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 30,
       "title_vi": "Capybara ngồi trên hamburger",
       "desc_vi": "Capybara hoạt hình dễ thương ngồi trên chiếc hamburger lớn (minh họa vector)",
@@ -154,6 +174,8 @@
       "page": ""
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 31,
       "title_vi": "Mèo đen 'Đừng để tao một mình'",
       "desc_vi": "Mèo đen ngồi giữa đống đồ thủ công và giấy tờ vương vãi, bong bóng thoại: 'You left me unattended.' (I Can Has Cheezburger)",
@@ -169,6 +191,8 @@
       "page": "https://icanhas.cheezburger.com/Home/Community"
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 32,
       "title_vi": "Mèo sợ hãi",
       "desc_vi": "Meme mèo sợ hãi (tag 'scared cat' top trên Imgflip)",
@@ -184,6 +208,8 @@
       "page": "https://imgflip.com/m/cats/tag/scared+cat?sort=top-2022-12&after=6ycy37"
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 33,
       "title_vi": "OMG Kitty",
       "desc_vi": "Meme 'OMG Kitty' — mèo với biểu cảm ngạc nhiên thốt lên (template Imgflip)",
@@ -199,6 +225,8 @@
       "page": "https://imgflip.com/meme/394371140/OMG-Kitty"
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 34,
       "title_vi": "Mèo xám trắng mắt to",
       "desc_vi": "Mèo tabby xám trắng ngồi trên sofa xám, nhìn thẳng camera với đôi mắt mở to",
@@ -214,6 +242,8 @@
       "page": "https://se.pinterest.com/littlefluffpedia/cats-being-cats-funny-cat-memes-hilarious-cats/"
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 35,
       "title_vi": "Chó sợ bị sai đi kiểm tra tiếng động",
       "desc_vi": "Meme: 'Her: I think I heard something outside. Him: Let the dog go out to check. The dog:' — chó boxer nâu mắt mở to đầy lo lắng",
@@ -229,6 +259,8 @@
       "page": "https://www.boredpanda.com/random-memes-idiots-in-public-places/?media_id=9837350"
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 36,
       "title_vi": "Corgi 'Lại gặp nhau nhé, anh đưa thư'",
       "desc_vi": "Chó corgi ngồi ghế lái xe, vẻ mặt hào hứng, chú thích: 'And we meet again Mr. Postman.'",
@@ -244,21 +276,25 @@
       "page": "https://www.happierhuman.com/funny-dog-memes-jp3/"
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 37,
-      "title_vi": "Shiba 'thân hình lý tưởng'",
-      "desc_vi": "Chó Shiba Inu đeo kính râm và cà vạt, chú thích: 'This is the ideal male body. You may not like it, but this is what peak performance looks like.' (IP: Doge/Shiba)",
+      "title_vi": "Chó golden đeo kính râm ngầu",
+      "desc_vi": "Chó golden retriever thật đeo kính râm đen, thè lưỡi cười, nhìn thẳng camera.",
       "use_case": "Đùa tự tin thái quá, 'đỉnh cao phong độ'",
-      "file": "037-shiba-than-hinh-ly-tuong.jpg",
-      "width": 500,
-      "height": 518,
+      "file": "037-cho-golden-deo-kinh-ram-ngau.jpg",
+      "width": 3024,
+      "height": 4032,
       "format": "JPEG",
-      "bytes": 57773,
-      "viral_trending": true,
-      "viral_note": "Meme 'ideal male body / peak performance' với Shiba là template viral",
-      "source_url": "https://i.chzbgr.com/full/10490413056/h0E077DFD/this-is-ideal-male-body-may-not-like-but-this-is-peak-performance-looks-like",
-      "page": "https://cheezburger.com/40008453/27-dog-memes-bringing-you-their-peak-performance-of-canine-comedy"
+      "bytes": 851149,
+      "viral_trending": false,
+      "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
+      "source_url": "https://i.pinimg.com/originals/55/46/00/554600fa2d724fcd8d7057cca0cea266.jpg",
+      "page": "https://in.pinterest.com/ideas/golden-retriever-with-sunglasses/940247565265/"
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 38,
       "title_vi": "Capybara ngó qua tường đá",
       "desc_vi": "Ảnh capybara thật ngó qua tường đá, mũi lớn chiếm khung hình, trình bày như meme hài (Meme-Arsenal)",
@@ -274,6 +310,8 @@
       "page": "https://www.meme-arsenal.com/en/create/chose?tag=the%20capybara%20is%20large&page=1"
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 39,
       "title_vi": "Mèo ngạc nhiên khi bị kêu meo",
       "desc_vi": "Mèo với biểu cảm ngạc nhiên, từ bài 'This is how cats react when you meow at them' (nội dung cụ thể chưa xem bằng mắt)",
@@ -289,6 +327,8 @@
       "page": "https://awkward.com/this-is-how-cats-react-when-you-meow-at-them/"
     },
     {
+      "group": "Mèo/chó/động vật",
+      "group_slug": "meo-cho-dong-vat",
       "id": 40,
       "title_vi": "Chó cười nhe răng",
       "desc_vi": "Chó lông nâu nhạt chụp cận mặt, há miệng nhe răng, nhìn thẳng camera",

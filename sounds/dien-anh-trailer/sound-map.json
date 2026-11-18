@@ -4,16 +4,16 @@
   "count": 10,
   "items": [
     {
-      "name": "SFX Lê Tuấn Khang – Cinematic Tension Trailer",
-      "slug": "sfx-le-tuan-khang-cinematic-tension-trailer",
-      "file": "sfx-le-tuan-khang-cinematic-tension-trailer-www_tiengdong_com.mp3",
-      "duration_s": 77.34,
-      "bytes": 1404184,
-      "viral": true,
-      "viral_note": "Tên creator viral TikTok Lê Tuấn Khang",
-      "source_url": "https://tiengdong.com/sfx-le-tuan-khang-cinematic-tension-trailer",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/sfx-le-tuan-khang-cinematic-tension-trailer-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "name": "Cinematic HIT sound effect",
+      "slug": "cinematic-hit-sound-effect",
+      "file": "cinematic-hit-sound-effect-www_tiengdong_com.mp3",
+      "duration_s": 4.349,
+      "bytes": 276730,
+      "viral": false,
+      "viral_note": "",
+      "source_url": "https://tiengdong.com/cinematic-hit-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/cinematic-hit-sound-effect-www_tiengdong_com.mp3",
+      "audit": "REPLACEMENT 2026-11-18: thay 'sfx-le-tuan-khang-cinematic-tension-trailer' bi BO theo copyright-audit (c: Ten/file mang ten creator viral TikTok Le Tuan Khang; viral_note ghi 'Ten creator viral TikTok Le Tuan Khang'. Khong ro ); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
     },
     {
       "name": "Nhạc Trailer Kịch Tính",

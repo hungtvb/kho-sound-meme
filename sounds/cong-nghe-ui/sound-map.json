@@ -16,16 +16,16 @@
       "audit": "ok (wp-audio-shortcode)"
     },
     {
-      "name": "Âm thanh thông báo iOS 17",
-      "slug": "am-thanh-thong-bao-ios-17",
-      "file": "am-thanh-thong-bao-ios-17-www_tiengdong_com.mp3",
-      "duration_s": 0.98,
-      "bytes": 275789,
+      "name": "Âm thanh thông báo Cool",
+      "slug": "am-thanh-thong-bao-cool",
+      "file": "am-thanh-thong-bao-cool-th-www_tiengdong_com.mp3",
+      "duration_s": 4.09,
+      "bytes": 274765,
       "viral": false,
       "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-thong-bao-ios-17",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-ios-17-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "source_url": "https://tiengdong.com/am-thanh-thong-bao-cool",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-cool-th-www_tiengdong_com.mp3",
+      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-thong-bao-ios-17' bi BO theo copyright-audit (a: Am thanh he thong iOS 17 (Apple) - am thanh thuong hieu he dieu hanh.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
     },
     {
       "name": "Âm thanh Thông báo, Cảnh báo công nghệ cao",
@@ -52,28 +52,28 @@
       "audit": "ok (wp-audio-shortcode)"
     },
     {
-      "name": "Âm thanh sạc pin Samsung Galaxy",
-      "slug": "am-thanh-sac-pin-samsung-galaxy",
-      "file": "am-thanh-sac-pin-samsung-galaxy-www_tiengdong_com.mp3",
-      "duration_s": 1.27,
-      "bytes": 271684,
+      "name": "Âm thanh thông báo Hoạt Hình",
+      "slug": "am-thanh-thong-bao-hoat-hinh",
+      "file": "am-thanh-thong-bao-hoat-hinh-www_tiengdong_com.mp3",
+      "duration_s": 5.085,
+      "bytes": 320825,
       "viral": false,
       "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-sac-pin-samsung-galaxy",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-sac-pin-samsung-galaxy-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "source_url": "https://tiengdong.com/am-thanh-thong-bao-hoat-hinh",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-hoat-hinh-www_tiengdong_com.mp3",
+      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-sac-pin-samsung-galaxy' bi BO theo copyright-audit (a: Am thanh sac pin Samsung Galaxy - am thanh thuong hieu Samsung.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
     },
     {
-      "name": "Tiếng chuông thông báo Đồng hồ Casio (kêu 1 lần)",
-      "slug": "tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan",
-      "file": "tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan-www_tiengdong_com.mp3",
-      "duration_s": 0.81,
-      "bytes": 52563,
+      "name": "Nhạc chuông báo thức Cool",
+      "slug": "nhac-chuong-bao-thuc-cool",
+      "file": "nhac-chuong-bao-thuc-cool-th-www_tiengdong_com.mp3",
+      "duration_s": 22.909,
+      "bytes": 624598,
       "viral": false,
       "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-cool",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/nhac-chuong-bao-thuc-cool-th-www_tiengdong_com.mp3",
+      "audit": "REPLACEMENT 2026-11-18: thay 'tieng-chuong-thong-bao-dong-ho-casio-keu-1-lan' bi BO theo copyright-audit (a: Tieng chuong dong ho Casio - am thanh thuong hieu Casio.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
     },
     {
       "name": "Tiếng Loa Bluetooth thông báo kết nối với thiết bị",
@@ -88,16 +88,16 @@
       "audit": "ok (wp-audio-shortcode)"
     },
     {
-      "name": "Nhạc chuông Báo Thức iPhone",
-      "slug": "nhac-chuong-bao-thuc-iphone",
-      "file": "Nhac-chuong-bao-thuc-iphone-www_tiengdong_com.mp3",
-      "duration_s": 14.84,
-      "bytes": 497442,
+      "name": "Nhạc chuông Báo thức Dễ thương",
+      "slug": "nhac-chuong-bao-thuc-de-thuong",
+      "file": "Nhac-chuong-bao-thuc-de-thuong-www_tiengdong_com.mp3",
+      "duration_s": 18.972,
+      "bytes": 410990,
       "viral": false,
       "viral_note": "",
-      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-iphone",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-chuong-bao-thuc-iphone-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-de-thuong",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-chuong-bao-thuc-de-thuong-www_tiengdong_com.mp3",
+      "audit": "REPLACEMENT 2026-11-18: thay 'nhac-chuong-bao-thuc-iphone' bi BO theo copyright-audit (a: Nhac chuong bao thuc iPhone (Apple) - am thanh thuong hieu.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
     },
     {
       "name": "Tiếng bíp bíp Bấm Mật Mã mở khóa cửa",
@@ -112,16 +112,16 @@
       "audit": "ok (wp-audio-shortcode)"
     },
     {
-      "name": "Âm thanh thông báo Wechat",
-      "slug": "am-thanh-thong-bao-wechat",
-      "file": "am-thanh-thong-bao-wechat-www_tiengdong_com.mp3",
-      "duration_s": 2.18,
-      "bytes": 294286,
+      "name": "Nhạc chuông Báo Thức Nhẹ Nhàng",
+      "slug": "nhac-chuong-bao-thuc-nhe-nhang",
+      "file": "Nhac-chuong-bao-thuc-nhe-nhang-www_tiengdong_com.mp3",
+      "duration_s": 20.01,
+      "bytes": 355948,
       "viral": false,
       "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-thong-bao-wechat",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-wechat-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "source_url": "https://tiengdong.com/nhac-chuong-bao-thuc-nhe-nhang",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Nhac-chuong-bao-thuc-nhe-nhang-www_tiengdong_com.mp3",
+      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-thong-bao-wechat' bi BO theo copyright-audit (a: Am thanh thong bao WeChat - am thanh thuong hieu ung dung.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
     }
   ]
 }

@@ -4,21 +4,25 @@
   "count": 10,
   "items": [
     {
+      "group": "Tình yêu/gia đình",
+      "group_slug": "tinh-yeu-gia-dinh",
       "id": 51,
-      "title_vi": "Chó 'Tôi vẫn ổn' giữa biển lửa tiền nhà",
-      "desc_vi": "Template chó ngồi trong phòng cháy: chữ trên cùng liệt kê tiền nhà, điện nước, bạn đòi nợ, gia đình hỏi vay, tài khoản âm; chó vẫn nói 'TÔI VẪN ỔN. TÔI VẪN ỔN.' — template 'This Is Fine' bản Việt.",
-      "use_case": "Dùng khi áp lực tiền bạc, gia đình hỏi vay, cuối tháng hết tiền nhưng vẫn cố tỏ ra ổn.",
-      "file": "051-cho-toi-van-on-giua-bien-lua-tien-nha.png",
-      "width": 800,
-      "height": 844,
-      "format": "PNG",
-      "bytes": 685976,
-      "viral_trending": true,
-      "viral_note": "Template 'This Is Fine' nổi tiếng toàn cầu; bản Việt hóa 'Tôi vẫn ổn' lan truyền rộng về áp lực tài chính gia đình.",
-      "source_url": "https://storage.googleapis.com/cdn-entrade/bovagau-meme/meme_1731046515",
-      "page": "https://bovagau.vn/toi-onnt-66177"
+      "title_vi": "Choáng ngợp giữa hóa đơn và deadline",
+      "desc_vi": "Tranh vẽ chung: người đàn ông ôm đầu choáng ngợp giữa hóa đơn, biển 'DEADLINE', tiền nhà, heo đất và bát mì.",
+      "use_case": "Dùng khi áp lực tiền bạc, hóa đơn dồn dập cuối tháng.",
+      "file": "051-nguoi-dan-ong-choang-ngop-vi-hoa-don-tien-bac.jpg",
+      "width": 982,
+      "height": 1317,
+      "format": "JPEG",
+      "bytes": 305149,
+      "viral_trending": false,
+      "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
+      "source_url": "https://cdn.piepme.com/30685/images/piep-vEc9c9kF17757523443291775752344329.jpeg",
+      "page": "https://piepme.com/buc-tuong-vo-hinh-8Wd3IiOhacF6.html"
     },
     {
+      "group": "Tình yêu/gia đình",
+      "group_slug": "tinh-yeu-gia-dinh",
       "id": 52,
       "title_vi": "Tall Hot Lady / Small Funny Guy — cặp đôi lệch chiều cao",
       "desc_vi": "Template viral trên Know Your Meme: cô gái cao, nóng bỏng đứng cạnh chàng trai thấp, hài hước, đeo kính, thắt nơ; chú thích '(They love each other very much)'. Vẽ tay đen trắng đơn giản.",
@@ -34,6 +38,8 @@
       "page": "https://knowyourmeme.com/photos/2411467-ship-dynamic"
     },
     {
+      "group": "Tình yêu/gia đình",
+      "group_slug": "tinh-yeu-gia-dinh",
       "id": 53,
       "title_vi": "Làm gì mẹ cũng than: dậy sớm, dậy muộn đều sai",
       "desc_vi": "Truyện tranh bé gái khóc: 'Tui dậy sớm - Mẹ than phiền, Tui dậy muộn - Mẹ than lười, Tui phụ việc - Mẹ than bừa, Tui không giúp - Mẹ than khổ, Tui đi chơi - Mẹ tức giận, Tui ở nhà - Mẹ khó chịu.'",
@@ -49,6 +55,8 @@
       "page": "https://truyen247.pro/drop-khong-uong-nang-mai-dai-giac-tien-sinh-208098361/chuong-8-1084121382/"
     },
     {
+      "group": "Tình yêu/gia đình",
+      "group_slug": "tinh-yeu-gia-dinh",
       "id": 54,
       "title_vi": "'Mày liệu hồn đấy!' — câu nói của mẹ",
       "desc_vi": "Meme về câu nói kinh điển của mẹ 'Mày liệu hồn đấy!' — nghe xong là biết sắp có chuyện.",
@@ -64,6 +72,8 @@
       "page": "https://kenh14.vn/may-lieu-hon-day-khi-me-da-noi-cau-nay-thi-thoi-xong-20170607010317791.chn"
     },
     {
+      "group": "Tình yêu/gia đình",
+      "group_slug": "tinh-yeu-gia-dinh",
       "id": 55,
       "title_vi": "Thỏ trắng và bạn thỏ ôm nhau giữa tim hồng",
       "desc_vi": "Thỏ trắng ôm nhân vật tròn cười tươi, xung quanh là tim hồng bay — meme tình yêu dễ thương.",
@@ -79,6 +89,8 @@
       "page": "https://cellphones.com.vn/sforum/meme-tinh-yeu"
     },
     {
+      "group": "Tình yêu/gia đình",
+      "group_slug": "tinh-yeu-gia-dinh",
       "id": 56,
       "title_vi": "Người lạ gặp online giờ là một phần lớn của đời mình",
       "desc_vi": "Meme chữ: 'That random stranger you met online and now a big part of your life' kèm tranh anime đôi — về tình yêu bắt đầu từ quen nhau online.",
@@ -94,6 +106,8 @@
       "page": "https://tvovermind.com/funny-cute-couple-memes-jokes/"
     },
     {
+      "group": "Tình yêu/gia đình",
+      "group_slug": "tinh-yeu-gia-dinh",
       "id": 57,
       "title_vi": "Một năm thấm thoắt, vẫn chưa 'cưa' được chàng",
       "desc_vi": "Tranh vẽ 2 bé chibi: một bé quỳ đưa tim đỏ, chữ 'Một năm thấm thoắt thôi đưa. Vậy mà em vẫn chưa cưa được chàng.' — cap thả thính Tết.",
@@ -109,6 +123,8 @@
       "page": "https://mytour.vn/vi/blog/bai-viet/hot-2024-bo-suu-tap-cap-tha-thinh-tet-hap-dan-chinh-phuc-trai-tim-ngay-va-luon.html"
     },
     {
+      "group": "Tình yêu/gia đình",
+      "group_slug": "tinh-yeu-gia-dinh",
       "id": 58,
       "title_vi": "Chưa cưới là vẫn còn trẻ — lì xì của cháu đây!",
       "desc_vi": "Truyện tranh 4 khung dịp Tết: bị hỏi 'Bao giờ cưới?' thì đáp 'Chưa cưới là vẫn còn trẻ! Lì xì của cháu đây!' để đòi lì xì.",
@@ -124,6 +140,8 @@
       "page": "https://zalopay.vn/y-nghia-li-xi-ngay-tet-540"
     },
     {
+      "group": "Tình yêu/gia đình",
+      "group_slug": "tinh-yeu-gia-dinh",
       "id": 59,
       "title_vi": "Meme xin tiền bá đạo",
       "desc_vi": "Tranh hài 3 nhân vật hoạt hình về xin tiền — meme xin tiền gia đình, người thân.",
@@ -139,6 +157,8 @@
       "page": "https://www.anhnghethuatdulich.com/meme-xin-tien/"
     },
     {
+      "group": "Tình yêu/gia đình",
+      "group_slug": "tinh-yeu-gia-dinh",
       "id": 60,
       "title_vi": "Tính cách của vợ là do chồng mà ra",
       "desc_vi": "Tranh cặp đôi ôm nhau, chữ lớn 'TÍNH CÁCH CỦA VỢ LÀ DO CHỒNG MÀ RA' kèm 5 câu đối: vợ dịu dàng do chồng yêu thương, vợ vui vẻ do chồng biết chia sẻ, vợ cáu gắt do chồng vô tâm...",

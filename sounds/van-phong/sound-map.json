@@ -40,16 +40,16 @@
       "audit": "ok (wp-audio-shortcode)"
     },
     {
-      "name": "Âm thanh đánh bàn phím máy tính Macbook",
-      "slug": "am-thanh-danh-ban-phim-may-tinh-macbook",
-      "file": "Am-thanh-danh-ban-phim-may-tinh-macbook-www_tiengdong_com.mp3",
-      "duration_s": 21.16,
-      "bytes": 1105195,
+      "name": "Âm thanh đánh Bàn Phím máy tính bàn",
+      "slug": "am-thanh-danh-ban-phim-may-tinh-ban",
+      "file": "Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3",
+      "duration_s": 126.416,
+      "bytes": 3070207,
       "viral": false,
       "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-danh-ban-phim-may-tinh-macbook",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-danh-ban-phim-may-tinh-macbook-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "source_url": "https://tiengdong.com/am-thanh-danh-ban-phim-may-tinh-ban",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-danh-ban-phim-may-tinh-ban-www_tiengdong_com.mp3",
+      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-danh-ban-phim-may-tinh-macbook' bi BO theo copyright-audit (a: Ten/file gan thuong hieu 'Macbook' (Apple); am thanh go phim von chung nhung tieu de gan brand - khong chac nguon goc ba); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
     },
     {
       "name": "Tiếng đánh bàn phím Laptop",

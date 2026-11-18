@@ -4,16 +4,16 @@
   "count": 15,
   "items": [
     {
-      "name": "Tiếng cười Hahaha… – Bác Gấu Vlog",
-      "slug": "tieng-cuoi-hahaha-bac-gau-vlog",
-      "file": "cau-noi-viral-tieng-cuoi-hahaha-bac-gau-vlog-www_tiengdong_com.mp3",
-      "duration_s": 2.6,
-      "bytes": 305338,
+      "name": "Hiệu ứng âm thanh tiếng cười",
+      "slug": "am-thanh-tieng-cuoi",
+      "file": "tieng-cuoi-www_tiengdong_com.mp3",
+      "duration_s": 61.753,
+      "bytes": 1247545,
       "viral": false,
       "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-cuoi-hahaha-bac-gau-vlog",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/cau-noi-viral-tieng-cuoi-hahaha-bac-gau-vlog-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)"
+      "source_url": "https://tiengdong.com/am-thanh-tieng-cuoi",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-cuoi-www_tiengdong_com.mp3",
+      "audit": "REPLACEMENT 2026-11-18: thay 'tieng-cuoi-hahaha-bac-gau-vlog' bi BO theo copyright-audit (c: Ten ghi ro creator 'Bac Gau Vlog' - clip giong cuoi cua nguoi that co ten.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode)."
     },
     {
       "name": "Tiếng cười Troll",

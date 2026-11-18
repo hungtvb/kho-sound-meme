@@ -4,6 +4,8 @@
   "count": 20,
   "items": [
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 1,
       "title_vi": "Cố sống sót qua thứ Hai",
       "desc_vi": "Nhân vật hoạt hình ngồi ở bàn làm việc chất đầy giấy tờ, chú thích 'ME TRYING TO SURVIVE MONDAY LIKE...'",
@@ -19,21 +21,25 @@
       "page": "https://www.memechor.com/meme/monday-meme-the-hilarious-struggle-we-all-face-6772b19ff1370dae2f1f8d8a"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 2,
-      "title_vi": "Doge đi làm thứ 2",
-      "desc_vi": "Chú chó Doge (Shiba Inu, IP: Doge) hoạt hình ngồi ở bàn làm việc bừa bộn, vẻ mệt mỏi cam chịu, cầm cốc cà phê ghi 'MONDAY' (ảnh GIF lặp)",
+      "title_vi": "Mèo tabby ngồi làm việc sau laptop",
+      "desc_vi": "Mèo tabby ngồi sau laptop trên bàn làm việc trắng, nhìn thẳng camera như nhân viên đang đi làm (ảnh thật, nguồn Pexels).",
       "use_case": "Than thở sáng thứ 2, cà phê chưa cứu nổi",
-      "file": "002-doge-di-lam-thu-2.gif",
-      "width": 480,
-      "height": 480,
-      "format": "GIF",
-      "bytes": 1638044,
-      "viral_trending": true,
-      "viral_note": "Doge là template viral toàn cầu; GIF Doge văn phòng lan truyền rộng",
-      "source_url": "https://storage0.gifvibe.com/3SaEsYOobCxN39NDr5.gif",
-      "page": "https://gifvibe.com/search/case-of-the-mondays"
+      "file": "002-meo-tabby-ngoi-ban-lam-viec-laptop.webp",
+      "width": 500,
+      "height": 667,
+      "format": "WEBP",
+      "bytes": 15086,
+      "viral_trending": false,
+      "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
+      "source_url": "https://images.pexels.com/photos/37471678/pexels-photo-37471678/free-photo-of-cat-sitting-at-desk-with-laptop-in-home-office.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "page": "https://www.pexels.com/search/funny%20laptop/"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 3,
       "title_vi": "Mèo cam văn phòng mặt đơ",
       "desc_vi": "Mèo cam trắng mặc áo sơ mi, thắt cà vạt đỏ, ngồi thẳng sau bàn làm việc với vẻ mặt đơ, chán nản",
@@ -49,21 +55,25 @@
       "page": ""
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 4,
-      "title_vi": "Grumpy Cat trong văn phòng",
-      "desc_vi": "Mèo Grumpy Cat (IP: Grumpy Cat) cau có mặc vest, thắt cà vạt, ngồi sau bàn làm việc chất đầy tài liệu",
+      "title_vi": "Mèo xám trắng cau có đeo thẻ nhân viên",
+      "desc_vi": "Mèo xám trắng thật đeo thẻ nhân viên, mặt cau có mệt mỏi ngồi trước bàn phím máy tính.",
       "use_case": "Reaction cau có khi bị giao thêm việc / họp hành",
-      "file": "004-grumpy-cat-trong-van-phong.png",
-      "width": 1024,
-      "height": 1024,
-      "format": "PNG",
-      "bytes": 2046251,
-      "viral_trending": true,
-      "viral_note": "Grumpy Cat là template viral toàn cầu; Imgflip có template riêng 'Grumpy cat in an office'",
-      "source_url": "https://i.imgflip.com/8cncpy.png",
-      "page": "https://imgflip.com/memetemplate/504974374/Grumpy-cat-in-an-office"
+      "file": "004-meo-xam-trang-cau-co-o-ban-lam-viec.jpg",
+      "width": 1079,
+      "height": 1442,
+      "format": "JPEG",
+      "bytes": 731608,
+      "viral_trending": false,
+      "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
+      "source_url": "https://opis-cdn.tinkoffjournal.ru/mercury/0b10fa76.6beeaf66_screenshot_20260316_203742_whatsapp.jpg",
+      "page": "https://t-j.ru/unemployed-shocking-realities/"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 5,
       "title_vi": "Đi làm nhờ cà phê",
       "desc_vi": "Tranh đen trắng đơn giản: nhân viên đội mũ bảo hộ vàng, mặt đơ, cầm cốc cà phê bốc khói — sống sót nhờ caffeine",
@@ -79,6 +89,8 @@
       "page": "https://www.pinterest.de/pin/678425131403524169/"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 6,
       "title_vi": "Trước khi uống cà phê",
       "desc_vi": "Thỏ xám trắng hoạt hình trong trạng thái cực kỳ ngái ngủ trước khi uống cà phê (loạt 'before coffee')",
@@ -94,6 +106,8 @@
       "page": "https://petmaya.com/28-funny-before-coffee/"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 7,
       "title_vi": "Lương vừa về đã bay",
       "desc_vi": "Tranh 2 khung: người đàn ông cười nắm tay nhân vật nhỏ màu xanh ghi 'LUONG', rồi lương biến mất vì nợ nần",
@@ -109,6 +123,8 @@
       "page": "https://cafeland.vn/doanh-nhan/doanh-nhan/vua-co-luong-roi-hay-lam-nhung-dieu-nay-de-tien-khong-chay-di-khi-vua-moi-den-16969.html"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 8,
       "title_vi": "Chó hết sạch tiền",
       "desc_vi": "Chú chó hoạt hình màu nâu nhạt nằm bẹp trên sàn, minh họa cảm giác 'cháy túi' hoàn toàn",
@@ -124,21 +140,25 @@
       "page": "https://anhnail.vn/het-tien-meme/"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 9,
-      "title_vi": "Minion nộp đơn nghỉ việc",
-      "desc_vi": "Minion (IP: Despicable Me) với vẻ mặt thư giãn, hài lòng sau khi nộp đơn xin nghỉ việc",
+      "title_vi": "Nhân viên vui mừng nộp đơn nghỉ việc",
+      "desc_vi": "Tranh vẽ chung: người đàn ông cầm tờ giấy ghi 'I QUIT' chạy vui vẻ ra khỏi văn phòng.",
       "use_case": "Đùa về nghỉ việc, thoát khỏi công sở",
-      "file": "009-minion-nop-don-nghi-viec.jpg",
-      "width": 800,
-      "height": 800,
-      "format": "JPEG",
-      "bytes": 115814,
-      "viral_trending": true,
-      "viral_note": "Trang nguồn ghi 'meme minion hot trend viral khắp mạng xã hội'",
-      "source_url": "https://khoanhdep.com/wp-content/uploads/2026/03/meme-minion-1.jpg",
-      "page": "https://khoanhdep.com/meme-minion/"
+      "file": "009-nhan-vien-vui-mung-nop-don-nghi-viec.webp",
+      "width": 1200,
+      "height": 749,
+      "format": "WEBP",
+      "bytes": 52506,
+      "viral_trending": false,
+      "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
+      "source_url": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2022/5/25/photo1653463552677-16534635528031324201774.jpg",
+      "page": "https://cafef.vn/dung-de-bi-cuon-theo-boi-lan-song-dai-nghi-viec-se-that-sai-lam-khi-hat-do-bat-com-giua-luc-suy-thoai-dang-ap-den-20220525142734424.chn"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 10,
       "title_vi": "Sếp căng, nhân viên bỏ chạy với đơn 'I QUIT'",
       "desc_vi": "Sếp ngồi ghế vẻ căng thẳng, nhân viên chạy đi cầm tờ giấy ghi 'I QUIT'",
@@ -154,6 +174,8 @@
       "page": ""
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 11,
       "title_vi": "Deadline dí tới nơi",
       "desc_vi": "Nhân viên hoạt hình ngồi ở bàn bừa bộn lúc nửa đêm, tay ôm đầu, mắt mệt mỏi, tin nhắn dồn dập vì deadline",
@@ -169,6 +191,8 @@
       "page": "https://sheets.x10learn.com/x10Project"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 12,
       "title_vi": "Sếp vào thì làm, sếp đi thì xả",
       "desc_vi": "Meme 2 khung đối lập: làm việc cuống cuồng khi sếp vào phòng vs thư giãn khi sếp vắng mặt",
@@ -184,6 +208,8 @@
       "page": "https://piximus.net/fun/daily-mix-679/m:amp"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 13,
       "title_vi": "Chuẩn bị họp Zoom",
       "desc_vi": "Meme 'How to prepare for a Zoom meeting': người đàn ông ngồi họp từ phía sau, bên cạnh là mèo cam bị dán băng keo lên tường",
@@ -199,6 +225,8 @@
       "page": "https://tf20.thefoldline.com/when-is-presidents-day-2026-calendar/"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 14,
       "title_vi": "Hải cẩu quên bạn làm ở nhà",
       "desc_vi": "Hải cẩu với chú thích: 'OH YEAH, I FORGOT YOU WORK FROM HOME NOW. SHIT... WE THOUGHT YOU DIED. WE STARTED INTERVIEWING NEW PEOPLE TO RE-FILL YOUR POSITION.'",
@@ -214,51 +242,59 @@
       "page": "https://www.digitalmomblog.com/work-from-home-memes/"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 15,
-      "title_vi": "Doge làm việc chuyên nghiệp",
-      "desc_vi": "Doge (Shiba Inu, IP: Doge) hoạt hình đeo kính tròn, mặc vest, ngồi làm việc chuyên nghiệp ở bàn (GIF)",
+      "title_vi": "Mèo vằn làm việc trên laptop",
+      "desc_vi": "Mèo vằn thật đặt hai chân trước lên bàn phím laptop như đang gõ máy (template 'Working Cat').",
       "use_case": "Reaction 'đang bận làm việc', giả vờ chuyên nghiệp",
-      "file": "015-doge-lam-viec-chuyen-nghiep.webp",
-      "width": 480,
-      "height": 480,
-      "format": "WEBP",
-      "bytes": 1368034,
-      "viral_trending": true,
-      "viral_note": "Doge là template viral toàn cầu; GIF Doge văn phòng dùng làm reaction phổ biến",
-      "source_url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RuYWo5Mm1sbnViOW14YWVhc2U3dDN0MHA0Z3NodnI5dzAyZWY2NSZlcD12MV92aWRlb3Nfc2VhcmNoJmN0PXY/zJ2vC7rtbmPddEj3Ln/giphy.webp",
-      "page": ""
+      "file": "015-meo-vang-lam-viec-tren-laptop.jpg",
+      "width": 600,
+      "height": 411,
+      "format": "JPEG",
+      "bytes": 37784,
+      "viral_trending": false,
+      "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
+      "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGERM5Xh3LDR1XcKCgypgkPRUX9i8ZT-sG_0_DbGNh9uk5ugrPT1OvUtUXM2zOyaPTZi34xAEgZb8Swr78HJZnb4216QtofJOX8ERir57XjxSVm7_lteaxl8tP6FISVXVIx8kN0w/s800/008_pics.jpg",
+      "page": "https://www.darkroastedblend.com/2011/02/cats-ready-to-kill-you.html?showComment=1358343808067"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 16,
-      "title_vi": "Doge 'UGH, MONDAYS'",
-      "desc_vi": "Chó Shiba Inu (Doge, IP: Doge) mệt mỏi, cau có ngồi ở bàn với cà phê, mặc áo hoodie cam ghi 'UGH, MONDAYS' (GIF)",
+      "title_vi": "Mèo ngáp to bên tách cà phê sáng thứ 2",
+      "desc_vi": "Mèo đen trắng thật ngáp to bên tách cà phê trắng trên bậu cửa sổ buổi sáng (ảnh Pexels).",
       "use_case": "Than thứ 2, ghét sáng thứ 2",
-      "file": "016-doge-ugh-mondays.gif",
-      "width": 480,
-      "height": 480,
-      "format": "GIF",
-      "bytes": 4771976,
-      "viral_trending": true,
-      "viral_note": "Doge là template viral toàn cầu; câu 'UGH, MONDAYS' gắn liền với meme thứ 2",
-      "source_url": "https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDR5czM3MnVhN2w3cmM1YTdzOHdkOHc5Z2ZyNG9oZm1wanMxb3IydyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l7UiwIB3pa2cDTDddB/giphy.gif",
-      "page": "http://gifvibe.com/hi/gifs/over-it-ugh-doge-pound-xbuhdw"
+      "file": "016-meo-nga-p-ben-tach-ca-phe-sang-thu-2.webp",
+      "width": 662,
+      "height": 993,
+      "format": "WEBP",
+      "bytes": 38064,
+      "viral_trending": false,
+      "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
+      "source_url": "https://images.petpress.net/wp-content/uploads/2022/10/hypoallergenic-cat-breeds5.jpg?strip=all&lossy=1&ssl=1",
+      "page": "https://petpress.net/hypoallergenic-cat-breeds/"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 17,
-      "title_vi": "SpongeBob stress thứ 2",
-      "desc_vi": "SpongeBob (IP: SpongeBob SquarePants) căng thẳng ngồi ở bàn làm việc với cốc cà phê, sếp cáu kỉnh đứng phía trên",
+      "title_vi": "Mèo cam stress giữa đống giấy tờ",
+      "desc_vi": "Tranh vẽ chung: mèo cam stress ngồi giữa chồng sách, giấy tờ và 3 tách cà phê trên bàn làm việc.",
       "use_case": "Sáng thứ 2 hỗn loạn ở văn phòng",
-      "file": "017-spongebob-stress-thu-2.webp",
+      "file": "017-meo-cam-stress-o-ban-lam-viec.jpg",
       "width": 1024,
       "height": 1024,
-      "format": "WEBP",
-      "bytes": 193528,
-      "viral_trending": true,
-      "viral_note": "SpongeBob là IP meme viral toàn cầu; meme SpongeBob văn phòng lan truyền rộng",
-      "source_url": "https://similuxes.com/wp-content/uploads/2025/10/Every-Monday-is-Bikini-Bottom-chaos.webp",
-      "page": "https://similuxes.com/spongebob-meme/"
+      "format": "JPEG",
+      "bytes": 204894,
+      "viral_trending": false,
+      "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
+      "source_url": "https://i.imgflip.com/ac3beh.jpg?a494948",
+      "page": "https://imgflip.com/memegenerator/624971897/A-cat-sitting-at-a-desk-with-a-very-stressed-out-expression-sur"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 18,
       "title_vi": "Chó Labrador đi làm",
       "desc_vi": "Chó Labrador màu kem ngồi thẳng như nhân viên văn phòng ở bàn làm việc tạm bợ, miệng há như đang cười",
@@ -274,6 +310,8 @@
       "page": "https://baomoi.net.vn/chu-cho-ten-dui-va-loat-thu-cung-chiem-song-mang-xa-hoi-c34101205.epi"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 19,
       "title_vi": "Mèo thở oxy chạy deadline",
       "desc_vi": "Meme mèo thở oxy chạy deadline — mèo mệt lả vì chạy deadline (ảnh chế VN)",
@@ -289,6 +327,8 @@
       "page": "https://tinhte.edu.vn/meme-avatar/"
     },
     {
+      "group": "Văn phòng/đi làm",
+      "group_slug": "van-phong-di-lam",
       "id": 20,
       "title_vi": "Chibi ngủ gục ở bàn làm việc",
       "desc_vi": "Bé gái chibi ngủ gục trên bàn làm việc trước máy tính, minh họa kiệt sức vì làm việc",

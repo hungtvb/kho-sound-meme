@@ -6,9 +6,9 @@
 
 | Type | Count | Viral | Size |
 | --- | --- | --- | --- |
-| Sounds (MP3) | 100 | 25 | ~68.5 MiB |
-| Meme images | 100 | 58 | ~26.1 MiB |
-| **Total** | **200** | | **~95.2 MiB** |
+| Sounds (MP3) | 100 | 9 | ~67.5 MiB |
+| Meme images | 100 | 43 | ~16.5 MiB |
+| **Total** | **200** | | **~84.0 MiB** |
 
 ## Sounds — 8 groups, all from tiengdong.com
 
@@ -22,6 +22,8 @@
 | Nature / Animals | `thien-nhien-dong-vat` | 10 |
 | Tech / UI | `cong-nghe-ui` | 10 |
 | Cinema / Trailer | `dien-anh-trailer` | 10 |
+
+Note: group `cau-noi-viral` keeps its slug and name, but its 10 items are now generic sound effects — the original creator voice clips were removed in the 2026-11-18 copyright cleanup (see below).
 
 ## Memes — 8 groups, from many meme sites
 
@@ -91,16 +93,17 @@ Meme item:
 ## How to pick an asset
 
 1. Pick a group first (`group_slug`), then filter inside it.
-2. Prefer viral: sounds `viral == true` (25), memes `viral_trending == true` (58).
-3. Sounds: filter by `duration_s`. Short punchlines are usually < 5s. **25 sounds are longer than 30s** (longest 612.68s, ocean waves ambience) — do not use ambience as a punchline; trim or loop with ffmpeg if needed.
+2. Prefer viral: sounds `viral == true` (9), memes `viral_trending == true` (43).
+3. Sounds: filter by `duration_s`. Short punchlines are usually < 5s. **24 sounds are longer than 30s** (longest 612.68s, ocean waves ambience) — do not use ambience as a punchline; trim or loop with ffmpeg if needed.
 4. Memes: check `width` / `height`. Most images are square or landscape — crop or place on a background for vertical 1080×1920. Convert the 2 AVIF files (ids 21, 22) to PNG/JPG first if your editor cannot read AVIF.
 5. File path is always `sounds/<group_slug>/<file>` or `memes/<group_slug>/<file>`. Never guess a filename outside the maps.
 
-## Copyright
+## Copyright cleanup — 2026-11-18
 
+- Removed 41 assets that could carry copyright risk: 23 sounds + 18 memes. All 41 were replaced with safer assets, so the library is back to 100 sounds + 100 memes.
+- Removal criteria: sounds taken from games, films, TV shows, or brands (Roblox OOF, Windows XP error, iOS / Samsung / Casio / WeChat tones, game-show stings); voice clips of identifiable creators; memes showing copyrighted characters / IP (SpongeBob, Minion, Pikachu, Doge, Grumpy Cat, Conan, Kermit, Thỏ Bảy Màu).
 - tiengdong.com warns that some meme / music sounds may still be flagged on TikTok / YouTube / Facebook. You are responsible for checking the platform policy before posting. Nothing here is claimed "100% copyright-free".
-- Brand-IP memes (SpongeBob, Minion, Pikachu, Doge, Grumpy Cat, Conan) are for short reactions only. Do not claim them as your own, and do not use them as a channel logo or for resale.
-- Roblox OOF and Windows XP error are originally copyrighted sounds — use as short effects only.
+- Remaining caveats: the licence of each individual file was not fully verified; meme images were not all eye-checked; replacement sounds were format/duration-checked, not listened to one by one.
 
 ## Verified / not verified
 

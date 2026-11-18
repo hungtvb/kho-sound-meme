@@ -4,6 +4,8 @@
   "count": 10,
   "items": [
     {
+      "group": "Tiền bạc/lương",
+      "group_slug": "tien-bac-luong",
       "id": 61,
       "title_vi": "Lương đã về, thỏ vui sướng",
       "desc_vi": "Chữ: 'Ba chữ khiến người ta hạnh phúc hơn cả câu Anh yêu em chính là: LƯƠNG ĐÃ VỀ', kèm thỏ trắng vui mừng, lấp lánh.",
@@ -19,6 +21,8 @@
       "page": "https://pmil.edu.vn/hinh-anh-hai-huoc-cho-luong-ve-a12601.html"
     },
     {
+      "group": "Tiền bạc/lương",
+      "group_slug": "tien-bac-luong",
       "id": 62,
       "title_vi": "Tết cướp mất lương",
       "desc_vi": "Truyện tranh 2 khung: vừa mừng nhận lương thì nhân vật 'TẾT' chạy vèo cướp mất xấp tiền trên tay.",
@@ -34,6 +38,8 @@
       "page": "https://tuoitre.vn/print/toi-muon-tat-tet-di-cho-tien-dung-chay-mat-20190130232944353.htm"
     },
     {
+      "group": "Tiền bạc/lương",
+      "group_slug": "tien-bac-luong",
       "id": 63,
       "title_vi": "Mở phong bì hết tiền mà lo",
       "desc_vi": "Chàng trai tóc vàng lo lắng mở phong bì giấy nâu, vẻ mặt hoang mang vì trong bì chẳng còn gì.",
@@ -49,6 +55,8 @@
       "page": "https://khoanhdep.com/meme-het-tien/"
     },
     {
+      "group": "Tiền bạc/lương",
+      "group_slug": "tien-bac-luong",
       "id": 64,
       "title_vi": "Meme tiền lương",
       "desc_vi": "Ảnh meme chủ đề tiền lương, từ bộ sưu tập meme lương (nhân vật hoạt hình than lương).",
@@ -64,21 +72,25 @@
       "page": "https://mungart.com/search/Hey%20Siri%20Meme%20L%C6%B0%C6%A1ng"
     },
     {
+      "group": "Tiền bạc/lương",
+      "group_slug": "tien-bac-luong",
       "id": 65,
-      "title_vi": "SpongeBob than hết tiền (2 khung)",
-      "desc_vi": "Meme 2 khung SpongeBob SquarePants than phiền về chi tiêu, lương hết veo. IP: SpongeBob SquarePants — chỉ dùng reaction ngắn.",
+      "title_vi": "Dốc ví rỗng không còn đồng nào",
+      "desc_vi": "Tranh vẽ chung: người đàn ông tóc vàng dốc ngược chiếc ví rỗng, mặt hoảng hốt.",
       "use_case": "Dùng khi than tiền bay vì chi tiêu, hết lương giữa tháng.",
-      "file": "065-spongebob-than-het-tien-2-khung.png",
-      "width": 1024,
-      "height": 1536,
-      "format": "PNG",
-      "bytes": 1772126,
-      "viral_trending": true,
-      "viral_note": "Template SpongeBob 2 khung than 'broke' là template viral quen thuộc quốc tế.",
-      "source_url": "https://blogger.googleusercontent.com/img/a/AVvXsEh8MnmqmXOAy69LR9UwVnVKrDxIfLU0NFe7poLnjX2EVFBmUxoITjyM6uVsgQrMRdi2MQce86cRCuLaLJVZRTFcBUodiJikNc0nSwCqSmMOhhlx2dKPBTKM36SO1vpjTqAhD3zowJ1oifxJNAz__ohhnC8SG7i5oz3hfxNetQI30qf5G_9_wuA9lORDGOs",
-      "page": "http://brokebutlaughing.blogspot.com/"
+      "file": "065-nguoi-dan-ong-hoang-hot-vi-rong.jpg",
+      "width": 474,
+      "height": 455,
+      "format": "JPEG",
+      "bytes": 22493,
+      "viral_trending": false,
+      "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
+      "source_url": "https://i.pinimg.com/474x/e6/c9/8e/e6c98e2b9e464429f64b3b8ae7958402.jpg",
+      "page": "https://www.pinvibe.com/media/940056122218703261"
     },
     {
+      "group": "Tiền bạc/lương",
+      "group_slug": "tien-bac-luong",
       "id": 66,
       "title_vi": "Broke Man — ví rỗng",
       "desc_vi": "Template 'Broke Man' trên Imgflip: nhân vật hết tiền, ví rỗng, mặt ngán ngẩm.",
@@ -94,21 +106,25 @@
       "page": "https://imgflip.com/memetemplate/18380775/Broke-Man"
     },
     {
+      "group": "Tiền bạc/lương",
+      "group_slug": "tien-bac-luong",
       "id": 67,
       "title_vi": "Mèo buồn hết tiền",
-      "desc_vi": "Mèo hoạt hình buồn tuyên bố mình không còn tiền (sticker/ảnh động mèo buồn).",
+      "desc_vi": "Ảnh mèo xám trắng thật với đôi mắt to buồn bã (mèo Luhu, từng được gọi là 'saddest cat' trên Bored Panda).",
       "use_case": "Dùng khi than hết tiền một cách đáng yêu, kiểu mèo buồn xin cứu trợ.",
       "file": "067-meo-buon-het-tien.webp",
-      "width": 480,
-      "height": 480,
+      "width": 700,
+      "height": 864,
       "format": "WEBP",
-      "bytes": 64870,
+      "bytes": 60562,
       "viral_trending": false,
-      "viral_note": "không rõ",
-      "source_url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BseXVnM2hnZzJoNzJyOGRwaGthbjFibW9xemY4M2c3ZGF1bzVzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gEgZ8E03GrEBKVfVgI/giphy.webp",
-      "page": ""
+      "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
+      "source_url": "https://img.boredpanda.com/unsafe/rs:fit:3840:0/q:80/aHR0cHM6Ly9zdGF0aWMuYm9yZWRwYW5kYS5jb20vYmxvZy93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8wOS9zYWRkZXN0LWNhdC1sdWh1LW1hZ2dpZS1saXUtbGFubGFuNzMxLTkzLTU5YzBjMTJiOWY4NzhfXzcwMC5qcGc.webp",
+      "page": "https://2.boredpanda.es/gato-triste-luhu-maggie-liu-2/?media_id=177969"
     },
     {
+      "group": "Tiền bạc/lương",
+      "group_slug": "tien-bac-luong",
       "id": 68,
       "title_vi": "Ví trống rỗng",
       "desc_vi": "Ảnh meme ví trống từ bộ sưu tập meme hết tiền: ví mở ra không còn đồng nào.",
@@ -124,6 +140,8 @@
       "page": "https://tinhte.edu.vn/meme-het-tien/"
     },
     {
+      "group": "Tiền bạc/lương",
+      "group_slug": "tien-bac-luong",
       "id": 69,
       "title_vi": "Vòng đời của lương",
       "desc_vi": "Ảnh minh họa 'vòng đời nghiệt ngã của sinh vật tên Lương': lương về rồi đi theo vòng lặp.",
@@ -139,6 +157,8 @@
       "page": "https://doisongphapluat.nguoiduatin.vn/vong-doi-nghiet-nga-cua-sinh-vat-ten-luong-a611288.html"
     },
     {
+      "group": "Tiền bạc/lương",
+      "group_slug": "tien-bac-luong",
       "id": 70,
       "title_vi": "Quái xanh ôm tiền lương",
       "desc_vi": "Nhân vật quái xanh vui vẻ ôm tiền, meme lương trên 9GAG.",
