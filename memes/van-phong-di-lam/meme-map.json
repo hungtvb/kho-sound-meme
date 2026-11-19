@@ -18,7 +18,23 @@
    "viral_trending": true,
    "viral_note": "Template 'survive Monday' quen thuộc trên các trang meme; MemeChor chuyên mục meme thứ 2",
    "source_url": "https://cdn.memechor.com/meme/1735569822935-1735569822944.jpg",
-   "page": "https://www.memechor.com/meme/monday-meme-the-hilarious-struggle-we-all-face-6772b19ff1370dae2f1f8d8a"
+   "page": "https://www.memechor.com/meme/monday-meme-the-hilarious-struggle-we-all-face-6772b19ff1370dae2f1f8d8a",
+   "orientation": "square",
+   "tags": [
+    "văn phòng",
+    "thứ Hai",
+    "mệt mỏi",
+    "buồn",
+    "gia đình"
+   ],
+   "tags_ascii": [
+    "van phong",
+    "thu hai",
+    "met moi",
+    "buon",
+    "gia dinh"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -35,7 +51,23 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://images.pexels.com/photos/37471678/pexels-photo-37471678/free-photo-of-cat-sitting-at-desk-with-laptop-in-home-office.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-   "page": "https://www.pexels.com/search/funny%20laptop/"
+   "page": "https://www.pexels.com/search/funny%20laptop/",
+   "orientation": "portrait",
+   "tags": [
+    "mèo",
+    "văn phòng",
+    "cà phê",
+    "thứ Hai",
+    "buồn"
+   ],
+   "tags_ascii": [
+    "meo",
+    "van phong",
+    "ca phe",
+    "thu hai",
+    "buon"
+   ],
+   "fit_vertical": false
   },
   {
    "group": "Văn phòng/đi làm",
@@ -52,7 +84,17 @@
    "viral_trending": true,
    "viral_note": "Mèo văn phòng là template viral quen thuộc trên Cheezburger",
    "source_url": "https://i.chzbgr.com/original/9200450304/h6477CB7E/cartoon",
-   "page": ""
+   "page": "",
+   "orientation": "landscape",
+   "tags": [
+    "mèo",
+    "văn phòng"
+   ],
+   "tags_ascii": [
+    "meo",
+    "van phong"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -69,7 +111,23 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://opis-cdn.tinkoffjournal.ru/mercury/0b10fa76.6beeaf66_screenshot_20260316_203742_whatsapp.jpg",
-   "page": "https://t-j.ru/unemployed-shocking-realities/"
+   "page": "https://t-j.ru/unemployed-shocking-realities/",
+   "orientation": "portrait",
+   "tags": [
+    "mèo",
+    "văn phòng",
+    "họp",
+    "chê bai",
+    "mệt mỏi"
+   ],
+   "tags_ascii": [
+    "meo",
+    "van phong",
+    "hop",
+    "che bai",
+    "met moi"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -86,7 +144,23 @@
    "viral_trending": false,
    "viral_note": "không rõ",
    "source_url": "https://i.pinimg.com/474x/87/50/1c/87501c3f80375b55cfca7c2f9d533fed.jpg",
-   "page": "https://www.pinterest.de/pin/678425131403524169/"
+   "page": "https://www.pinterest.de/pin/678425131403524169/",
+   "orientation": "portrait",
+   "tags": [
+    "văn phòng",
+    "cà phê",
+    "mệt mỏi",
+    "buồn",
+    "học tập"
+   ],
+   "tags_ascii": [
+    "van phong",
+    "ca phe",
+    "met moi",
+    "buon",
+    "hoc tap"
+   ],
+   "fit_vertical": false
   },
   {
    "group": "Văn phòng/đi làm",
@@ -103,7 +177,23 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://live.staticflickr.com/7173/6821307995_3de530c154.jpg",
-   "page": "https://www.flickr.com/photos/64381475@N03/6821307995"
+   "page": "https://www.flickr.com/photos/64381475@N03/6821307995",
+   "orientation": "landscape",
+   "tags": [
+    "mèo",
+    "cà phê",
+    "buồn ngủ",
+    "mệt mỏi",
+    "văn phòng"
+   ],
+   "tags_ascii": [
+    "meo",
+    "ca phe",
+    "buon ngu",
+    "met moi",
+    "van phong"
+   ],
+   "fit_vertical": false
   },
   {
    "group": "Văn phòng/đi làm",
@@ -120,7 +210,17 @@
    "viral_trending": false,
    "viral_note": "không rõ",
    "source_url": "https://static1.cafeland.vn/cafelandData/upload/tintuc/doanhnhan/2016/11/tuan-01/giutienluongcafeland-1478077837.jpg",
-   "page": "https://cafeland.vn/doanh-nhan/doanh-nhan/vua-co-luong-roi-hay-lam-nhung-dieu-nay-de-tien-khong-chay-di-khi-vua-moi-den-16969.html"
+   "page": "https://cafeland.vn/doanh-nhan/doanh-nhan/vua-co-luong-roi-hay-lam-nhung-dieu-nay-de-tien-khong-chay-di-khi-vua-moi-den-16969.html",
+   "orientation": "landscape",
+   "tags": [
+    "cười",
+    "tiền lương"
+   ],
+   "tags_ascii": [
+    "cuoi",
+    "tien luong"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -137,7 +237,23 @@
    "viral_trending": true,
    "viral_note": "Thuộc bộ 'meme hết tiền' trend VN 2025; trang nguồn ghi 'meme trend'",
    "source_url": "https://anhnail.vn/wp-content/uploads/2025/11/meme-het-sach-tien-1.jpg",
-   "page": "https://anhnail.vn/het-tien-meme/"
+   "page": "https://anhnail.vn/het-tien-meme/",
+   "orientation": "square",
+   "tags": [
+    "chó",
+    "cười",
+    "tiền lương",
+    "học tập",
+    "đời sống"
+   ],
+   "tags_ascii": [
+    "cho",
+    "cuoi",
+    "tien luong",
+    "hoc tap",
+    "doi song"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -154,7 +270,17 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://cafefcdn.com/thumb_w/1200/203337114487263232/2022/5/25/photo1653463552677-16534635528031324201774.jpg",
-   "page": "https://cafef.vn/dung-de-bi-cuon-theo-boi-lan-song-dai-nghi-viec-se-that-sai-lam-khi-hat-do-bat-com-giua-luc-suy-thoai-dang-ap-den-20220525142734424.chn"
+   "page": "https://cafef.vn/dung-de-bi-cuon-theo-boi-lan-song-dai-nghi-viec-se-that-sai-lam-khi-hat-do-bat-com-giua-luc-suy-thoai-dang-ap-den-20220525142734424.chn",
+   "orientation": "landscape",
+   "tags": [
+    "văn phòng",
+    "nghỉ việc"
+   ],
+   "tags_ascii": [
+    "van phong",
+    "nghi viec"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -171,7 +297,19 @@
    "viral_trending": true,
    "viral_note": "'I QUIT' là hình ảnh meme nghỉ việc kinh điển, dùng lại rất nhiều",
    "source_url": "https://st.quantrimang.com/photos/image/2016/09/01/nghi-viec-650.jpg",
-   "page": ""
+   "page": "",
+   "orientation": "landscape",
+   "tags": [
+    "văn phòng",
+    "sếp",
+    "nghỉ việc"
+   ],
+   "tags_ascii": [
+    "van phong",
+    "sep",
+    "nghi viec"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -188,7 +326,25 @@
    "viral_trending": false,
    "viral_note": "không rõ",
    "source_url": "https://content.pancake.vn/web-media-262/s991x617/fwebp80/4f/47/24/a6/9652ae5d3a202298688817cb740c08555aad135b37af053512328b63-w:1274-h:792-l:1653255-t:image/png.png",
-   "page": "https://sheets.x10learn.com/x10Project"
+   "page": "https://sheets.x10learn.com/x10Project",
+   "orientation": "landscape",
+   "tags": [
+    "văn phòng",
+    "deadline",
+    "mệt mỏi",
+    "buồn",
+    "tiền lương",
+    "tình yêu"
+   ],
+   "tags_ascii": [
+    "van phong",
+    "deadline",
+    "met moi",
+    "buon",
+    "tien luong",
+    "tinh yeu"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -205,7 +361,19 @@
    "viral_trending": true,
    "viral_note": "Format 2 khung 'sếp vào / sếp đi' là meme văn phòng kinh điển",
    "source_url": "https://piximus.net/media/21962/daily-mix-679-130.jpg",
-   "page": "https://piximus.net/fun/daily-mix-679/m:amp"
+   "page": "https://piximus.net/fun/daily-mix-679/m:amp",
+   "orientation": "portrait",
+   "tags": [
+    "văn phòng",
+    "sếp",
+    "học tập"
+   ],
+   "tags_ascii": [
+    "van phong",
+    "sep",
+    "hoc tap"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -222,7 +390,19 @@
    "viral_trending": true,
    "viral_note": "Meme họp Zoom với mèo dán tường nổi tiếng thời làm việc tại nhà",
    "source_url": "https://thrivemyway.com/wp-content/uploads/2021/10/working-from-home-meme-7.jpg",
-   "page": "https://tf20.thefoldline.com/when-is-presidents-day-2026-calendar/"
+   "page": "https://tf20.thefoldline.com/when-is-presidents-day-2026-calendar/",
+   "orientation": "square",
+   "tags": [
+    "mèo",
+    "văn phòng",
+    "họp"
+   ],
+   "tags_ascii": [
+    "meo",
+    "van phong",
+    "hop"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -239,7 +419,17 @@
    "viral_trending": true,
    "viral_note": "Meme hải cẩu làm việc tại nhà là meme kinh điển, lan truyền rộng",
    "source_url": "https://digitalmomblog.b-cdn.net/wp-content/uploads/2018/10/working-from-home-meme-8.jpg",
-   "page": "https://www.digitalmomblog.com/work-from-home-memes/"
+   "page": "https://www.digitalmomblog.com/work-from-home-memes/",
+   "orientation": "landscape",
+   "tags": [
+    "hải cẩu",
+    "văn phòng"
+   ],
+   "tags_ascii": [
+    "hai cau",
+    "van phong"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -256,7 +446,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGERM5Xh3LDR1XcKCgypgkPRUX9i8ZT-sG_0_DbGNh9uk5ugrPT1OvUtUXM2zOyaPTZi34xAEgZb8Swr78HJZnb4216QtofJOX8ERir57XjxSVm7_lteaxl8tP6FISVXVIx8kN0w/s800/008_pics.jpg",
-   "page": "https://www.darkroastedblend.com/2011/02/cats-ready-to-kill-you.html?showComment=1358343808067"
+   "page": "https://www.darkroastedblend.com/2011/02/cats-ready-to-kill-you.html?showComment=1358343808067",
+   "orientation": "landscape",
+   "tags": [
+    "mèo",
+    "văn phòng",
+    "tình yêu"
+   ],
+   "tags_ascii": [
+    "meo",
+    "van phong",
+    "tinh yeu"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -273,7 +475,23 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://images.petpress.net/wp-content/uploads/2022/10/hypoallergenic-cat-breeds5.jpg?strip=all&lossy=1&ssl=1",
-   "page": "https://petpress.net/hypoallergenic-cat-breeds/"
+   "page": "https://petpress.net/hypoallergenic-cat-breeds/",
+   "orientation": "portrait",
+   "tags": [
+    "mèo",
+    "cà phê",
+    "thứ Hai",
+    "mệt mỏi",
+    "buồn"
+   ],
+   "tags_ascii": [
+    "meo",
+    "ca phe",
+    "thu hai",
+    "met moi",
+    "buon"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -290,7 +508,25 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://i.imgflip.com/ac3beh.jpg?a494948",
-   "page": "https://imgflip.com/memegenerator/624971897/A-cat-sitting-at-a-desk-with-a-very-stressed-out-expression-sur"
+   "page": "https://imgflip.com/memegenerator/624971897/A-cat-sitting-at-a-desk-with-a-very-stressed-out-expression-sur",
+   "orientation": "square",
+   "tags": [
+    "mèo",
+    "văn phòng",
+    "cà phê",
+    "thứ Hai",
+    "mệt mỏi",
+    "học tập"
+   ],
+   "tags_ascii": [
+    "meo",
+    "van phong",
+    "ca phe",
+    "thu hai",
+    "met moi",
+    "hoc tap"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -307,7 +543,21 @@
    "viral_trending": true,
    "viral_note": "Loạt ảnh chó đi làm từng viral mạng xã hội VN (Báo Mới 2020)",
    "source_url": "https://photo-baomoi.bmcdn.me/w700_r1/2020_02_26_119_34101205/ed34434163028a5cd313.jpg",
-   "page": "https://baomoi.net.vn/chu-cho-ten-dui-va-loat-thu-cung-chiem-song-mang-xa-hoi-c34101205.epi"
+   "page": "https://baomoi.net.vn/chu-cho-ten-dui-va-loat-thu-cung-chiem-song-mang-xa-hoi-c34101205.epi",
+   "orientation": "portrait",
+   "tags": [
+    "chó",
+    "văn phòng",
+    "cười",
+    "chê bai"
+   ],
+   "tags_ascii": [
+    "cho",
+    "van phong",
+    "cuoi",
+    "che bai"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -324,7 +574,25 @@
    "viral_trending": true,
    "viral_note": "'Mèo thở oxy chạy deadline' là meme trend VN, xuất hiện trên TinhTe 2026",
    "source_url": "https://tinhte.edu.vn/wp-content/uploads/2026/01/meme-hai-meo-tho-oxy-chay-deadline.jpg",
-   "page": "https://tinhte.edu.vn/meme-avatar/"
+   "page": "https://tinhte.edu.vn/meme-avatar/",
+   "orientation": "square",
+   "tags": [
+    "mèo",
+    "deadline",
+    "chê bai",
+    "mệt mỏi",
+    "buồn",
+    "tiền lương"
+   ],
+   "tags_ascii": [
+    "meo",
+    "deadline",
+    "che bai",
+    "met moi",
+    "buon",
+    "tien luong"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Văn phòng/đi làm",
@@ -341,7 +609,21 @@
    "viral_trending": false,
    "viral_note": "không rõ",
    "source_url": "https://i.pinimg.com/originals/5f/46/58/5f4658fb52629d1e12478693f3638398.jpg",
-   "page": ""
+   "page": "",
+   "orientation": "square",
+   "tags": [
+    "văn phòng",
+    "mệt mỏi",
+    "buồn",
+    "tiền lương"
+   ],
+   "tags_ascii": [
+    "van phong",
+    "met moi",
+    "buon",
+    "tien luong"
+   ],
+   "fit_vertical": true
   }
  ]
 }
