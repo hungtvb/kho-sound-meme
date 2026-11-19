@@ -18,7 +18,21 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://i.pinimg.com/originals/df/9f/c1/df9fc177c41240e7b28777c9090c5b16.jpg",
-   "page": "https://id.pinterest.com/ideas/cat-in-a-plane/911075177590/"
+   "page": "https://id.pinterest.com/ideas/cat-in-a-plane/911075177590/",
+   "orientation": "square",
+   "tags": [
+    "mèo",
+    "mệt mỏi",
+    "buồn",
+    "du lịch"
+   ],
+   "tags_ascii": [
+    "meo",
+    "met moi",
+    "buon",
+    "du lich"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Du lịch/ăn uống",
@@ -35,7 +49,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://live.staticflickr.com/8241/8580178894_eefe5a276e_b.jpg",
-   "page": "https://www.flickr.com/photos/28648582@N02/8580178894"
+   "page": "https://www.flickr.com/photos/28648582@N02/8580178894",
+   "orientation": "landscape",
+   "tags": [
+    "du lịch",
+    "sân bay",
+    "máy bay"
+   ],
+   "tags_ascii": [
+    "du lich",
+    "san bay",
+    "may bay"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Du lịch/ăn uống",
@@ -52,7 +78,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://www.advancy.com/wp-content/uploads/2025/02/world-globe-1500-x-1006-sq9mjrb8trfs9c43.jpg",
-   "page": "https://www.advancy.com/"
+   "page": "https://www.advancy.com/",
+   "orientation": "landscape",
+   "tags": [
+    "du lịch",
+    "đi bộ",
+    "bản đồ"
+   ],
+   "tags_ascii": [
+    "du lich",
+    "di bo",
+    "ban do"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Du lịch/ăn uống",
@@ -69,7 +107,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://boardingarea.com/wp-content/uploads/2025/01/generated_image-278.png",
-   "page": "https://boardingarea.com/avoidable-mistakes-when-traveling/"
+   "page": "https://boardingarea.com/avoidable-mistakes-when-traveling/",
+   "orientation": "landscape",
+   "tags": [
+    "du lịch",
+    "mệt mỏi",
+    "vali"
+   ],
+   "tags_ascii": [
+    "du lich",
+    "met moi",
+    "vali"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Du lịch/ăn uống",
@@ -86,7 +136,21 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://gmy.su/wp-content/uploads/2026/03/clipcloud_219_8903d8f6.webp",
-   "page": "https://gmy.su/vliyanie-stressovyh-poezdok-na-muzhskoe-zdorove-i-kak-s-etim-borotsya-2/"
+   "page": "https://gmy.su/vliyanie-stressovyh-poezdok-na-muzhskoe-zdorove-i-kak-s-etim-borotsya-2/",
+   "orientation": "square",
+   "tags": [
+    "ngạc nhiên",
+    "tiền lương",
+    "du lịch",
+    "tình yêu"
+   ],
+   "tags_ascii": [
+    "ngac nhien",
+    "tien luong",
+    "du lich",
+    "tinh yeu"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Du lịch/ăn uống",
@@ -103,7 +167,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://i.pinimg.com/originals/bd/29/15/bd2915519aeeb6a1d6069f501ff8e8aa.png",
-   "page": "https://mysupercook.ru/tiny-things"
+   "page": "https://mysupercook.ru/tiny-things",
+   "orientation": "landscape",
+   "tags": [
+    "ăn uống",
+    "đồ ăn",
+    "xin ăn"
+   ],
+   "tags_ascii": [
+    "an uong",
+    "do an",
+    "xin an"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Du lịch/ăn uống",
@@ -120,7 +196,15 @@
    "viral_trending": false,
    "viral_note": "không rõ",
    "source_url": "https://pleated-jeans.com/wp-content/uploads/2025/03/funny-food-memes-3-13-24-25.jpg",
-   "page": "https://pleated-jeans.com/2025/03/13/funny-food-memes-3-13-25/"
+   "page": "https://pleated-jeans.com/2025/03/13/funny-food-memes-3-13-25/",
+   "orientation": "landscape",
+   "tags": [
+    "ăn uống"
+   ],
+   "tags_ascii": [
+    "an uong"
+   ],
+   "fit_vertical": false
   },
   {
    "group": "Du lịch/ăn uống",
@@ -137,7 +221,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://live.staticflickr.com/2480/3668547763_24ae3b3361_b.jpg",
-   "page": "https://www.flickr.com/photos/25652278@N03/3668547763"
+   "page": "https://www.flickr.com/photos/25652278@N03/3668547763",
+   "orientation": "landscape",
+   "tags": [
+    "ăn uống",
+    "đói",
+    "bữa ăn"
+   ],
+   "tags_ascii": [
+    "an uong",
+    "doi",
+    "bua an"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Du lịch/ăn uống",
@@ -154,7 +250,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://live.staticflickr.com/3450/3241991271_92bc1b922c_b.jpg",
-   "page": "https://www.flickr.com/photos/10559879@N00/3241991271"
+   "page": "https://www.flickr.com/photos/10559879@N00/3241991271",
+   "orientation": "landscape",
+   "tags": [
+    "ăn uống",
+    "đồ ý",
+    "món ý"
+   ],
+   "tags_ascii": [
+    "an uong",
+    "do y",
+    "mon y"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Du lịch/ăn uống",
@@ -171,7 +279,15 @@
    "viral_trending": false,
    "viral_note": "không rõ",
    "source_url": "https://maubanhkem.com/wp-content/uploads/2025/10/meme-doi-20.jpg",
-   "page": "https://maubanhkem.com/meme-doi/"
+   "page": "https://maubanhkem.com/meme-doi/",
+   "orientation": "landscape",
+   "tags": [
+    "ăn uống"
+   ],
+   "tags_ascii": [
+    "an uong"
+   ],
+   "fit_vertical": true
   }
  ]
 }
