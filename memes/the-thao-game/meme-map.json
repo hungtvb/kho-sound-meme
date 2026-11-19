@@ -18,7 +18,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://live.staticflickr.com/5452/17389760863_f2b5c199da_b.jpg",
-   "page": "https://www.flickr.com/photos/48126477@N05/17389760863"
+   "page": "https://www.flickr.com/photos/48126477@N05/17389760863",
+   "orientation": "landscape",
+   "tags": [
+    "game",
+    "pc",
+    "gaming"
+   ],
+   "tags_ascii": [
+    "game",
+    "pc",
+    "gaming"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Thể thao/game",
@@ -35,7 +47,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://sauvaget.de/wp-content/uploads/2026/02/0dcc8f82-0bc9-434e-aa12-f263f8592b18-1024x683.png",
-   "page": "https://sauvaget.de/weekly-journal/the-week-that-was-05-2026/"
+   "page": "https://sauvaget.de/weekly-journal/the-week-that-was-05-2026/",
+   "orientation": "landscape",
+   "tags": [
+    "buồn",
+    "game",
+    "tình yêu"
+   ],
+   "tags_ascii": [
+    "buon",
+    "game",
+    "tinh yeu"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Thể thao/game",
@@ -52,7 +76,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://live.staticflickr.com/4020/4718510861_92f0025322_b.jpg",
-   "page": "https://www.flickr.com/photos/17509603@N00/4718510861"
+   "page": "https://www.flickr.com/photos/17509603@N00/4718510861",
+   "orientation": "landscape",
+   "tags": [
+    "bóng đá",
+    "cổ động viên",
+    "ăn mừng"
+   ],
+   "tags_ascii": [
+    "bong da",
+    "co dong vien",
+    "an mung"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Thể thao/game",
@@ -69,7 +105,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục BO theo copyright-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://i.giphy.com/l4pTqdlMJVeqbxXry.webp",
-   "page": "https://media.giphy.com/media/l4pTqdlMJVeqbxXry/giphy.mp4"
+   "page": "https://media.giphy.com/media/l4pTqdlMJVeqbxXry/giphy.mp4",
+   "orientation": "square",
+   "tags": [
+    "họp",
+    "game",
+    "đời sống"
+   ],
+   "tags_ascii": [
+    "hop",
+    "game",
+    "doi song"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Thể thao/game",
@@ -86,7 +134,21 @@
    "viral_trending": true,
    "viral_note": "Nguồn chuyên mục 'meme game hay nhất tuần' — tuyển tập trending theo tuần.",
    "source_url": "https://pleated-jeans.com/wp-content/uploads/2024/09/funniest-gaming-memes-september-5-14.jpg",
-   "page": "https://pleated-jeans.com/2024/09/05/funniest-gaming-memes-september-5-2024/"
+   "page": "https://pleated-jeans.com/2024/09/05/funniest-gaming-memes-september-5-2024/",
+   "orientation": "portrait",
+   "tags": [
+    "mệt mỏi",
+    "buồn",
+    "game",
+    "đời sống"
+   ],
+   "tags_ascii": [
+    "met moi",
+    "buon",
+    "game",
+    "doi song"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Thể thao/game",
@@ -103,7 +165,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://odo-cdn.imgix.net/catalog/product/166/029/1660296488.7321.png?auto=compress,format&w=800&h=800&bg=fff&fit=f",
-   "page": "https://www.onedayonly.co.za/products/ps4-vx-4-black-wireless-controller-20250422"
+   "page": "https://www.onedayonly.co.za/products/ps4-vx-4-black-wireless-controller-20250422",
+   "orientation": "square",
+   "tags": [
+    "game",
+    "thua game",
+    "buồn"
+   ],
+   "tags_ascii": [
+    "game",
+    "thua game",
+    "buon"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Thể thao/game",
@@ -120,7 +194,17 @@
    "viral_trending": false,
    "viral_note": "không rõ",
    "source_url": "https://img-cdn.2game.vn/pictures/xemgame/2015/03/13/so-thich-game-thu-3.jpg",
-   "page": "https://www.xemgame.com/nhung-so-thich-la-doi-cua-game-thu-post121129.html"
+   "page": "https://www.xemgame.com/nhung-so-thich-la-doi-cua-game-thu-post121129.html",
+   "orientation": "landscape",
+   "tags": [
+    "tiền lương",
+    "game"
+   ],
+   "tags_ascii": [
+    "tien luong",
+    "game"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Thể thao/game",
@@ -137,7 +221,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://i.ytimg.com/vi/tc20zKwokQw/maxresdefault.jpg",
-   "page": "https://www.youtube.com/watch?v=tc20zKwokQw"
+   "page": "https://www.youtube.com/watch?v=tc20zKwokQw",
+   "orientation": "landscape",
+   "tags": [
+    "game",
+    "gaming",
+    "rgb"
+   ],
+   "tags_ascii": [
+    "game",
+    "gaming",
+    "rgb"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Thể thao/game",
@@ -154,7 +250,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://live.staticflickr.com/3196/3036729806_47d038324b_b.jpg",
-   "page": "https://www.flickr.com/photos/21695191@N02/3036729806"
+   "page": "https://www.flickr.com/photos/21695191@N02/3036729806",
+   "orientation": "landscape",
+   "tags": [
+    "bóng đá",
+    "nhớ",
+    "chờ đợi"
+   ],
+   "tags_ascii": [
+    "bong da",
+    "nho",
+    "cho doi"
+   ],
+   "fit_vertical": true
   },
   {
    "group": "Thể thao/game",
@@ -171,7 +279,19 @@
    "viral_trending": false,
    "viral_note": "Ảnh thay thế an toàn bản quyền (thay mục có watermark theo watermark-audit 2026-11-18); không khẳng định viral.",
    "source_url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg5MzQzNjUtaW1hZ2Uta3d2dXRxenUuanBn.jpg",
-   "page": "https://www.rawpixel.com/image/5904239/photo-image-background-public-domain-free"
+   "page": "https://www.rawpixel.com/image/5904239/photo-image-background-public-domain-free",
+   "orientation": "landscape",
+   "tags": [
+    "game",
+    "game over",
+    "thua game"
+   ],
+   "tags_ascii": [
+    "game",
+    "game over",
+    "thua game"
+   ],
+   "fit_vertical": true
   }
  ]
 }
