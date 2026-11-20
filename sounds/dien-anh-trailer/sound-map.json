@@ -4,34 +4,30 @@
   "count": 35,
   "items": [
     {
-      "name": "Cinematic HIT sound effect",
-      "slug": "cinematic-hit-sound-effect",
-      "file": "cinematic-hit-sound-effect-www_tiengdong_com.mp3",
-      "duration_s": 4.349,
-      "bytes": 276730,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/cinematic-hit-sound-effect",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/cinematic-hit-sound-effect-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'sfx-le-tuan-khang-cinematic-tension-trailer' bi BO theo copyright-audit (c: Ten/file mang ten creator viral TikTok Le Tuan Khang; viral_note ghi 'Ten creator viral TikTok Le Tuan Khang'. Khong ro ); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "name": "Long Suspense sound effect",
+      "slug": "long-suspense-sound-effect",
+      "file": "long-suspense-sound-effect.mp3",
+      "duration_s": 7.76,
+      "bytes": 171048,
+      "viral": true,
+      "viral_note": "Riser hoi hop keo dai, dung cho thriller/horror/mystery; nhom Dien anh/Trailer cua kho thieu dang riser dai.",
+      "source_url": "https://tiengdong.com/long-suspense-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/long-suspense-sound-effect-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay cinematic-hit-sound-effect; MP3 từ player chính tiengdong, ffprobe 7.76s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "hit",
-        "boom",
-        "đập",
-        "kịch tính",
+        "suspense",
+        "hồi hộp",
         "trailer",
-        "cái kết"
+        "kịch tính"
       ],
       "tags_ascii": [
-        "hit",
-        "boom",
-        "dap",
-        "kich tinh",
+        "suspense",
+        "hoi hop",
         "trailer",
-        "cai ket"
+        "kich tinh"
       ],
-      "use_case_vi": "Dùng để nhấn một cú đập hoặc punchline thật mạnh.",
+      "use_case_vi": "Dùng làm nền hồi hộp kéo dài trước khi hé lộ cái kết như trailer phim.",
       "group": "Điện ảnh/Trailer",
       "group_slug": "dien-anh-trailer"
     },

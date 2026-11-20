@@ -105,28 +105,28 @@
       "group_slug": "thien-nhien-dong-vat"
     },
     {
-      "name": "Tiếng Sấm Sét khi trời bắt đầu Mưa",
-      "slug": "tieng-sam-set-khi-troi-bat-dau-mua",
-      "file": "Tieng-sam-set-khi-troi-bat-dau-mua-www_tiengdong_com.mp3",
-      "duration_s": 3.02,
-      "bytes": 156747,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-sam-set-khi-troi-bat-dau-mua",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-sam-set-khi-troi-bat-dau-mua-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Tiếng Sấm Sét meme",
+      "slug": "tieng-sam-set-meme",
+      "file": "tieng-sam-set-meme.mp3",
+      "duration_s": 6.53,
+      "bytes": 159015,
+      "viral": true,
+      "viral_note": "Mo ta ghi 'mot trong nhung am thanh meme pho bien'; 3.145 luot tai. Sam set generic, khong IP.",
+      "source_url": "https://tiengdong.com/tieng-sam-set-meme",
+      "source_mp3": "https://tiengdong.com/download/?file=true&id=71041.71038",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-20, Tony duyệt 20/11): thay tieng-sam-set-khi-troi-bat-dau-mua; MP3 từ player chính tiengdong, ffprobe 6.53s, chưa nghe thủ công. Đã cắt 0.55s im đầu (gốc 7.08s), duration sau cắt 6.53s.",
       "kind": "original",
       "tags": [
+        "sấm sét",
         "mưa",
-        "buồn",
-        "ngoài trời"
+        "thiên nhiên"
       ],
       "tags_ascii": [
+        "sam set",
         "mua",
-        "buon",
-        "ngoai troi"
+        "thien nhien"
       ],
-      "use_case_vi": "Dùng làm nền buồn hoặc cảnh chờ đợi, trời mưa ngoài cửa sổ.",
+      "use_case_vi": "Dùng làm nền sấm sét cho cảnh trời mưa hoặc khoảnh khắc căng thẳng.",
       "group": "Thiên nhiên/Động vật",
       "group_slug": "thien-nhien-dong-vat"
     },
@@ -160,30 +160,28 @@
       "group_slug": "thien-nhien-dong-vat"
     },
     {
-      "name": "Tiếng con Chó sủa (ngắn, 3 tiếng)",
-      "slug": "tieng-con-cho-sua-ngan-3-tieng",
-      "file": "Tieng-con-cho-sua-ngan-3-tieng-www_tiengdong_com.mp3",
-      "duration_s": 1.01,
-      "bytes": 77335,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-con-cho-sua-ngan-3-tieng",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-con-cho-sua-ngan-3-tieng-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Tiếng Chó cười meme",
+      "slug": "tieng-cho-cuoi-meme",
+      "file": "tieng-cho-cuoi-meme.mp3",
+      "duration_s": 7.6,
+      "bytes": 643727,
+      "viral": true,
+      "viral_note": "Mo ta ghi 'viral hot trend'; 3.737 luot tai, cao thu 2 trong dot quet. Tieng cho cuoi (dong vat), khong IP, khong giong nguoi.",
+      "source_url": "https://tiengdong.com/tieng-cho-cuoi-meme",
+      "source_mp3": "https://tiengdong.com/download/?file=true&id=100265.73007",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-20, Tony duyệt 20/11): thay tieng-con-cho-sua-ngan-3-tieng; MP3 từ player chính tiengdong, ffprobe 7.6s, chưa nghe thủ công. Đã cắt đuôi còn 7.6s (gốc 8.19s), duration sau cắt 7.6s.",
       "kind": "original",
       "tags": [
-        "mèo",
-        "chó",
-        "thú cưng",
-        "dễ thương"
+        "chó cười",
+        "động vật",
+        "meme"
       ],
       "tags_ascii": [
-        "meo",
-        "cho",
-        "thu cung",
-        "de thuong"
+        "cho cuoi",
+        "dong vat",
+        "meme"
       ],
-      "use_case_vi": "Dùng chèn tiếng vật nuôi kêu cho cảnh dễ thương.",
+      "use_case_vi": "Dùng làm phản ứng hài của động vật sau tình huống dở khóc dở cười.",
       "group": "Thiên nhiên/Động vật",
       "group_slug": "thien-nhien-dong-vat"
     },

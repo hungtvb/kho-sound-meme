@@ -59,34 +59,28 @@
       "group_slug": "cuoi-reaction"
     },
     {
-      "name": "Tiếng Cười đểu (giọng trẻ con)",
-      "slug": "tieng-cuoi-deu-giong-tre-con",
-      "file": "tieng-cuoi-deu-giong-tre-con-www_tiengdong_com.mp3",
-      "duration_s": 4.11,
-      "bytes": 112952,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-cuoi-deu-giong-tre-con",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-cuoi-deu-giong-tre-con-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Tiếng cười Khán Giả",
+      "slug": "tieng-cuoi-khan-gia",
+      "file": "tieng-cuoi-khan-gia.mp3",
+      "duration_s": 5.09,
+      "bytes": 340238,
+      "viral": true,
+      "viral_note": "Luot tai cao nhat trong dot quet (5.568); mo ta ghi tieng cuoi khan gia sau canh phim hai, dung long tieng video hai.",
+      "source_url": "https://tiengdong.com/tieng-cuoi-khan-gia",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-cuoi-khan-gia-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-20, Tony duyệt 20/11): thay tieng-cuoi-deu-giong-tre-con; MP3 từ player chính tiengdong, ffprobe 5.09s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "cười đểu",
-        "trêu chọc",
-        "troll",
+        "cười khán giả",
         "tiếng cười",
-        "reaction",
-        "cười"
+        "reaction"
       ],
       "tags_ascii": [
-        "cuoi deu",
-        "treu choc",
-        "troll",
+        "cuoi khan gia",
         "tieng cuoi",
-        "reaction",
-        "cuoi"
+        "reaction"
       ],
-      "use_case_vi": "Dùng sau câu nói châm biếm nhẹ hoặc câu trêu đểu.",
+      "use_case_vi": "Dùng chêm sau câu đùa hoặc làm phản ứng vui của khán giả.",
       "group": "Cười/Reaction",
       "group_slug": "cuoi-reaction"
     },
@@ -173,30 +167,28 @@
       "group_slug": "cuoi-reaction"
     },
     {
-      "name": "Tiếng Cười giả tạo",
-      "slug": "tieng-cuoi-gia-tao",
-      "file": "tieng-cuoi-gia-tao-www_tiengdong_com.mp3",
-      "duration_s": 0.9,
-      "bytes": 61543,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-cuoi-gia-tao",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-cuoi-gia-tao-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Âm thanh Farting of mic, meme đánh rắm vang dội",
+      "slug": "am-thanh-farting-of-mic",
+      "file": "am-thanh-farting-of-mic.mp3",
+      "duration_s": 4.23,
+      "bytes": 99174,
+      "viral": true,
+      "viral_note": "Top chuyen muc Am thanh meme; mo ta ghi pho bien trong meme internet/video ngan; luot tai cao nhat trong 7 ung vien; moi nhat trong 7 ung vien (thang 4/2026).",
+      "source_url": "https://tiengdong.com/am-thanh-farting-of-mic",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-farting-of-mic-meme-danh-ram-vang-doi-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay tieng-cuoi-gia-tao; MP3 từ player chính tiengdong, ffprobe 4.23s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "cười giả",
-        "gượng",
-        "tiếng cười",
-        "reaction"
+        "farting",
+        "đánh rắm",
+        "meme"
       ],
       "tags_ascii": [
-        "cuoi gia",
-        "guong",
-        "tieng cuoi",
-        "reaction"
+        "farting",
+        "danh ram",
+        "meme"
       ],
-      "use_case_vi": "Dùng khi nhân vật cười gượng vì bị hỏi khó.",
+      "use_case_vi": "Dùng chêm sau tình huống ngượng ngùng hoặc làm punchline hài.",
       "group": "Cười/Reaction",
       "group_slug": "cuoi-reaction"
     },

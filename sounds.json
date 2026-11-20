@@ -447,34 +447,28 @@
       "group_slug": "cuoi-reaction"
     },
     {
-      "name": "Tiếng Cười đểu (giọng trẻ con)",
-      "slug": "tieng-cuoi-deu-giong-tre-con",
-      "file": "tieng-cuoi-deu-giong-tre-con-www_tiengdong_com.mp3",
-      "duration_s": 4.11,
-      "bytes": 112952,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-cuoi-deu-giong-tre-con",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-cuoi-deu-giong-tre-con-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Tiếng cười Khán Giả",
+      "slug": "tieng-cuoi-khan-gia",
+      "file": "tieng-cuoi-khan-gia.mp3",
+      "duration_s": 5.09,
+      "bytes": 340238,
+      "viral": true,
+      "viral_note": "Luot tai cao nhat trong dot quet (5.568); mo ta ghi tieng cuoi khan gia sau canh phim hai, dung long tieng video hai.",
+      "source_url": "https://tiengdong.com/tieng-cuoi-khan-gia",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-cuoi-khan-gia-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-20, Tony duyệt 20/11): thay tieng-cuoi-deu-giong-tre-con; MP3 từ player chính tiengdong, ffprobe 5.09s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "cười đểu",
-        "trêu chọc",
-        "troll",
+        "cười khán giả",
         "tiếng cười",
-        "reaction",
-        "cười"
+        "reaction"
       ],
       "tags_ascii": [
-        "cuoi deu",
-        "treu choc",
-        "troll",
+        "cuoi khan gia",
         "tieng cuoi",
-        "reaction",
-        "cuoi"
+        "reaction"
       ],
-      "use_case_vi": "Dùng sau câu nói châm biếm nhẹ hoặc câu trêu đểu.",
+      "use_case_vi": "Dùng chêm sau câu đùa hoặc làm phản ứng vui của khán giả.",
       "group": "Cười/Reaction",
       "group_slug": "cuoi-reaction"
     },
@@ -561,30 +555,28 @@
       "group_slug": "cuoi-reaction"
     },
     {
-      "name": "Tiếng Cười giả tạo",
-      "slug": "tieng-cuoi-gia-tao",
-      "file": "tieng-cuoi-gia-tao-www_tiengdong_com.mp3",
-      "duration_s": 0.9,
-      "bytes": 61543,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-cuoi-gia-tao",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-cuoi-gia-tao-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Âm thanh Farting of mic, meme đánh rắm vang dội",
+      "slug": "am-thanh-farting-of-mic",
+      "file": "am-thanh-farting-of-mic.mp3",
+      "duration_s": 4.23,
+      "bytes": 99174,
+      "viral": true,
+      "viral_note": "Top chuyen muc Am thanh meme; mo ta ghi pho bien trong meme internet/video ngan; luot tai cao nhat trong 7 ung vien; moi nhat trong 7 ung vien (thang 4/2026).",
+      "source_url": "https://tiengdong.com/am-thanh-farting-of-mic",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-farting-of-mic-meme-danh-ram-vang-doi-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay tieng-cuoi-gia-tao; MP3 từ player chính tiengdong, ffprobe 4.23s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "cười giả",
-        "gượng",
-        "tiếng cười",
-        "reaction"
+        "farting",
+        "đánh rắm",
+        "meme"
       ],
       "tags_ascii": [
-        "cuoi gia",
-        "guong",
-        "tieng cuoi",
-        "reaction"
+        "farting",
+        "danh ram",
+        "meme"
       ],
-      "use_case_vi": "Dùng khi nhân vật cười gượng vì bị hỏi khó.",
+      "use_case_vi": "Dùng chêm sau tình huống ngượng ngùng hoặc làm punchline hài.",
       "group": "Cười/Reaction",
       "group_slug": "cuoi-reaction"
     },
@@ -982,28 +974,28 @@
       "group_slug": "meme-punch"
     },
     {
-      "name": "Ding sound effect",
-      "slug": "ding-sound-effect",
-      "file": "Ding-sound-effect-www_tiengdong_com.mp3",
-      "duration_s": 2.95,
-      "bytes": 82576,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/ding-sound-effect",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Ding-sound-effect-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Knife sound effect",
+      "slug": "knife-sound-effect",
+      "file": "knife-sound-effect.mp3",
+      "duration_s": 0.61,
+      "bytes": 285952,
+      "viral": true,
+      "viral_note": "Sting chem dao ngan 0.61s, dung lam diem nhan meme; chi 163 luot tai - yeu nhat trong 7 ung vien, chi nen lay neu Tony muon them sting ngan.",
+      "source_url": "https://tiengdong.com/knife-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/knife-sound-effect-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay ding-sound-effect; MP3 từ player chính tiengdong, ffprobe 0.61s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "ding",
-        "sound",
-        "effect"
+        "dao",
+        "chém",
+        "sting"
       ],
       "tags_ascii": [
-        "ding",
-        "sound",
-        "effect"
+        "dao",
+        "chem",
+        "sting"
       ],
-      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file.",
+      "use_case_vi": "Dùng làm sting ngắn nhấn một câu nói sắc hoặc điểm nhấn meme.",
       "group": "Meme punch/fail/dramatic",
       "group_slug": "meme-punch"
     },
@@ -1078,52 +1070,54 @@
       "group_slug": "meme-punch"
     },
     {
-      "name": "Hiệu ứng âm thanh Bất Ngờ",
-      "slug": "am-thanh-bat-ngo",
-      "file": "am-thanh-bat-ngo-www_tiengdong_com.mp3",
-      "duration_s": 0.929,
-      "bytes": 61961,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-bat-ngo",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-bat-ngo-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'bruh-sound-effect' bi BO theo copyright-audit (c: Clip giong noi 'bruh' cua nguoi that, cat ra tu video goc; file khong ghi nguon goc/tac gia - khong chac, bo cho an toan); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "name": "Âm thanh tiếng Uỳnh",
+      "slug": "tieng-uynh",
+      "file": "tieng-uynh.mp3",
+      "duration_s": 2.7,
+      "bytes": 89705,
+      "viral": true,
+      "viral_note": "Tieng 'uynh' bat ngo/hai huoc dung long tieng video hai; 2.783 luot tai.",
+      "source_url": "https://tiengdong.com/tieng-uynh",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-uynh-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay am-thanh-bat-ngo; MP3 từ player chính tiengdong, ffprobe 2.7s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "sốc",
+        "uỳnh",
         "bất ngờ",
-        "gây sốc"
+        "meme"
       ],
       "tags_ascii": [
-        "soc",
+        "uynh",
         "bat ngo",
-        "gay soc"
+        "meme"
       ],
-      "use_case_vi": "Dùng khi nhân vật sốc hoặc nghe tin bất ngờ.",
+      "use_case_vi": "Dùng nhấn một cú bất ngờ hoặc chuyển cảnh hài.",
       "group": "Meme punch/fail/dramatic",
       "group_slug": "meme-punch"
     },
     {
-      "name": "Hiệu ứng tiếng Còi hoạt hình",
-      "slug": "tieng-coi-hoat-hinh",
-      "file": "Tieng-coi-hoat-hinh-www_tiengdong_com.mp3",
-      "duration_s": 1.56,
-      "bytes": 71969,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-coi-hoat-hinh",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-coi-hoat-hinh-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'oof-sound-effect' bi BO theo copyright-audit (a: Roblox OOF - am thanh co ban quyen goc cua game Roblox; viral_note ghi 'Roblox OOF'.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "name": "Tiếng Điện Nổ (âm thanh thực)",
+      "slug": "tieng-dien-no",
+      "file": "tieng-dien-no.mp3",
+      "duration_s": 5.85,
+      "bytes": 311593,
+      "viral": true,
+      "viral_note": "Tieng dien giat/no dien mo phong; chi 587 luot tai - yeu hon cac ung vien primary; trung lap phan nao voi boom/bom-no trong kho.",
+      "source_url": "https://tiengdong.com/tieng-dien-no",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-dien-no-am-thanh-thuc-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay tieng-coi-hoat-hinh; MP3 từ player chính tiengdong, ffprobe 5.85s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "hoat",
-        "hinh"
+        "điện nổ",
+        "nổ",
+        "giật điện"
       ],
       "tags_ascii": [
-        "hoat",
-        "hinh"
+        "dien no",
+        "no",
+        "giat dien"
       ],
-      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file.",
+      "use_case_vi": "Dùng cho cảnh chập điện, nổ hoặc sự cố bất ngờ.",
       "group": "Meme punch/fail/dramatic",
       "group_slug": "meme-punch"
     },
@@ -1531,28 +1525,28 @@
       "group_slug": "thien-nhien-dong-vat"
     },
     {
-      "name": "Tiếng Sấm Sét khi trời bắt đầu Mưa",
-      "slug": "tieng-sam-set-khi-troi-bat-dau-mua",
-      "file": "Tieng-sam-set-khi-troi-bat-dau-mua-www_tiengdong_com.mp3",
-      "duration_s": 3.02,
-      "bytes": 156747,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-sam-set-khi-troi-bat-dau-mua",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-sam-set-khi-troi-bat-dau-mua-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Tiếng Sấm Sét meme",
+      "slug": "tieng-sam-set-meme",
+      "file": "tieng-sam-set-meme.mp3",
+      "duration_s": 6.53,
+      "bytes": 159015,
+      "viral": true,
+      "viral_note": "Mo ta ghi 'mot trong nhung am thanh meme pho bien'; 3.145 luot tai. Sam set generic, khong IP.",
+      "source_url": "https://tiengdong.com/tieng-sam-set-meme",
+      "source_mp3": "https://tiengdong.com/download/?file=true&id=71041.71038",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-20, Tony duyệt 20/11): thay tieng-sam-set-khi-troi-bat-dau-mua; MP3 từ player chính tiengdong, ffprobe 6.53s, chưa nghe thủ công. Đã cắt 0.55s im đầu (gốc 7.08s), duration sau cắt 6.53s.",
       "kind": "original",
       "tags": [
+        "sấm sét",
         "mưa",
-        "buồn",
-        "ngoài trời"
+        "thiên nhiên"
       ],
       "tags_ascii": [
+        "sam set",
         "mua",
-        "buon",
-        "ngoai troi"
+        "thien nhien"
       ],
-      "use_case_vi": "Dùng làm nền buồn hoặc cảnh chờ đợi, trời mưa ngoài cửa sổ.",
+      "use_case_vi": "Dùng làm nền sấm sét cho cảnh trời mưa hoặc khoảnh khắc căng thẳng.",
       "group": "Thiên nhiên/Động vật",
       "group_slug": "thien-nhien-dong-vat"
     },
@@ -1586,30 +1580,28 @@
       "group_slug": "thien-nhien-dong-vat"
     },
     {
-      "name": "Tiếng con Chó sủa (ngắn, 3 tiếng)",
-      "slug": "tieng-con-cho-sua-ngan-3-tieng",
-      "file": "Tieng-con-cho-sua-ngan-3-tieng-www_tiengdong_com.mp3",
-      "duration_s": 1.01,
-      "bytes": 77335,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-con-cho-sua-ngan-3-tieng",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-con-cho-sua-ngan-3-tieng-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Tiếng Chó cười meme",
+      "slug": "tieng-cho-cuoi-meme",
+      "file": "tieng-cho-cuoi-meme.mp3",
+      "duration_s": 7.6,
+      "bytes": 643727,
+      "viral": true,
+      "viral_note": "Mo ta ghi 'viral hot trend'; 3.737 luot tai, cao thu 2 trong dot quet. Tieng cho cuoi (dong vat), khong IP, khong giong nguoi.",
+      "source_url": "https://tiengdong.com/tieng-cho-cuoi-meme",
+      "source_mp3": "https://tiengdong.com/download/?file=true&id=100265.73007",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-20, Tony duyệt 20/11): thay tieng-con-cho-sua-ngan-3-tieng; MP3 từ player chính tiengdong, ffprobe 7.6s, chưa nghe thủ công. Đã cắt đuôi còn 7.6s (gốc 8.19s), duration sau cắt 7.6s.",
       "kind": "original",
       "tags": [
-        "mèo",
-        "chó",
-        "thú cưng",
-        "dễ thương"
+        "chó cười",
+        "động vật",
+        "meme"
       ],
       "tags_ascii": [
-        "meo",
-        "cho",
-        "thu cung",
-        "de thuong"
+        "cho cuoi",
+        "dong vat",
+        "meme"
       ],
-      "use_case_vi": "Dùng chèn tiếng vật nuôi kêu cho cảnh dễ thương.",
+      "use_case_vi": "Dùng làm phản ứng hài của động vật sau tình huống dở khóc dở cười.",
       "group": "Thiên nhiên/Động vật",
       "group_slug": "thien-nhien-dong-vat"
     },
@@ -1698,28 +1690,28 @@
       "group_slug": "thien-nhien-dong-vat"
     },
     {
-      "name": "Âm thanh thông báo MP3",
-      "slug": "am-thanh-thong-bao",
-      "file": "am-thanh-thong-bao-www_tiengdong_com.mp3",
-      "duration_s": 1.23,
-      "bytes": 279969,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-thong-bao",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Hiệu ứng âm thanh tắt TV",
+      "slug": "am-thanh-tat-tv",
+      "file": "am-thanh-tat-tv.mp3",
+      "duration_s": 0.61,
+      "bytes": 16537,
+      "viral": true,
+      "viral_note": "Mo ta ghi 'hieu ung am thanh meme noi tieng duoc nhieu nguoi yeu thich'; 526 luot tai. Tieng tat TV generic, khong IP.",
+      "source_url": "https://tiengdong.com/am-thanh-tat-tv",
+      "source_mp3": "https://tiengdong.com/download/?file=true&id=68935.68823",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-20, Tony duyệt 20/11): thay am-thanh-thong-bao; MP3 từ player chính tiengdong, ffprobe 0.61s, chưa nghe thủ công. Đã cắt 0.89s im đầu (gốc 1.5s), duration sau cắt 0.61s.",
       "kind": "original",
       "tags": [
-        "thông báo",
-        "kết nối",
-        "loa"
+        "tắt tv",
+        "tivi",
+        "công nghệ"
       ],
       "tags_ascii": [
-        "thong bao",
-        "ket noi",
-        "loa"
+        "tat tv",
+        "tivi",
+        "cong nghe"
       ],
-      "use_case_vi": "Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị.",
+      "use_case_vi": "Dùng khi tắt màn hình, kết thúc cảnh hoặc chuyển sang im lặng.",
       "group": "Công nghệ/UI",
       "group_slug": "cong-nghe-ui"
     },
@@ -1965,34 +1957,30 @@
       "group_slug": "cong-nghe-ui"
     },
     {
-      "name": "Cinematic HIT sound effect",
-      "slug": "cinematic-hit-sound-effect",
-      "file": "cinematic-hit-sound-effect-www_tiengdong_com.mp3",
-      "duration_s": 4.349,
-      "bytes": 276730,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/cinematic-hit-sound-effect",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/cinematic-hit-sound-effect-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'sfx-le-tuan-khang-cinematic-tension-trailer' bi BO theo copyright-audit (c: Ten/file mang ten creator viral TikTok Le Tuan Khang; viral_note ghi 'Ten creator viral TikTok Le Tuan Khang'. Khong ro ); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "name": "Long Suspense sound effect",
+      "slug": "long-suspense-sound-effect",
+      "file": "long-suspense-sound-effect.mp3",
+      "duration_s": 7.76,
+      "bytes": 171048,
+      "viral": true,
+      "viral_note": "Riser hoi hop keo dai, dung cho thriller/horror/mystery; nhom Dien anh/Trailer cua kho thieu dang riser dai.",
+      "source_url": "https://tiengdong.com/long-suspense-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/long-suspense-sound-effect-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay cinematic-hit-sound-effect; MP3 từ player chính tiengdong, ffprobe 7.76s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "hit",
-        "boom",
-        "đập",
-        "kịch tính",
+        "suspense",
+        "hồi hộp",
         "trailer",
-        "cái kết"
+        "kịch tính"
       ],
       "tags_ascii": [
-        "hit",
-        "boom",
-        "dap",
-        "kich tinh",
+        "suspense",
+        "hoi hop",
         "trailer",
-        "cai ket"
+        "kich tinh"
       ],
-      "use_case_vi": "Dùng để nhấn một cú đập hoặc punchline thật mạnh.",
+      "use_case_vi": "Dùng làm nền hồi hộp kéo dài trước khi hé lộ cái kết như trailer phim.",
       "group": "Điện ảnh/Trailer",
       "group_slug": "dien-anh-trailer"
     },
@@ -2627,24 +2615,28 @@
       "group_slug": "gia-dinh-doi-song"
     },
     {
-      "name": "Âm thanh tiếng Chuông Cửa",
-      "slug": "tieng-chuong-cua",
-      "file": "Tieng-chuong-cua-www-tiengdong_com.mp3",
-      "duration_s": 2.27,
-      "bytes": 349611,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-chuong-cua",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chuong-cua-www-tiengdong_com.mp3",
-      "audit": "FIXED (wp-audio-shortcode): replaced wrong sidebar mp3 Tong-hop-cac-tieng-chuong-cua-hay-nhat-www_tiengdong_com.mp3 with page main player mp3",
+      "name": "Cash Register sound effect",
+      "slug": "cash-register-sound-effect",
+      "file": "cash-register-sound-effect.mp3",
+      "duration_s": 3.09,
+      "bytes": 385503,
+      "viral": true,
+      "viral_note": "Tieng may tinh tien 'ching' kinh dien, dung nhieu trong meme/kiem tien; 1.135 luot tai.",
+      "source_url": "https://tiengdong.com/cash-register-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/cash-register-sound-effect-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay tieng-chuong-cua; MP3 từ player chính tiengdong, ffprobe 3.09s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "chuong"
+        "máy tính tiền",
+        "tiền",
+        "ching"
       ],
       "tags_ascii": [
-        "chuong"
+        "may tinh tien",
+        "tien",
+        "ching"
       ],
-      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Gia đình/Thành phố/Đời sống; chọn theo nội dung tên file.",
+      "use_case_vi": "Dùng khi nhắc tới tiền, bán hàng hoặc chốt đơn.",
       "group": "Gia đình/Thành phố/Đời sống",
       "group_slug": "gia-dinh-doi-song"
     },

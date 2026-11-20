@@ -4,28 +4,28 @@
   "count": 25,
   "items": [
     {
-      "name": "Âm thanh thông báo MP3",
-      "slug": "am-thanh-thong-bao",
-      "file": "am-thanh-thong-bao-www_tiengdong_com.mp3",
-      "duration_s": 1.23,
-      "bytes": 279969,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-thong-bao",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Hiệu ứng âm thanh tắt TV",
+      "slug": "am-thanh-tat-tv",
+      "file": "am-thanh-tat-tv.mp3",
+      "duration_s": 0.61,
+      "bytes": 16537,
+      "viral": true,
+      "viral_note": "Mo ta ghi 'hieu ung am thanh meme noi tieng duoc nhieu nguoi yeu thich'; 526 luot tai. Tieng tat TV generic, khong IP.",
+      "source_url": "https://tiengdong.com/am-thanh-tat-tv",
+      "source_mp3": "https://tiengdong.com/download/?file=true&id=68935.68823",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-20, Tony duyệt 20/11): thay am-thanh-thong-bao; MP3 từ player chính tiengdong, ffprobe 0.61s, chưa nghe thủ công. Đã cắt 0.89s im đầu (gốc 1.5s), duration sau cắt 0.61s.",
       "kind": "original",
       "tags": [
-        "thông báo",
-        "kết nối",
-        "loa"
+        "tắt tv",
+        "tivi",
+        "công nghệ"
       ],
       "tags_ascii": [
-        "thong bao",
-        "ket noi",
-        "loa"
+        "tat tv",
+        "tivi",
+        "cong nghe"
       ],
-      "use_case_vi": "Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị.",
+      "use_case_vi": "Dùng khi tắt màn hình, kết thúc cảnh hoặc chuyển sang im lặng.",
       "group": "Công nghệ/UI",
       "group_slug": "cong-nghe-ui"
     },

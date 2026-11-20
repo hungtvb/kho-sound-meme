@@ -380,24 +380,28 @@
       "group_slug": "gia-dinh-doi-song"
     },
     {
-      "name": "Âm thanh tiếng Chuông Cửa",
-      "slug": "tieng-chuong-cua",
-      "file": "Tieng-chuong-cua-www-tiengdong_com.mp3",
-      "duration_s": 2.27,
-      "bytes": 349611,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-chuong-cua",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-chuong-cua-www-tiengdong_com.mp3",
-      "audit": "FIXED (wp-audio-shortcode): replaced wrong sidebar mp3 Tong-hop-cac-tieng-chuong-cua-hay-nhat-www_tiengdong_com.mp3 with page main player mp3",
+      "name": "Cash Register sound effect",
+      "slug": "cash-register-sound-effect",
+      "file": "cash-register-sound-effect.mp3",
+      "duration_s": 3.09,
+      "bytes": 385503,
+      "viral": true,
+      "viral_note": "Tieng may tinh tien 'ching' kinh dien, dung nhieu trong meme/kiem tien; 1.135 luot tai.",
+      "source_url": "https://tiengdong.com/cash-register-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/cash-register-sound-effect-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay tieng-chuong-cua; MP3 từ player chính tiengdong, ffprobe 3.09s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "chuong"
+        "máy tính tiền",
+        "tiền",
+        "ching"
       ],
       "tags_ascii": [
-        "chuong"
+        "may tinh tien",
+        "tien",
+        "ching"
       ],
-      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Gia đình/Thành phố/Đời sống; chọn theo nội dung tên file.",
+      "use_case_vi": "Dùng khi nhắc tới tiền, bán hàng hoặc chốt đơn.",
       "group": "Gia đình/Thành phố/Đời sống",
       "group_slug": "gia-dinh-doi-song"
     },

@@ -183,28 +183,28 @@
       "group_slug": "meme-punch"
     },
     {
-      "name": "Ding sound effect",
-      "slug": "ding-sound-effect",
-      "file": "Ding-sound-effect-www_tiengdong_com.mp3",
-      "duration_s": 2.95,
-      "bytes": 82576,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/ding-sound-effect",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Ding-sound-effect-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Knife sound effect",
+      "slug": "knife-sound-effect",
+      "file": "knife-sound-effect.mp3",
+      "duration_s": 0.61,
+      "bytes": 285952,
+      "viral": true,
+      "viral_note": "Sting chem dao ngan 0.61s, dung lam diem nhan meme; chi 163 luot tai - yeu nhat trong 7 ung vien, chi nen lay neu Tony muon them sting ngan.",
+      "source_url": "https://tiengdong.com/knife-sound-effect",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/knife-sound-effect-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay ding-sound-effect; MP3 từ player chính tiengdong, ffprobe 0.61s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "ding",
-        "sound",
-        "effect"
+        "dao",
+        "chém",
+        "sting"
       ],
       "tags_ascii": [
-        "ding",
-        "sound",
-        "effect"
+        "dao",
+        "chem",
+        "sting"
       ],
-      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file.",
+      "use_case_vi": "Dùng làm sting ngắn nhấn một câu nói sắc hoặc điểm nhấn meme.",
       "group": "Meme punch/fail/dramatic",
       "group_slug": "meme-punch"
     },
@@ -279,52 +279,54 @@
       "group_slug": "meme-punch"
     },
     {
-      "name": "Hiệu ứng âm thanh Bất Ngờ",
-      "slug": "am-thanh-bat-ngo",
-      "file": "am-thanh-bat-ngo-www_tiengdong_com.mp3",
-      "duration_s": 0.929,
-      "bytes": 61961,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-bat-ngo",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-bat-ngo-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'bruh-sound-effect' bi BO theo copyright-audit (c: Clip giong noi 'bruh' cua nguoi that, cat ra tu video goc; file khong ghi nguon goc/tac gia - khong chac, bo cho an toan); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "name": "Âm thanh tiếng Uỳnh",
+      "slug": "tieng-uynh",
+      "file": "tieng-uynh.mp3",
+      "duration_s": 2.7,
+      "bytes": 89705,
+      "viral": true,
+      "viral_note": "Tieng 'uynh' bat ngo/hai huoc dung long tieng video hai; 2.783 luot tai.",
+      "source_url": "https://tiengdong.com/tieng-uynh",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-uynh-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay am-thanh-bat-ngo; MP3 từ player chính tiengdong, ffprobe 2.7s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "sốc",
+        "uỳnh",
         "bất ngờ",
-        "gây sốc"
+        "meme"
       ],
       "tags_ascii": [
-        "soc",
+        "uynh",
         "bat ngo",
-        "gay soc"
+        "meme"
       ],
-      "use_case_vi": "Dùng khi nhân vật sốc hoặc nghe tin bất ngờ.",
+      "use_case_vi": "Dùng nhấn một cú bất ngờ hoặc chuyển cảnh hài.",
       "group": "Meme punch/fail/dramatic",
       "group_slug": "meme-punch"
     },
     {
-      "name": "Hiệu ứng tiếng Còi hoạt hình",
-      "slug": "tieng-coi-hoat-hinh",
-      "file": "Tieng-coi-hoat-hinh-www_tiengdong_com.mp3",
-      "duration_s": 1.56,
-      "bytes": 71969,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-coi-hoat-hinh",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-coi-hoat-hinh-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'oof-sound-effect' bi BO theo copyright-audit (a: Roblox OOF - am thanh co ban quyen goc cua game Roblox; viral_note ghi 'Roblox OOF'.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "name": "Tiếng Điện Nổ (âm thanh thực)",
+      "slug": "tieng-dien-no",
+      "file": "tieng-dien-no.mp3",
+      "duration_s": 5.85,
+      "bytes": 311593,
+      "viral": true,
+      "viral_note": "Tieng dien giat/no dien mo phong; chi 587 luot tai - yeu hon cac ung vien primary; trung lap phan nao voi boom/bom-no trong kho.",
+      "source_url": "https://tiengdong.com/tieng-dien-no",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/tieng-dien-no-am-thanh-thuc-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-20 (daily-scan 2026-11-19, Tony duyệt 20/11): thay tieng-coi-hoat-hinh; MP3 từ player chính tiengdong, ffprobe 5.85s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
-        "hoat",
-        "hinh"
+        "điện nổ",
+        "nổ",
+        "giật điện"
       ],
       "tags_ascii": [
-        "hoat",
-        "hinh"
+        "dien no",
+        "no",
+        "giat dien"
       ],
-      "use_case_vi": "Hiệu ứng âm thanh thuộc nhóm Meme punch/fail/dramatic; chọn theo nội dung tên file.",
+      "use_case_vi": "Dùng cho cảnh chập điện, nổ hoặc sự cố bất ngờ.",
       "group": "Meme punch/fail/dramatic",
       "group_slug": "meme-punch"
     },
