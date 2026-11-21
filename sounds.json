@@ -505,52 +505,56 @@
       "group_slug": "cuoi-reaction"
     },
     {
-      "name": "Tiếng cười Hehehe…",
-      "slug": "tieng-cuoi-hehehe",
-      "file": "Tieng-cuoi-hehehe-www_tiengdong_com.mp3",
-      "duration_s": 6.83,
-      "bytes": 62207,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-cuoi-hehehe",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-cuoi-hehehe-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Tiếng cười Bá Đạo",
+      "slug": "tieng-cuoi-ba-dao",
+      "file": "tieng-cuoi-ba-dao.mp3",
+      "duration_s": 5.98,
+      "bytes": 81622,
+      "viral": true,
+      "viral_note": "15.940 views / 1.861 tai, cao nhat dot quet hom nay. Mo ta: tieng cuoi dac y, cuoi sai quai ham, che bai hanh dong ngoc nghech — dung troll ban be.",
+      "source_url": "https://tiengdong.com/tieng-cuoi-ba-dao",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-cuoi-ba-dao-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-21 (daily-scan 2026-11-21, Tony duyệt 21/11): thay tieng-cuoi-hehehe; MP3 từ player chính tiengdong, ffprobe 5.98s, chưa nghe thủ công. Đã dùng file cắt sẵn của scan (đoạn 14,14–20,09s, gốc 22.78s), duration sau cắt 5.98s.",
       "kind": "original",
       "tags": [
         "tiếng cười",
-        "reaction",
-        "cười"
+        "bá đạo",
+        "cười",
+        "reaction"
       ],
       "tags_ascii": [
         "tieng cuoi",
-        "reaction",
-        "cuoi"
+        "ba dao",
+        "cuoi",
+        "reaction"
       ],
-      "use_case_vi": "Dùng chêm sau câu đùa hoặc làm phản ứng vui của nhân vật.",
+      "use_case_vi": "Dùng chêm sau câu đùa hoặc làm phản ứng cười bá đạo, troll bạn bè.",
       "group": "Cười/Reaction",
       "group_slug": "cuoi-reaction"
     },
     {
-      "name": "Hiệu ứng tiếng cười Giòn",
-      "slug": "tieng-cuoi-gion",
-      "file": "Tieng-cuoi-gion-www_tiengdong_com.mp3",
-      "duration_s": 2.28,
-      "bytes": 82839,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/tieng-cuoi-gion",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/Tieng-cuoi-gion-www_tiengdong_com.mp3",
-      "audit": "ok (wp-audio-shortcode)",
+      "name": "Âm thanh meme tiếng Cười",
+      "slug": "am-thanh-meme-tieng-cuoi",
+      "file": "am-thanh-meme-tieng-cuoi.mp3",
+      "duration_s": 6.78,
+      "bytes": 155584,
+      "viral": true,
+      "viral_note": "14.861 views / 1.265 tai. Mo ta ghi hieu ung meme cuoi pho bien, nhieu nguoi dung ghep video.",
+      "source_url": "https://tiengdong.com/am-thanh-meme-tieng-cuoi",
+      "source_mp3": "https://tiengdong.com/download/?file=true&id=44861.44807",
+      "audit": "REPLACE 2026-11-21 (daily-scan 2026-11-21, Tony duyệt 21/11): thay tieng-cuoi-gion; MP3 từ player chính tiengdong, ffprobe 6.78s, chưa nghe thủ công.",
       "kind": "original",
       "tags": [
         "tiếng cười",
-        "reaction"
+        "meme",
+        "cười"
       ],
       "tags_ascii": [
         "tieng cuoi",
-        "reaction"
+        "meme",
+        "cuoi"
       ],
-      "use_case_vi": "Dùng chêm sau câu đùa hoặc làm phản ứng vui của nhân vật.",
+      "use_case_vi": "Dùng chêm tiếng cười meme sau câu đùa hoặc phản ứng hài.",
       "group": "Cười/Reaction",
       "group_slug": "cuoi-reaction"
     },
@@ -1794,28 +1798,30 @@
       "group_slug": "cong-nghe-ui"
     },
     {
-      "name": "Âm thanh thông báo Hoạt Hình",
-      "slug": "am-thanh-thong-bao-hoat-hinh",
-      "file": "am-thanh-thong-bao-hoat-hinh-www_tiengdong_com.mp3",
-      "duration_s": 5.085,
-      "bytes": 320825,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-thong-bao-hoat-hinh",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-hoat-hinh-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-sac-pin-samsung-galaxy' bi BO theo copyright-audit (a: Am thanh sac pin Samsung Galaxy - am thanh thuong hieu Samsung.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "name": "Âm thanh Mở Nguồn máy tính",
+      "slug": "am-thanh-mo-nguon-may-tinh",
+      "file": "am-thanh-mo-nguon-may-tinh.mp3",
+      "duration_s": 3.53,
+      "bytes": 546303,
+      "viral": true,
+      "viral_note": "9.412 views / 920 tai. Tieng mo nguon may tinh generic, dung mo dau video cong nghe / unbox / khoi dong.",
+      "source_url": "https://tiengdong.com/am-thanh-mo-nguon-may-tinh",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-mo-nguon-may-tinh-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-21 (daily-scan 2026-11-21, Tony duyệt 21/11): thay am-thanh-thong-bao-hoat-hinh; MP3 từ player chính tiengdong, ffprobe 3.53s, chưa nghe thủ công. Đã cắt đuôi còn 3.53s (gốc 4.86s), duration sau cắt 3.53s.",
       "kind": "original",
       "tags": [
-        "thông báo",
-        "kết nối",
-        "loa"
+        "mở nguồn",
+        "máy tính",
+        "khởi động",
+        "công nghệ"
       ],
       "tags_ascii": [
-        "thong bao",
-        "ket noi",
-        "loa"
+        "mo nguon",
+        "may tinh",
+        "khoi dong",
+        "cong nghe"
       ],
-      "use_case_vi": "Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị.",
+      "use_case_vi": "Dùng mở đầu video công nghệ, unbox hoặc cảnh khởi động máy.",
       "group": "Công nghệ/UI",
       "group_slug": "cong-nghe-ui"
     },

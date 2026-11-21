@@ -108,28 +108,30 @@
       "group_slug": "cong-nghe-ui"
     },
     {
-      "name": "Âm thanh thông báo Hoạt Hình",
-      "slug": "am-thanh-thong-bao-hoat-hinh",
-      "file": "am-thanh-thong-bao-hoat-hinh-www_tiengdong_com.mp3",
-      "duration_s": 5.085,
-      "bytes": 320825,
-      "viral": false,
-      "viral_note": "",
-      "source_url": "https://tiengdong.com/am-thanh-thong-bao-hoat-hinh",
-      "source_mp3": "https://tiengdong.com/wp-content/uploads/am-thanh-thong-bao-hoat-hinh-www_tiengdong_com.mp3",
-      "audit": "REPLACEMENT 2026-11-18: thay 'am-thanh-sac-pin-samsung-galaxy' bi BO theo copyright-audit (a: Am thanh sac pin Samsung Galaxy - am thanh thuong hieu Samsung.); mp3 player chinh cua trang chi tiet tiengdong (wp-audio-shortcode).",
+      "name": "Âm thanh Mở Nguồn máy tính",
+      "slug": "am-thanh-mo-nguon-may-tinh",
+      "file": "am-thanh-mo-nguon-may-tinh.mp3",
+      "duration_s": 3.53,
+      "bytes": 546303,
+      "viral": true,
+      "viral_note": "9.412 views / 920 tai. Tieng mo nguon may tinh generic, dung mo dau video cong nghe / unbox / khoi dong.",
+      "source_url": "https://tiengdong.com/am-thanh-mo-nguon-may-tinh",
+      "source_mp3": "https://tiengdong.com/wp-content/uploads/Am-thanh-mo-nguon-may-tinh-www_tiengdong_com.mp3",
+      "audit": "REPLACE 2026-11-21 (daily-scan 2026-11-21, Tony duyệt 21/11): thay am-thanh-thong-bao-hoat-hinh; MP3 từ player chính tiengdong, ffprobe 3.53s, chưa nghe thủ công. Đã cắt đuôi còn 3.53s (gốc 4.86s), duration sau cắt 3.53s.",
       "kind": "original",
       "tags": [
-        "thông báo",
-        "kết nối",
-        "loa"
+        "mở nguồn",
+        "máy tính",
+        "khởi động",
+        "công nghệ"
       ],
       "tags_ascii": [
-        "thong bao",
-        "ket noi",
-        "loa"
+        "mo nguon",
+        "may tinh",
+        "khoi dong",
+        "cong nghe"
       ],
-      "use_case_vi": "Dùng cho thông báo hệ thống, tin nhắn đến hoặc kết nối thiết bị.",
+      "use_case_vi": "Dùng mở đầu video công nghệ, unbox hoặc cảnh khởi động máy.",
       "group": "Công nghệ/UI",
       "group_slug": "cong-nghe-ui"
     },
